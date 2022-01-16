@@ -1,0 +1,151 @@
+\subsection{背景}
+\subsubsection{発話訓練の現状}
+現状の発話訓練は音声を提示し, 学習者はその音声を真似することで訓練を行う手法が一般的である. 対して, 聴覚障害者など聴覚フィードバックができない場合は, この手法だと困難が生じることが考えられる. また健聴者も例えば外国語学習場面など, 自身の声と訓練音声の違いを比較しにくい際には同様の困難が生じる.
+この課題は, 視覚情報を用いて発話方法を提示することで解決が可能と推測される.
+
+音声を何らかの形で画像化・映像化しようという試みは, 特に 1990 年代から現在に至るまでで活発に行われている. 例えば, \cite{sirai_kobayashi}は発音過程における調音運動の可視化と音韻情報の色表示を試みている. また, \cite{kanato_kikuchi}は歌唱音声における声質を色彩と対応づけることで, 声質の心理的特徴と物理的特徴が想起される色との関連を調査している.
+中でも聴覚障がい者支援に注目した研究として, \cite{kasuya}では音声の可視化技術は聴覚障がい者の言語理解の補助手段として利用できる可能性を示唆し, サウンドスペクトログラムが可視化技術への第一歩との主張が述べられている.
+実際にサウンドスペクトログラムを用いて音声の読み取りを検証した研究として\cite{watanabe}では, サウンドスペクトログラムを設定した法則に基づいて映像化し, 健聴者 1 名に対し実験を行なっている. 実際の音声画像例を図\ref{watanabe:fig}に示す. この実験より, 視覚情報から音声を読み取ることが可能であると示している. ただし, この方法は視覚情報から音声を読み取ることが可能であることを示唆したものであり, 視覚から捉えた情報を基に調音運動を再現することが可能であることを示唆したものではない.
+したがって発話訓練のためには, 調音運動に基づく情報の提示をすること, また発話訓練者がその運動を再現できるかを検証することが必要と考えられる.
+
+\begin{figure}[hbtp]
+ \centering
+   \includegraphics[width=0.6\linewidth]{figures/watanabe.png}
+ \caption[音声画像の例]{音声画像の例. \cite{watanabe}より引用. サウンドスペクトログラムを設定した法則に基づいて画像化している. 健聴者1名を対象に実験を行なったところ, この画像から音声を読み取ることが可能であることが確認された. }
+ \label{watanabe:fig}
+\end{figure}
+
+\newpage
+調音運動を視覚化する方法の例としては、Alexander Melville Bell がビジブルスピーチという音声記号を発案している\cite{igarashi}. このビジブルスピーチとは, 図\ref{fig:vs}と表\ref{visiable_speech}のような音声記号であり, 聴覚障害者の発話訓練のために発案されたものである\cite{hattori}. 母音は舌位置と円唇性 (唇の突き出し) と口の開き度合いに, 子音は声帯運動の有無と調音位置と調音方法に注目した記号化がされている.
+このように, ビジブルスピーチは音声生理学的見地からは非常に有用性が高い音声記号であり, 画像から調音運動を読み取ることが可能であるため, 聴覚障害者の発話支援訓練に応用できると考えられる. しかし, それぞれの記号が何の音を示しているのかが直観的にわかりにくいという課題あり, 今まで実用化には至っていない. したがって, 調音運動を提示する際は模式図などを用いて分かりやすく表示する必要性が考えられる.
+
+\begin{figure}[hbtp]
+ \centering
+ \includegraphics[width=0.5\linewidth]{figures/visiable-speech.png}
+ \caption[ビジブルスピーチの概略図]{ビジブルスピーチの概略図 \cite{vs_png}より引用. 調音運動に注目した記号化がされている. 母音は舌位置と円唇性と口の開き度合いに, 子音は声帯運動の有無と調音位置と調音方法に注目した記号化がされている. }
+ \label{fig:vs}
+\end{figure}
+
+\begin{table}[hbtp]
+ \centering
+ \caption[ビジブルスピーチの構造]{ビジブルスピーチの構造: \subref{fig:vs_boin}母音, \subref{fig:vs_siin}子音. \cite{hattori}より引用. 母音は舌位置と円唇性と口の開き度合いに, 子音は声帯運動の有無と調音位置と調音方法に注目した記号化がされている. }
+ \subfloat[][母音]{\includegraphics[width=0.5\linewidth]{figures/vs-boin.png}\label{fig:vs_boin}} \quad
+ \subfloat[][子音]{\includegraphics[width=0.8\linewidth]{figures/vs-siin.png}\label{fig:vs_siin}}
+ \label{visiable_speech}
+\end{table}
+
+調音運動提示を模式図で提示したシステムの例としては, ATR CALL 発音チャレンジ\cite{ATRCALL_web}が挙げられる. 図\ref{ATRCALL}に示したシステム画面より, 調音運動を模式図によって提示していることが確認される.
+しかし, 実際の調音運動は同一音素でも発話者により異なる運動が必要になる. 模式図で存在する調音運動パターン全てを準備することは困難なため, 学習者が訓練すべき運動とは異なる運動の提示がなされうる.
+そこで, 実際の調音運動資料を用いた提示方法の検討が必要と推測される.
+
+\begin{figure}[hbtp]
+ \centering
+   \includegraphics[width=0.8\linewidth]{figures/atr_call.png}
+ \caption[既存の調音運動提示手法例]{既存の調音運動提示手法例 ATR CALL 発音チャレンジ. \cite{ATRCALL_web}より引用. 各音素で1つの調音運動パタンを表示している. 模式図で存在する調音運動パターン全てを準備することは困難なため, 学習者が訓練すべき運動とは異なる運動の提示がなされうる. }
+ \label{ATRCALL}
+\end{figure}
+
+\newpage
+\subsubsection{調音運動資料}
+実際の調音運動を撮像する方法としては, X線や核磁気共鳴画像法(MRI)を用いたものや, NDI Wave や EMA が挙げられる.
+NDI Wave と EMA はセンサーを顔や舌に直接つけることで計測を行うため, 正確性が高いというメリットが挙げられるが, センサーを付けることで発話がしにくくなってしまうという欠点がある. 対して, X線を用いた計測を行うためセンサーをつける必要は無いが, X線は放射線の一種であり, 身体に被曝する可能性があることから, 現在では調音運動を撮像する方法としては用いられていない.
+MRIではこのような危険性が含まれていない上に, センサーを身体に直接つけることなく調音運動を計測することができる. MRIを高速に撮影することで動画化することも可能である. この動画化された資料は, real-time MRI (以下, rtMRI と記載) 資料と呼ばれる. このrtMRI資料はデータベース\cite{rtMRI}化されている.
+また, rtMRI のアノテーションツールとして MRI Vuewer ver 2.0 \cite{MRI_Vuewer}が開発されている. このアノテーションツールを用いることで, 運動が大きい部分を抜き出す, 任意の点をプロットするなど, 発話訓練のための調音運動提示に必要な分析が可能となる.
+したがって, MRI資料は他の調音運動計測手法と比較して, 安全性, 正確性が高い上に, 資料も豊富で多くの分析が可能と言える. そこで, 本稿では MRI 資料を用いた訓練手法の検討を行う.
+
+\subsubsection{課題}\label{section_kadai}
+実際の調音運動を撮像した資料を発話訓練に応用する際にも課題は顕在する.
+
+1つは, 同じ発話語に対して調音運動がどれだけ異なるのかを比較することで, 発話訓練場面でいくつの調音運動パターンを表示する必要があるかの検討が可能となるものの, 発話者により顔の大きさや背骨の傾きは異なるため, 加工を施していない生のデータでの比較が不可能な点である.
+\cite{honda_seikika}では前鼻棘を基準とした正規化が提案されている. これは, 図\ref{pca_pre}のように前鼻棘を基準として台形をプロットし, 図\ref{pca_pre2}のように台形の形状を異なるデータと同一に画像を変形させるという手法である.
+この手法では前鼻棘の位置の正規化は可能となる一方で, 発話者ごとの硬口蓋の厚さ・形状の違いの正規化は考慮していない. それゆえ, 硬口蓋ラインの正規化が不十分な可能性が示唆される.
+
+\begin{figure}[hbtp]
+ \centering
+   \includegraphics[width=0.5\linewidth]{figures/pre_seikika.png}
+ \caption[正規化処理の先行研究手法]{正規化処理の先行研究手法. \cite{honda_seikika}より引用. 前棘鼻を基準とした台形をプロットし, その台形の形状を異なるデータと合わせることで, 正規化を可能としている. }
+ \label{pca_pre}
+\end{figure}
+
+\begin{figure}[hbtp]
+ \centering
+   \includegraphics[width=0.7\linewidth]{figures/pre_seikika2.png}
+ \caption[先行研究手法における正規化結果]{先行研究手法における正規化結果. \cite{honda_seikika}より引用. (a) と (b) のデータにおける正規化を行っている. 2つのデータを重ね合わせた (c) より, 前棘鼻の位置は正規化できている一方で, 硬口蓋ラインには誤差が生じていることが確認できる.}
+ \label{pca_pre2}
+\end{figure}
+
+もう1つは, 生の調音運動資料では何処が重要な運動かを判別できない点である. それゆえ, 重要な運動を強調表示する画像処理が必要となるが, 重要な調音運動とは何処に当たるかを考える必要が生じる.
+重要な運動を提示している1つの例としては, 国際音声記号(IPA)\cite{ipa_doc}が挙げられる. IPAとは, あらゆる言語の音色を文字で表すことを目標に作成された音声記号である. 母音は舌の前後位置と口の開き具合と口唇の運動に, 子音は2つの調音器官により作られる調音点と調音方法に注目した分析がなされている(表\ref{ipa}参照). そこで, 本稿では IPA を基準として, 重要な調音運動を提示できているか否かの検討を行う.
+
+\begin{table}[hbtp]
+ \centering
+ \caption[国際音声記号]{国際音声記号.  \subref{ipa_boin}母音, \subref{ipa_siin}子音.\cite{ipa_doc}より引用. 母音は舌の前後位置と口の開き具合と口唇の運動に, 子音は2つの調音器官により作られる調音点と調音方法に注目した記号化がなされている. }
+ \subfloat[][母音]{\includegraphics[width=0.4\linewidth]{figures/ipa_vo.png}\label{ipa_boin}} \quad
+ \subfloat[][子音]{\includegraphics[width=0.8\linewidth]{figures/ipa_con.png}\label{ipa_siin}}
+ \label{ipa}
+\end{table}
+
+また, 調音運動の分析を行なった先行研究としては, \cite{opt_dokushin}では読唇のために唇付近の運動を, オプティカルフロー処理を用いて分析している. %これは, 口唇を撮影した動画を対象にオプティカルフロー処理をかけ, 口唇付近の筋肉の運動を検出し, 読唇をシステムで再現するものである.
+加えて, \cite{opt_face}ではオプティカルフローを用いて表情の分析を行なっている. これは, 顔を撮影した動画を対象にオプティカルフロー処理をかけ, 算出されたフロー成分を対象に主成分分析をおこない, どの運動が重要になり得るかを検討したものである. この主成分分析を用いた提示とは, ピクセル毎に時間変化分を規格化したフロー成分を対象に, フレーム毎かつピクセル毎に主成分負荷量を算出し, フロー成分の長さを算出された主成分負荷量によって重み付けして表示するというものである. 実際の出力結果を図\ref{pre_AU_taiou}に示す. 図\ref{pre_AU_taiou}は, 表\ref{pre_AU_table}に示した表情を表現する手法をまとめたAction Unit(AU)\cite{pre_AU}との対応づけより, 主成分毎にどの運動が重要になるかを考察したものである.
+\begin{figure}[htbp]
+  \begin{minipage}[b]{0.45\linewidth}
+    \centering
+    \includegraphics[keepaspectratio, width=0.8\linewidth]{figures/opt_face_pc1.png}
+    \subcaption{第1主成分の寄与ベクトル}
+  \end{minipage}
+  \begin{minipage}[b]{0.45\linewidth}
+    \centering
+    \includegraphics[keepaspectratio, width=0.8\linewidth]{figures/opt_face_pc2.png}
+    \subcaption{第2主成分の寄与ベクトル}
+  \end{minipage}
+  \caption[寄与ベクトルに対してのAUの対応づけ]{寄与ベクトルに対してのAUの対応づけ. \cite{opt_face}より引用. }
+  \label{pre_AU_taiou}
+\end{figure}
+\begin{table}[!ht]
+    \centering
+    \caption[AU表一覧]{AU表一覧. \cite{pre_AU}より引用. }
+    \begin{tabular}{|l|l|}
+    \hline
+        number & action \\ \hline
+        AU1 & Inner Brow Raiser(眉の内側を持ち上げる) \\ \hline
+        AU2 & Outer Brow Raiser(眉の外側を持ち上げる) \\ \hline
+        AU5 & Upper Lid Raiser(上瞼を上げる) \\ \hline
+        AU6 & Cheek Raiser(頬を持ち上げる) \\ \hline
+        AU9 & Nose Wrinkler(鼻に皺を寄せる) \\ \hline
+        AU10 & Upper Lip Raiser(上唇を上げる) \\ \hline
+        AU12 & Lip Corner Puller(唇の隅を引く) \\ \hline
+        AU16 & Jaw Drop(下顎を落とす) \\ \hline
+    \end{tabular}
+    \label{pre_AU_table}
+\end{table}
+さらに, \cite{opt_setsumei} では, オプティカルフロー処理は画像の濃淡変化から動きを検出可能であるという点において, 速度ベクトルが小さい動画資料にも有効であるとの記述がある.
+以上より, オプティカルフローはrtMRI資料における調音運動の検出にて有効であることが示唆される.
+一方で, rtMRI資料にオプティカルフローを応用する際には課題も顕在する. それは, rtMRI資料は\cite{opt_dokushin}や\cite{opt_face}のような身体外部を撮影した動画資料ではなく, 頭部全体を撮影したものである上に身体内部を撮像したもののため, 調音とは関係のない背骨や頭自体などの運動や, ノイズによる運動の誤検知が起こる可能性が考えられる.
+
+以上のように, 実際の調音運動資料を発話訓練に応用するためには, 正規化と調音運動表示における課題を解決する必要が生じる.
+
+\subsection{目標}\label{section_mokuhyou}
+図\ref{mokuhyou}のように, rtMRI 資料を用いた発話訓練手法の確立を目指す.
+この目的を達成するために, 次の2つのリサーチクエスチョンを設定した.
+
+\begin{enumerate}
+   \item 音素ごとの調音運動を比較するため, 背骨の傾きと顔の大きさの個人差を除去するためには, どの手法が適切か.
+   \item 学習者が調音運動資料の何処に注目すれば良いのかを確認できるようにするためには, どの手法が適切か.
+\end{enumerate}
+
+\begin{figure}[hbtp]
+ \centering
+   \includegraphics[width=0.8\linewidth]{figures/mokuhyou.png}
+ \caption[目標の概略図]{目標の概略図. 調音運動資料に画像処理を施すことで, 学習者は何処に注目すれば良いか, また音素ごとで動きがどう異なるのかの確認が可能となる. 例えば図からは, /o/ は /i/ よりも舌が後ろ向きに運動していることが読み取れる. }
+ \label{mokuhyou}
+\end{figure}
+
+\subsection{波及効果}
+本研究の成果は, 図\ref{siasyu_mokuhyou}のような調音運動提示を用いた発話訓練システムの提案の際に, 図内左上端の"調音運動資料の提示" 場面で役立つことが考えられる. また実際の調音運動資料を用いることで, 模式図では実現が難しかったユーザインターフェース整備の向上を目指せる.
+
+\begin{figure}[hbtp]
+ \centering
+   \includegraphics[width=\linewidth]{figures/saisyu_mokuhyou.png}
+ \caption[発話訓練システムの概略図]{発話訓練システムの概略図. ユーザは調音運動資料を手本に発話練習を行う. システムは, ユーザの音声から調音状態を推定し, フィードバックを表示する. ユーザはシステムから表示されたフィードバックを基に, 発話訓練を繰り返すという形態である. 本研究成果は特に, 図内の左上端の"調音運動資料の提示" 場面で役立つと考えられる. }
+ \label{siasyu_mokuhyou}
+\end{figure}
