@@ -1,0 +1,4798 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 364 
+tiers? <exists> 
+size = 7 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "IPU_R" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 191 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.51 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.51 
+            xmax = 3.0960126396282694 
+            text = "青ですか" 
+        intervals [3]:
+            xmin = 3.0960126396282694 
+            xmax = 3.8786690919470654 
+            text = "" 
+        intervals [4]:
+            xmin = 3.8786690919470654 
+            xmax = 10.626599494794737 
+            text = "までも青って言うとちょっとあれなんですけどまたラグビーの話んなっちゃうんですけどうちのチームがあのジャージが" 
+        intervals [5]:
+            xmin = 10.626599494794737 
+            xmax = 10.911866799845514 
+            text = "" 
+        intervals [6]:
+            xmin = 10.911866799845514 
+            xmax = 12.669 
+            text = "上から下まで全部青なんですよ" 
+        intervals [7]:
+            xmin = 12.669 
+            xmax = 13.925 
+            text = "" 
+        intervals [8]:
+            xmin = 13.925 
+            xmax = 14.569139941522131 
+            text = "真青で" 
+        intervals [9]:
+            xmin = 14.569139941522131 
+            xmax = 16.184 
+            text = "" 
+        intervals [10]:
+            xmin = 16.184 
+            xmax = 16.653 
+            text = "はいはい" 
+        intervals [11]:
+            xmin = 16.653 
+            xmax = 20.385 
+            text = "" 
+        intervals [12]:
+            xmin = 20.385 
+            xmax = 21.406 
+            text = "あーなるほどなるほど" 
+        intervals [13]:
+            xmin = 21.406 
+            xmax = 22.628 
+            text = "" 
+        intervals [14]:
+            xmin = 22.628 
+            xmax = 24.240851658898674 
+            text = "全く逆って言うはい" 
+        intervals [15]:
+            xmin = 24.240851658898674 
+            xmax = 27.247 
+            text = "" 
+        intervals [16]:
+            xmin = 27.247 
+            xmax = 28.056328311059172 
+            text = "そうですか" 
+        intervals [17]:
+            xmin = 28.056328311059172 
+            xmax = 28.656121106294137 
+            text = "" 
+        intervals [18]:
+            xmin = 28.656121106294137 
+            xmax = 31.413705055118307 
+            text = "ま青と赤がちょうど自分の好きな色っていう" 
+        intervals [19]:
+            xmin = 31.413705055118307 
+            xmax = 34.846 
+            text = "" 
+        intervals [20]:
+            xmin = 34.846 
+            xmax = 35.134092605595214 
+            text = "はい" 
+        intervals [21]:
+            xmin = 35.134092605595214 
+            xmax = 35.93137815048072 
+            text = "" 
+        intervals [22]:
+            xmin = 35.93137815048072 
+            xmax = 37.3577146757346 
+            text = "ま何の話でもないですけど" 
+        intervals [23]:
+            xmin = 37.3577146757346 
+            xmax = 49.407 
+            text = "" 
+        intervals [24]:
+            xmin = 49.407 
+            xmax = 50.138108563536264 
+            text = "あそうですよね" 
+        intervals [25]:
+            xmin = 50.138108563536264 
+            xmax = 55.6 
+            text = "" 
+        intervals [26]:
+            xmin = 55.6 
+            xmax = 57.542 
+            text = "去年夏とか海とか行きました" 
+        intervals [27]:
+            xmin = 57.542 
+            xmax = 62.75026825082082 
+            text = "" 
+        intervals [28]:
+            xmin = 62.75026825082082 
+            xmax = 63.533 
+            text = "あなるほど" 
+        intervals [29]:
+            xmin = 63.533 
+            xmax = 64.856 
+            text = "" 
+        intervals [30]:
+            xmin = 64.856 
+            xmax = 69.743 
+            text = "海は海には行ってないんですよねラグビー部で基本的に何か毎年海の日は" 
+        intervals [31]:
+            xmin = 69.743 
+            xmax = 70.278 
+            text = "" 
+        intervals [32]:
+            xmin = 70.278 
+            xmax = 72.15865611999666 
+            text = "海か川に行くっていうことなんですけど" 
+        intervals [33]:
+            xmin = 72.15865611999666 
+            xmax = 72.705 
+            text = "" 
+        intervals [34]:
+            xmin = 72.705 
+            xmax = 76.772 
+            text = "一昨年だからあの海に行ったんで今年川に行こうってことでみんなで川行ったんですけど" 
+        intervals [35]:
+            xmin = 76.772 
+            xmax = 81.442 
+            text = "" 
+        intervals [36]:
+            xmin = 81.442 
+            xmax = 81.827 
+            text = "はいはい" 
+        intervals [37]:
+            xmin = 81.827 
+            xmax = 82.731 
+            text = "" 
+        intervals [38]:
+            xmin = 82.731 
+            xmax = 83.333 
+            text = "あー" 
+        intervals [39]:
+            xmin = 83.333 
+            xmax = 83.852 
+            text = "" 
+        intervals [40]:
+            xmin = 83.852 
+            xmax = 85.509 
+            text = "飯能とかのあの辺ですか" 
+        intervals [41]:
+            xmin = 85.509 
+            xmax = 86.296 
+            text = "" 
+        intervals [42]:
+            xmin = 86.296 
+            xmax = 86.53 
+            text = "あ" 
+        intervals [43]:
+            xmin = 86.53 
+            xmax = 91.283 
+            text = "" 
+        intervals [44]:
+            xmin = 91.283 
+            xmax = 93.443 
+            text = "あそうですそうですあー分かります結構有名な" 
+        intervals [45]:
+            xmin = 93.443 
+            xmax = 95.083 
+            text = "" 
+        intervals [46]:
+            xmin = 95.083 
+            xmax = 96.8929007115811 
+            text = "バーベキューとかできますよね確か" 
+        intervals [47]:
+            xmin = 96.8929007115811 
+            xmax = 99.786 
+            text = "" 
+        intervals [48]:
+            xmin = 99.786 
+            xmax = 102.614 
+            text = "マグレットプレイスって大体どれぐらいなんですか規模って" 
+        intervals [49]:
+            xmin = 102.614 
+            xmax = 103.066 
+            text = "" 
+        intervals [50]:
+            xmin = 103.066 
+            xmax = 104.02 
+            text = "サークルの" 
+        intervals [51]:
+            xmin = 104.02 
+            xmax = 108.539 
+            text = "" 
+        intervals [52]:
+            xmin = 108.539 
+            xmax = 109.845 
+            text = "あそんなもんですか" 
+        intervals [53]:
+            xmin = 109.845 
+            xmax = 111.535 
+            text = "" 
+        intervals [54]:
+            xmin = 111.535 
+            xmax = 112.372 
+            text = "あなるほど" 
+        intervals [55]:
+            xmin = 112.372 
+            xmax = 114.464 
+            text = "" 
+        intervals [56]:
+            xmin = 114.464 
+            xmax = 114.883 
+            text = "はいはい" 
+        intervals [57]:
+            xmin = 114.883 
+            xmax = 118.23 
+            text = "" 
+        intervals [58]:
+            xmin = 118.23 
+            xmax = 118.73789970324098 
+            text = "はいはい" 
+        intervals [59]:
+            xmin = 118.73789970324098 
+            xmax = 121.377 
+            text = "" 
+        intervals [60]:
+            xmin = 121.377 
+            xmax = 122.82673107563546 
+            text = "あ一学年十人ぐらいってことですか" 
+        intervals [61]:
+            xmin = 122.82673107563546 
+            xmax = 123.753 
+            text = "" 
+        intervals [62]:
+            xmin = 123.753 
+            xmax = 124.473 
+            text = "あ全体で" 
+        intervals [63]:
+            xmin = 124.473 
+            xmax = 126.666 
+            text = "" 
+        intervals [64]:
+            xmin = 126.666 
+            xmax = 127.603 
+            text = "あ本当ですか" 
+        intervals [65]:
+            xmin = 127.603 
+            xmax = 128.356 
+            text = "" 
+        intervals [66]:
+            xmin = 128.356 
+            xmax = 130.78683914470733 
+            text = "あ全然結構でかいかと思ってましたね" 
+        intervals [67]:
+            xmin = 130.78683914470733 
+            xmax = 133.946 
+            text = "" 
+        intervals [68]:
+            xmin = 133.946 
+            xmax = 134.566 
+            text = "あー" 
+        intervals [69]:
+            xmin = 134.566 
+            xmax = 135.185 
+            text = "" 
+        intervals [70]:
+            xmin = 135.185 
+            xmax = 136.591 
+            text = "あツイッターとかってやってます" 
+        intervals [71]:
+            xmin = 136.591 
+            xmax = 137.243 
+            text = "" 
+        intervals [72]:
+            xmin = 137.243 
+            xmax = 137.8499743466767 
+            text = "あなるほど" 
+        intervals [73]:
+            xmin = 137.8499743466767 
+            xmax = 138.61068716014543 
+            text = "" 
+        intervals [74]:
+            xmin = 138.61068716014543 
+            xmax = 144.273 
+            text = "やツイッターで結構何かそのマグネット関連の人が結構ツイートしてるの見てるんで自分フォローしてるから" 
+        intervals [75]:
+            xmin = 144.273 
+            xmax = 147.219 
+            text = "" 
+        intervals [76]:
+            xmin = 147.219 
+            xmax = 148.01907502932121 
+            text = "これ言っちゃっていいんですかね" 
+        intervals [77]:
+            xmin = 148.01907502932121 
+            xmax = 149.9940025258266 
+            text = "" 
+        intervals [78]:
+            xmin = 149.9940025258266 
+            xmax = 150.616 
+            text = "えーと" 
+        intervals [79]:
+            xmin = 150.616 
+            xmax = 151.621 
+            text = "" 
+        intervals [80]:
+            xmin = 151.621 
+            xmax = 153.612 
+            text = "何すかスズリエさんですか" 
+        intervals [81]:
+            xmin = 153.612 
+            xmax = 155.504 
+            text = "" 
+        intervals [82]:
+            xmin = 155.504 
+            xmax = 156.45003020427762 
+            text = "は分かりますね" 
+        intervals [83]:
+            xmin = 156.45003020427762 
+            xmax = 158.098 
+            text = "" 
+        intervals [84]:
+            xmin = 158.098 
+            xmax = 159.80009240205342 
+            text = "会ったことはないですね" 
+        intervals [85]:
+            xmin = 159.80009240205342 
+            xmax = 163.437 
+            text = "" 
+        intervals [86]:
+            xmin = 163.437 
+            xmax = 164.14221638661533 
+            text = "あなるほど" 
+        intervals [87]:
+            xmin = 164.14221638661533 
+            xmax = 164.96 
+            text = "" 
+        intervals [88]:
+            xmin = 164.96 
+            xmax = 166.031 
+            text = "あこ一年生なんすか" 
+        intervals [89]:
+            xmin = 166.031 
+            xmax = 166.818 
+            text = "" 
+        intervals [90]:
+            xmin = 166.818 
+            xmax = 171.253 
+            text = "あと何か今の何かネット関連の担当の人っています何か男の人で" 
+        intervals [91]:
+            xmin = 171.253 
+            xmax = 172.04 
+            text = "" 
+        intervals [92]:
+            xmin = 172.04 
+            xmax = 173.278 
+            text = "四年生ですかね" 
+        intervals [93]:
+            xmin = 173.278 
+            xmax = 179.1974338045399 
+            text = "" 
+        intervals [94]:
+            xmin = 179.1974338045399 
+            xmax = 180.777 
+            text = "はいはいあ多分そこの人です" 
+        intervals [95]:
+            xmin = 180.777 
+            xmax = 181.463 
+            text = "" 
+        intervals [96]:
+            xmin = 181.463 
+            xmax = 182.13516490269797 
+            text = "はいたぶ" 
+        intervals [97]:
+            xmin = 182.13516490269797 
+            xmax = 183.036 
+            text = "" 
+        intervals [98]:
+            xmin = 183.036 
+            xmax = 186.26516686304265 
+            text = "多分その人もツイートしてるのは分かりますはい" 
+        intervals [99]:
+            xmin = 186.26516686304265 
+            xmax = 188.626 
+            text = "" 
+        intervals [100]:
+            xmin = 188.626 
+            xmax = 189.60059996825174 
+            text = "はいはいあー" 
+        intervals [101]:
+            xmin = 189.60059996825174 
+            xmax = 192.71387999521033 
+            text = "" 
+        intervals [102]:
+            xmin = 192.71387999521033 
+            xmax = 193.212 
+            text = "あ本当ですか" 
+        intervals [103]:
+            xmin = 193.212 
+            xmax = 194.69612203799906 
+            text = "" 
+        intervals [104]:
+            xmin = 194.69612203799906 
+            xmax = 196.777 
+            text = "多分多分知らないですね" 
+        intervals [105]:
+            xmin = 196.777 
+            xmax = 197.447 
+            text = "" 
+        intervals [106]:
+            xmin = 197.447 
+            xmax = 199.28694059619497 
+            text = "あれもう名前言っちゃっても大丈夫ですかそれ" 
+        intervals [107]:
+            xmin = 199.28694059619497 
+            xmax = 201.179 
+            text = "" 
+        intervals [108]:
+            xmin = 201.179 
+            xmax = 201.982 
+            text = "名前は" 
+        intervals [109]:
+            xmin = 201.982 
+            xmax = 204.46 
+            text = "" 
+        intervals [110]:
+            xmin = 204.46 
+            xmax = 204.68235906355977 
+            text = "あ" 
+        intervals [111]:
+            xmin = 204.68235906355977 
+            xmax = 205.38 
+            text = "" 
+        intervals [112]:
+            xmin = 205.38 
+            xmax = 206.97 
+            text = "分かります分かります" 
+        intervals [113]:
+            xmin = 206.97 
+            xmax = 208.627 
+            text = "" 
+        intervals [114]:
+            xmin = 208.627 
+            xmax = 210.99941036262712 
+            text = "フォローしてるかどうかは分かんないですけど" 
+        intervals [115]:
+            xmin = 210.99941036262712 
+            xmax = 211.3139358528113 
+            text = "" 
+        intervals [116]:
+            xmin = 211.3139358528113 
+            xmax = 211.924 
+            text = "何かあの" 
+        intervals [117]:
+            xmin = 211.924 
+            xmax = 212.912 
+            text = "" 
+        intervals [118]:
+            xmin = 212.912 
+            xmax = 213.565 
+            text = "何すか" 
+        intervals [119]:
+            xmin = 213.565 
+            xmax = 214.552 
+            text = "" 
+        intervals [120]:
+            xmin = 214.552 
+            xmax = 215.7365198464901 
+            text = "リストってあるじゃないですか" 
+        intervals [121]:
+            xmin = 215.7365198464901 
+            xmax = 216.527 
+            text = "" 
+        intervals [122]:
+            xmin = 216.527 
+            xmax = 220.41782946783616 
+            text = "はいはいその人科リストに多分で見たことあるかもしれないです" 
+        intervals [123]:
+            xmin = 220.41782946783616 
+            xmax = 221.833 
+            text = "" 
+        intervals [124]:
+            xmin = 221.833 
+            xmax = 224.193 
+            text = "あえっとブシドーキュウレイって言うんですけど" 
+        intervals [125]:
+            xmin = 224.193 
+            xmax = 226.619 
+            text = "" 
+        intervals [126]:
+            xmin = 226.619 
+            xmax = 227.67573927370614 
+            text = "ちょこちょこ" 
+        intervals [127]:
+            xmin = 227.67573927370614 
+            xmax = 228.20238660610758 
+            text = "" 
+        intervals [128]:
+            xmin = 228.20238660610758 
+            xmax = 229.05818852125992 
+            text = "ツイートしてるっていう" 
+        intervals [129]:
+            xmin = 229.05818852125992 
+            xmax = 237.197 
+            text = "" 
+        intervals [130]:
+            xmin = 237.197 
+            xmax = 237.699 
+            text = "あ本当ですか" 
+        intervals [131]:
+            xmin = 237.699 
+            xmax = 240.11 
+            text = "" 
+        intervals [132]:
+            xmin = 240.11 
+            xmax = 241.53558466423678 
+            text = "何かその辺曖昧ですよね結構" 
+        intervals [133]:
+            xmin = 241.53558466423678 
+            xmax = 241.81241902836368 
+            text = "" 
+        intervals [134]:
+            xmin = 241.81241902836368 
+            xmax = 243.63071746546981 
+            text = "もう何かリスト見とけばいいやみたいに" 
+        intervals [135]:
+            xmin = 243.63071746546981 
+            xmax = 249.97040440797738 
+            text = "" 
+        intervals [136]:
+            xmin = 249.97040440797738 
+            xmax = 251.658 
+            text = "最近多いですよねやってる人" 
+        intervals [137]:
+            xmin = 251.658 
+            xmax = 253.03841250171263 
+            text = "" 
+        intervals [138]:
+            xmin = 253.03841250171263 
+            xmax = 256.064715436827 
+            text = "人科はまーさすが一応情報科があるだけあってみたいな" 
+        intervals [139]:
+            xmin = 256.064715436827 
+            xmax = 263.5974864611195 
+            text = "" 
+        intervals [140]:
+            xmin = 263.5974864611195 
+            xmax = 264.1385718091857 
+            text = "確かに" 
+        intervals [141]:
+            xmin = 264.1385718091857 
+            xmax = 265.567 
+            text = "" 
+        intervals [142]:
+            xmin = 265.567 
+            xmax = 266.37 
+            text = "まーでも" 
+        intervals [143]:
+            xmin = 266.37 
+            xmax = 268.378 
+            text = "" 
+        intervals [144]:
+            xmin = 268.378 
+            xmax = 271.023 
+            text = "ですよね何かあのリツイートみたいなのまだしてないですよね多分" 
+        intervals [145]:
+            xmin = 271.023 
+            xmax = 277.584 
+            text = "" 
+        intervals [146]:
+            xmin = 277.584 
+            xmax = 278.01102941198576 
+            text = "なるほど" 
+        intervals [147]:
+            xmin = 278.01102941198576 
+            xmax = 278.5646981402395 
+            text = "" 
+        intervals [148]:
+            xmin = 278.5646981402395 
+            xmax = 280.02437024199946 
+            text = "大分ツイッター話題になりましたね" 
+        intervals [149]:
+            xmin = 280.02437024199946 
+            xmax = 282.856 
+            text = "" 
+        intervals [150]:
+            xmin = 282.856 
+            xmax = 285.19380264506157 
+            text = "まーツイッターも一応ロゴ青なんでいいんじゃないすか" 
+        intervals [151]:
+            xmin = 285.19380264506157 
+            xmax = 288.17372689548364 
+            text = "" 
+        intervals [152]:
+            xmin = 288.17372689548364 
+            xmax = 289.685 
+            text = "じゃ何か話変えましょうか" 
+        intervals [153]:
+            xmin = 289.685 
+            xmax = 293.58853503020373 
+            text = "" 
+        intervals [154]:
+            xmin = 293.58853503020373 
+            xmax = 294.237 
+            text = "青は" 
+        intervals [155]:
+            xmin = 294.237 
+            xmax = 302.957 
+            text = "" 
+        intervals [156]:
+            xmin = 302.957 
+            xmax = 303.62144387576774 
+            text = "んー" 
+        intervals [157]:
+            xmin = 303.62144387576774 
+            xmax = 309.98396054261474 
+            text = "" 
+        intervals [158]:
+            xmin = 309.98396054261474 
+            xmax = 310.372 
+            text = "はいはい" 
+        intervals [159]:
+            xmin = 310.372 
+            xmax = 314.138 
+            text = "" 
+        intervals [160]:
+            xmin = 314.138 
+            xmax = 315.4302273098036 
+            text = "あそそっちに行きますか" 
+        intervals [161]:
+            xmin = 315.4302273098036 
+            xmax = 318.205 
+            text = "" 
+        intervals [162]:
+            xmin = 318.205 
+            xmax = 321.753 
+            text = "海外は一応韓国とニュージーランドに行ったことありますね" 
+        intervals [163]:
+            xmin = 321.753 
+            xmax = 324.3746735871415 
+            text = "" 
+        intervals [164]:
+            xmin = 324.3746735871415 
+            xmax = 325.6055079914892 
+            text = "旅行ですね" 
+        intervals [165]:
+            xmin = 325.6055079914892 
+            xmax = 326.11513488908645 
+            text = "" 
+        intervals [166]:
+            xmin = 326.11513488908645 
+            xmax = 327.97747515684915 
+            text = "あでも一応ラグビー関連でですけど" 
+        intervals [167]:
+            xmin = 327.97747515684915 
+            xmax = 329.335 
+            text = "" 
+        intervals [168]:
+            xmin = 329.335 
+            xmax = 330.473 
+            text = "選抜で" 
+        intervals [169]:
+            xmin = 330.473 
+            xmax = 331.0769415190533 
+            text = "" 
+        intervals [170]:
+            xmin = 331.0769415190533 
+            xmax = 332.3226961576243 
+            text = "ニュージーランド遠征みたいな" 
+        intervals [171]:
+            xmin = 332.3226961576243 
+            xmax = 333.302 
+            text = "" 
+        intervals [172]:
+            xmin = 333.302 
+            xmax = 333.5118255853512 
+            text = "ま" 
+        intervals [173]:
+            xmin = 333.5118255853512 
+            xmax = 333.7446181188215 
+            text = "" 
+        intervals [174]:
+            xmin = 333.7446181188215 
+            xmax = 334.5625378310146 
+            text = "旅行も兼ねて" 
+        intervals [175]:
+            xmin = 334.5625378310146 
+            xmax = 335.461 
+            text = "" 
+        intervals [176]:
+            xmin = 335.461 
+            xmax = 335.829 
+            text = "はい" 
+        intervals [177]:
+            xmin = 335.829 
+            xmax = 338.139 
+            text = "" 
+        intervals [178]:
+            xmin = 338.139 
+            xmax = 338.691 
+            text = "あ本当ですか" 
+        intervals [179]:
+            xmin = 338.691 
+            xmax = 341.201 
+            text = "" 
+        intervals [180]:
+            xmin = 341.201 
+            xmax = 343.193 
+            text = "今年とか行ってもいいんじゃないすか" 
+        intervals [181]:
+            xmin = 343.193 
+            xmax = 346.189 
+            text = "" 
+        intervals [182]:
+            xmin = 346.189 
+            xmax = 346.674 
+            text = "はいはい" 
+        intervals [183]:
+            xmin = 346.674 
+            xmax = 347.595 
+            text = "" 
+        intervals [184]:
+            xmin = 347.595 
+            xmax = 348.951 
+            text = "みんな行きますよねこの時期に" 
+        intervals [185]:
+            xmin = 348.951 
+            xmax = 352.147 
+            text = "" 
+        intervals [186]:
+            xmin = 352.147 
+            xmax = 356.65985236842437 
+            text = "あまー確かにでも何か近くで韓国とかグアムとか" 
+        intervals [187]:
+            xmin = 356.65985236842437 
+            xmax = 357.236 
+            text = "" 
+        intervals [188]:
+            xmin = 357.236 
+            xmax = 358.357 
+            text = "その辺だったらまー" 
+        intervals [189]:
+            xmin = 358.357 
+            xmax = 359.077 
+            text = "" 
+        intervals [190]:
+            xmin = 359.077 
+            xmax = 362.474 
+            text = "意外と何か友達も行ってたんすけど十万円以内でみんな行けるんで" 
+        intervals [191]:
+            xmin = 362.474 
+            xmax = 364 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Event_R" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 222 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4209815407403792 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4209815407403792 
+            xmax = 1.85253977145822 
+            text = "breath" 
+        intervals [3]:
+            xmin = 1.85253977145822 
+            xmax = 12.842907018650768 
+            text = "" 
+        intervals [4]:
+            xmin = 12.842907018650768 
+            xmax = 13.084287046001425 
+            text = "breath" 
+        intervals [5]:
+            xmin = 13.084287046001425 
+            xmax = 14.569139941522131 
+            text = "" 
+        intervals [6]:
+            xmin = 14.569139941522131 
+            xmax = 15.008012718523325 
+            text = "breath" 
+        intervals [7]:
+            xmin = 15.008012718523325 
+            xmax = 16.65106912452791 
+            text = "" 
+        intervals [8]:
+            xmin = 16.65106912452791 
+            xmax = 17.046054623828987 
+            text = "breath" 
+        intervals [9]:
+            xmin = 17.046054623828987 
+            xmax = 19.328193064235194 
+            text = "" 
+        intervals [10]:
+            xmin = 19.328193064235194 
+            xmax = 20.030389507437103 
+            text = "breath" 
+        intervals [11]:
+            xmin = 20.030389507437103 
+            xmax = 21.60761499689151 
+            text = "" 
+        intervals [12]:
+            xmin = 21.60761499689151 
+            xmax = 22.207407792126475 
+            text = "breath" 
+        intervals [13]:
+            xmin = 22.207407792126475 
+            xmax = 22.434158726910425 
+            text = "" 
+        intervals [14]:
+            xmin = 22.434158726910425 
+            xmax = 22.595078745144196 
+            text = "breath" 
+        intervals [15]:
+            xmin = 22.595078745144196 
+            xmax = 24.240851658898674 
+            text = "" 
+        intervals [16]:
+            xmin = 24.240851658898674 
+            xmax = 24.628522611916395 
+            text = "breath" 
+        intervals [17]:
+            xmin = 24.628522611916395 
+            xmax = 28.268450153276415 
+            text = "" 
+        intervals [18]:
+            xmin = 28.268450153276415 
+            xmax = 28.539088365760488 
+            text = "breath" 
+        intervals [19]:
+            xmin = 28.539088365760488 
+            xmax = 31.413705055118307 
+            text = "" 
+        intervals [20]:
+            xmin = 31.413705055118307 
+            xmax = 32.876614311788956 
+            text = "breath" 
+        intervals [21]:
+            xmin = 32.876614311788956 
+            xmax = 33.61266697865774 
+            text = "" 
+        intervals [22]:
+            xmin = 33.61266697865774 
+            xmax = 33.934507015125284 
+            text = "breath" 
+        intervals [23]:
+            xmin = 33.934507015125284 
+            xmax = 35.156036244445275 
+            text = "" 
+        intervals [24]:
+            xmin = 35.156036244445275 
+            xmax = 35.5583362900297 
+            text = "breath" 
+        intervals [25]:
+            xmin = 35.5583362900297 
+            xmax = 37.372343768301306 
+            text = "" 
+        intervals [26]:
+            xmin = 37.372343768301306 
+            xmax = 37.855103823002615 
+            text = "laugh" 
+        intervals [27]:
+            xmin = 37.855103823002615 
+            xmax = 37.90630564698609 
+            text = "" 
+        intervals [28]:
+            xmin = 37.90630564698609 
+            xmax = 38.65238936788812 
+            text = "breath" 
+        intervals [29]:
+            xmin = 38.65238936788812 
+            xmax = 38.89105270548889 
+            text = "" 
+        intervals [30]:
+            xmin = 38.89105270548889 
+            xmax = 39.71028188922445 
+            text = "breath" 
+        intervals [31]:
+            xmin = 39.71028188922445 
+            xmax = 45.85909898777462 
+            text = "" 
+        intervals [32]:
+            xmin = 45.85909898777462 
+            xmax = 46.32722994990923 
+            text = "breath" 
+        intervals [33]:
+            xmin = 46.32722994990923 
+            xmax = 46.67832817151019 
+            text = "" 
+        intervals [34]:
+            xmin = 46.67832817151019 
+            xmax = 47.197660957628266 
+            text = "breath" 
+        intervals [35]:
+            xmin = 47.197660957628266 
+            xmax = 50.138108563536264 
+            text = "" 
+        intervals [36]:
+            xmin = 50.138108563536264 
+            xmax = 50.45263405372045 
+            text = "breath" 
+        intervals [37]:
+            xmin = 50.45263405372045 
+            xmax = 52.01523063260816 
+            text = "" 
+        intervals [38]:
+            xmin = 52.01523063260816 
+            xmax = 52.43215977075929 
+            text = "breath" 
+        intervals [39]:
+            xmin = 52.43215977075929 
+            xmax = 53.40499442644527 
+            text = "" 
+        intervals [40]:
+            xmin = 53.40499442644527 
+            xmax = 53.661003546362636 
+            text = "breath" 
+        intervals [41]:
+            xmin = 53.661003546362636 
+            xmax = 53.81460901831306 
+            text = "" 
+        intervals [42]:
+            xmin = 53.81460901831306 
+            xmax = 54.05598904566371 
+            text = "breath" 
+        intervals [43]:
+            xmin = 54.05598904566371 
+            xmax = 58.34691138824217 
+            text = "" 
+        intervals [44]:
+            xmin = 58.34691138824217 
+            xmax = 58.954018729760485 
+            text = "breath" 
+        intervals [45]:
+            xmin = 58.954018729760485 
+            xmax = 61.51410992893412 
+            text = "" 
+        intervals [46]:
+            xmin = 61.51410992893412 
+            xmax = 62.1577900018692 
+            text = "breath" 
+        intervals [47]:
+            xmin = 62.1577900018692 
+            xmax = 77.56870404392816 
+            text = "" 
+        intervals [48]:
+            xmin = 77.56870404392816 
+            xmax = 77.86860044154564 
+            text = "breath" 
+        intervals [49]:
+            xmin = 77.86860044154564 
+            xmax = 78.47570778306397 
+            text = "" 
+        intervals [50]:
+            xmin = 78.47570778306397 
+            xmax = 78.99504056918205 
+            text = "breath" 
+        intervals [51]:
+            xmin = 78.99504056918205 
+            xmax = 80.3482316316024 
+            text = "" 
+        intervals [52]:
+            xmin = 80.3482316316024 
+            xmax = 80.75053167718683 
+            text = "breath" 
+        intervals [53]:
+            xmin = 80.75053167718683 
+            xmax = 81.11625899135448 
+            text = "" 
+        intervals [54]:
+            xmin = 81.11625899135448 
+            xmax = 81.3649535649885 
+            text = "breath" 
+        intervals [55]:
+            xmin = 81.3649535649885 
+            xmax = 85.58273044473343 
+            text = "" 
+        intervals [56]:
+            xmin = 85.58273044473343 
+            xmax = 86.10206323085151 
+            text = "breath" 
+        intervals [57]:
+            xmin = 86.10206323085151 
+            xmax = 94.36206769754088 
+            text = "" 
+        intervals [58]:
+            xmin = 94.36206769754088 
+            xmax = 94.85945684480889 
+            text = "breath" 
+        intervals [59]:
+            xmin = 94.85945684480889 
+            xmax = 96.95141708184792 
+            text = "" 
+        intervals [60]:
+            xmin = 96.95141708184792 
+            xmax = 97.46343532168265 
+            text = "breath" 
+        intervals [61]:
+            xmin = 97.46343532168265 
+            xmax = 104.53388525193533 
+            text = "" 
+        intervals [62]:
+            xmin = 104.53388525193533 
+            xmax = 104.93618529751977 
+            text = "breath" 
+        intervals [63]:
+            xmin = 104.93618529751977 
+            xmax = 106.2427727564901 
+            text = "" 
+        intervals [64]:
+            xmin = 106.2427727564901 
+            xmax = 106.82793645915835 
+            text = "breath" 
+        intervals [65]:
+            xmin = 106.82793645915835 
+            xmax = 109.90004589816672 
+            text = "" 
+        intervals [66]:
+            xmin = 109.90004589816672 
+            xmax = 110.24382957348432 
+            text = "breath" 
+        intervals [67]:
+            xmin = 110.24382957348432 
+            xmax = 112.44279167902374 
+            text = "" 
+        intervals [68]:
+            xmin = 112.44279167902374 
+            xmax = 112.77926080805798 
+            text = "breath" 
+        intervals [69]:
+            xmin = 112.77926080805798 
+            xmax = 113.84718456542757 
+            text = "" 
+        intervals [70]:
+            xmin = 113.84718456542757 
+            xmax = 114.14708096304506 
+            text = "breath" 
+        intervals [71]:
+            xmin = 114.14708096304506 
+            xmax = 115.09797197988097 
+            text = "" 
+        intervals [72]:
+            xmin = 115.09797197988097 
+            xmax = 115.4856429328987 
+            text = "breath" 
+        intervals [73]:
+            xmin = 115.4856429328987 
+            xmax = 118.73789970324098 
+            text = "" 
+        intervals [74]:
+            xmin = 118.73789970324098 
+            xmax = 119.15482884139213 
+            text = "breath" 
+        intervals [75]:
+            xmin = 119.15482884139213 
+            xmax = 130.78683914470733 
+            text = "" 
+        intervals [76]:
+            xmin = 130.78683914470733 
+            xmax = 131.0428482646247 
+            text = "breath" 
+        intervals [77]:
+            xmin = 131.0428482646247 
+            xmax = 131.83281926322684 
+            text = "" 
+        intervals [78]:
+            xmin = 131.83281926322684 
+            xmax = 132.16197384597774 
+            text = "breath" 
+        intervals [79]:
+            xmin = 132.16197384597774 
+            xmax = 132.72519390979593 
+            text = "" 
+        intervals [80]:
+            xmin = 132.72519390979593 
+            xmax = 133.30304306618086 
+            text = "breath" 
+        intervals [81]:
+            xmin = 133.30304306618086 
+            xmax = 137.8646034392434 
+            text = "" 
+        intervals [82]:
+            xmin = 137.8646034392434 
+            xmax = 138.2376452996944 
+            text = "breath" 
+        intervals [83]:
+            xmin = 138.2376452996944 
+            xmax = 138.29616166996124 
+            text = "" 
+        intervals [84]:
+            xmin = 138.29616166996124 
+            xmax = 138.57411442872868 
+            text = "breath" 
+        intervals [85]:
+            xmin = 138.57411442872868 
+            xmax = 144.6497858824453 
+            text = "" 
+        intervals [86]:
+            xmin = 144.6497858824453 
+            xmax = 145.16180412228002 
+            text = "breath" 
+        intervals [87]:
+            xmin = 145.16180412228002 
+            xmax = 145.52021689016433 
+            text = "" 
+        intervals [88]:
+            xmin = 145.52021689016433 
+            xmax = 146.0249205837157 
+            text = "breath" 
+        intervals [89]:
+            xmin = 146.0249205837157 
+            xmax = 146.9172952302848 
+            text = "" 
+        intervals [90]:
+            xmin = 146.9172952302848 
+            xmax = 147.14404616506874 
+            text = "breath" 
+        intervals [91]:
+            xmin = 147.14404616506874 
+            xmax = 148.01907502932121 
+            text = "" 
+        intervals [92]:
+            xmin = 148.01907502932121 
+            xmax = 148.50183508402253 
+            text = "laugh" 
+        intervals [93]:
+            xmin = 148.50183508402253 
+            xmax = 149.92817160927643 
+            text = "breath" 
+        intervals [94]:
+            xmin = 149.92817160927643 
+            xmax = 154.49244849008886 
+            text = "" 
+        intervals [95]:
+            xmin = 154.49244849008886 
+            xmax = 154.87280489682323 
+            text = "breath" 
+        intervals [96]:
+            xmin = 154.87280489682323 
+            xmax = 156.45003020427762 
+            text = "" 
+        intervals [97]:
+            xmin = 156.45003020427762 
+            xmax = 156.90353207384553 
+            text = "breath" 
+        intervals [98]:
+            xmin = 156.90353207384553 
+            xmax = 159.80009240205342 
+            text = "" 
+        intervals [99]:
+            xmin = 159.80009240205342 
+            xmax = 160.24627972533798 
+            text = "breath" 
+        intervals [100]:
+            xmin = 160.24627972533798 
+            xmax = 164.14221638661533 
+            text = "" 
+        intervals [101]:
+            xmin = 164.14221638661533 
+            xmax = 164.44211278423282 
+            text = "breath" 
+        intervals [102]:
+            xmin = 164.44211278423282 
+            xmax = 166.48287119728838 
+            text = "" 
+        intervals [103]:
+            xmin = 166.48287119728838 
+            xmax = 166.73888031720574 
+            text = "breath" 
+        intervals [104]:
+            xmin = 166.73888031720574 
+            xmax = 171.6661678224359 
+            text = "" 
+        intervals [105]:
+            xmin = 171.6661678224359 
+            xmax = 171.8709751183698 
+            text = "breath" 
+        intervals [106]:
+            xmin = 171.8709751183698 
+            xmax = 180.77465929399426 
+            text = "" 
+        intervals [107]:
+            xmin = 180.77465929399426 
+            xmax = 180.93557931222804 
+            text = "breath" 
+        intervals [108]:
+            xmin = 180.93557931222804 
+            xmax = 182.68375587394948 
+            text = "" 
+        intervals [109]:
+            xmin = 182.68375587394948 
+            xmax = 182.92513590130014 
+            text = "breath" 
+        intervals [110]:
+            xmin = 182.92513590130014 
+            xmax = 186.86495965827763 
+            text = "" 
+        intervals [111]:
+            xmin = 186.86495965827763 
+            xmax = 187.5086397312127 
+            text = "breath" 
+        intervals [112]:
+            xmin = 187.5086397312127 
+            xmax = 189.60059996825174 
+            text = "" 
+        intervals [113]:
+            xmin = 189.60059996825174 
+            xmax = 190.08336002295306 
+            text = "breath" 
+        intervals [114]:
+            xmin = 190.08336002295306 
+            xmax = 190.33936914287042 
+            text = "" 
+        intervals [115]:
+            xmin = 190.33936914287042 
+            xmax = 191.08545286377245 
+            text = "breath" 
+        intervals [116]:
+            xmin = 191.08545286377245 
+            xmax = 193.70865828974638 
+            text = "" 
+        intervals [117]:
+            xmin = 193.70865828974638 
+            xmax = 194.36696745524816 
+            text = "breath" 
+        intervals [118]:
+            xmin = 194.36696745524816 
+            xmax = 199.33814242017846 
+            text = "" 
+        intervals [119]:
+            xmin = 199.33814242017846 
+            xmax = 199.76970065089628 
+            text = "laugh" 
+        intervals [120]:
+            xmin = 199.76970065089628 
+            xmax = 200.38412253869797 
+            text = "" 
+        intervals [121]:
+            xmin = 200.38412253869797 
+            xmax = 200.78642258428238 
+            text = "breath" 
+        intervals [122]:
+            xmin = 200.78642258428238 
+            xmax = 207.84955760425174 
+            text = "" 
+        intervals [123]:
+            xmin = 207.84955760425174 
+            xmax = 208.50786676975355 
+            text = "breath" 
+        intervals [124]:
+            xmin = 208.50786676975355 
+            xmax = 213.6765343023344 
+            text = "" 
+        intervals [125]:
+            xmin = 213.6765343023344 
+            xmax = 214.16660890331906 
+            text = "breath" 
+        intervals [126]:
+            xmin = 214.16660890331906 
+            xmax = 215.7365198464901 
+            text = "" 
+        intervals [127]:
+            xmin = 215.7365198464901 
+            xmax = 216.04373079039092 
+            text = "breath" 
+        intervals [128]:
+            xmin = 216.04373079039092 
+            xmax = 220.75429859687043 
+            text = "" 
+        intervals [129]:
+            xmin = 220.75429859687043 
+            xmax = 221.34677684582203 
+            text = "breath" 
+        intervals [130]:
+            xmin = 221.34677684582203 
+            xmax = 224.30645140083018 
+            text = "" 
+        intervals [131]:
+            xmin = 224.30645140083018 
+            xmax = 224.6356059835811 
+            text = "breath" 
+        intervals [132]:
+            xmin = 224.6356059835811 
+            xmax = 226.23017561735213 
+            text = "" 
+        intervals [133]:
+            xmin = 226.23017561735213 
+            xmax = 226.46424109841942 
+            text = "breath" 
+        intervals [134]:
+            xmin = 226.46424109841942 
+            xmax = 227.80008656052317 
+            text = "" 
+        intervals [135]:
+            xmin = 227.80008656052317 
+            xmax = 228.14387023584075 
+            text = "breath" 
+        intervals [136]:
+            xmin = 228.14387023584075 
+            xmax = 229.05818852125992 
+            text = "" 
+        intervals [137]:
+            xmin = 229.05818852125992 
+            xmax = 229.40197219657753 
+            text = "breath" 
+        intervals [138]:
+            xmin = 229.40197219657753 
+            xmax = 237.89875847008406 
+            text = "" 
+        intervals [139]:
+            xmin = 237.89875847008406 
+            xmax = 239.23000589365435 
+            text = "breath" 
+        intervals [140]:
+            xmin = 239.23000589365435 
+            xmax = 243.66846760603258 
+            text = "" 
+        intervals [141]:
+            xmin = 243.66846760603258 
+            xmax = 243.97046873053463 
+            text = "breath" 
+        intervals [142]:
+            xmin = 243.97046873053463 
+            xmax = 246.86860119173747 
+            text = "" 
+        intervals [143]:
+            xmin = 246.86860119173747 
+            xmax = 249.917 
+            text = "breath" 
+        intervals [144]:
+            xmin = 249.917 
+            xmax = 252.89370362955538 
+            text = "" 
+        intervals [145]:
+            xmin = 252.89370362955538 
+            xmax = 253.03841250171263 
+            text = "breath" 
+        intervals [146]:
+            xmin = 253.03841250171263 
+            xmax = 256.064715436827 
+            text = "" 
+        intervals [147]:
+            xmin = 256.064715436827 
+            xmax = 256.5680506443304 
+            text = "breath" 
+        intervals [148]:
+            xmin = 256.5680506443304 
+            xmax = 262.40835703339263 
+            text = "" 
+        intervals [149]:
+            xmin = 262.40835703339263 
+            xmax = 262.72294153808224 
+            text = "breath" 
+        intervals [150]:
+            xmin = 262.72294153808224 
+            xmax = 262.8676504102395 
+            text = "" 
+        intervals [151]:
+            xmin = 262.8676504102395 
+            xmax = 263.125609704085 
+            text = "breath" 
+        intervals [152]:
+            xmin = 263.125609704085 
+            xmax = 264.1385718091857 
+            text = "" 
+        intervals [153]:
+            xmin = 264.1385718091857 
+            xmax = 264.6481987067829 
+            text = "breath" 
+        intervals [154]:
+            xmin = 264.6481987067829 
+            xmax = 264.81807433931533 
+            text = "" 
+        intervals [155]:
+            xmin = 264.81807433931533 
+            xmax = 265.1704089845677 
+            text = "breath" 
+        intervals [156]:
+            xmin = 265.1704089845677 
+            xmax = 267.6281227752051 
+            text = "" 
+        intervals [157]:
+            xmin = 267.6281227752051 
+            xmax = 268.20066657374025 
+            text = "breath" 
+        intervals [158]:
+            xmin = 268.20066657374025 
+            xmax = 271.1703442980105 
+            text = "" 
+        intervals [159]:
+            xmin = 271.1703442980105 
+            xmax = 271.42201190176223 
+            text = "breath" 
+        intervals [160]:
+            xmin = 271.42201190176223 
+            xmax = 274.99964671109467 
+            text = "" 
+        intervals [161]:
+            xmin = 274.99964671109467 
+            xmax = 275.22614755447125 
+            text = "breath" 
+        intervals [162]:
+            xmin = 275.22614755447125 
+            xmax = 278.0361961723609 
+            text = "" 
+        intervals [163]:
+            xmin = 278.0361961723609 
+            xmax = 278.48919785911403 
+            text = "breath" 
+        intervals [164]:
+            xmin = 278.48919785911403 
+            xmax = 280.1124539033126 
+            text = "" 
+        intervals [165]:
+            xmin = 280.1124539033126 
+            xmax = 280.83599826409875 
+            text = "breath" 
+        intervals [166]:
+            xmin = 280.83599826409875 
+            xmax = 281.7923351583553 
+            text = "" 
+        intervals [167]:
+            xmin = 281.7923351583553 
+            xmax = 282.22017008473324 
+            text = "breath" 
+        intervals [168]:
+            xmin = 282.22017008473324 
+            xmax = 282.37746233707804 
+            text = "" 
+        intervals [169]:
+            xmin = 282.37746233707804 
+            xmax = 282.71721360214286 
+            text = "breath" 
+        intervals [170]:
+            xmin = 282.71721360214286 
+            xmax = 285.19380264506157 
+            text = "" 
+        intervals [171]:
+            xmin = 285.19380264506157 
+            xmax = 285.62163757143946 
+            text = "breath" 
+        intervals [172]:
+            xmin = 285.62163757143946 
+            xmax = 286.5150575647581 
+            text = "" 
+        intervals [173]:
+            xmin = 286.5150575647581 
+            xmax = 286.7415584081346 
+            text = "breath" 
+        intervals [174]:
+            xmin = 286.7415584081346 
+            xmax = 286.89255897038566 
+            text = "" 
+        intervals [175]:
+            xmin = 286.89255897038566 
+            xmax = 287.7733955835167 
+            text = "breath" 
+        intervals [176]:
+            xmin = 287.7733955835167 
+            xmax = 291.21890490087947 
+            text = "" 
+        intervals [177]:
+            xmin = 291.21890490087947 
+            xmax = 292.6030767215139 
+            text = "breath" 
+        intervals [178]:
+            xmin = 292.6030767215139 
+            xmax = 292.88620277573455 
+            text = "" 
+        intervals [179]:
+            xmin = 292.88620277573455 
+            xmax = 293.3832462931442 
+            text = "breath" 
+        intervals [180]:
+            xmin = 293.3832462931442 
+            xmax = 295.7591681125623 
+            text = "" 
+        intervals [181]:
+            xmin = 295.7591681125623 
+            xmax = 295.94162712528225 
+            text = "breath" 
+        intervals [182]:
+            xmin = 295.94162712528225 
+            xmax = 296.76583852756914 
+            text = "" 
+        intervals [183]:
+            xmin = 296.76583852756914 
+            xmax = 297.1370482431029 
+            text = "breath" 
+        intervals [184]:
+            xmin = 297.1370482431029 
+            xmax = 303.62144387576774 
+            text = "" 
+        intervals [185]:
+            xmin = 303.62144387576774 
+            xmax = 303.8668197894257 
+            text = "breath" 
+        intervals [186]:
+            xmin = 303.8668197894257 
+            xmax = 312.223802216005 
+            text = "" 
+        intervals [187]:
+            xmin = 312.223802216005 
+            xmax = 312.53838672069463 
+            text = "breath" 
+        intervals [188]:
+            xmin = 312.53838672069463 
+            xmax = 313.69605769795254 
+            text = "" 
+        intervals [189]:
+            xmin = 313.69605769795254 
+            xmax = 314.02322558282975 
+            text = "breath" 
+        intervals [190]:
+            xmin = 314.02322558282975 
+            xmax = 315.4302273098036 
+            text = "" 
+        intervals [191]:
+            xmin = 315.4302273098036 
+            xmax = 315.6567281531802 
+            text = "breath" 
+        intervals [192]:
+            xmin = 315.6567281531802 
+            xmax = 315.9021040668381 
+            text = "" 
+        intervals [193]:
+            xmin = 315.9021040668381 
+            xmax = 316.2984805427471 
+            text = "breath" 
+        intervals [194]:
+            xmin = 316.2984805427471 
+            xmax = 327.97747515684915 
+            text = "" 
+        intervals [195]:
+            xmin = 327.97747515684915 
+            xmax = 328.15993416956917 
+            text = "breath" 
+        intervals [196]:
+            xmin = 328.15993416956917 
+            xmax = 330.71202349361334 
+            text = "" 
+        intervals [197]:
+            xmin = 330.71202349361334 
+            xmax = 330.8315656053954 
+            text = "breath" 
+        intervals [198]:
+            xmin = 330.8315656053954 
+            xmax = 332.3226961576243 
+            text = "" 
+        intervals [199]:
+            xmin = 332.3226961576243 
+            xmax = 332.7190726335333 
+            text = "breath" 
+        intervals [200]:
+            xmin = 332.7190726335333 
+            xmax = 333.5369923457264 
+            text = "" 
+        intervals [201]:
+            xmin = 333.5369923457264 
+            xmax = 333.6942845980712 
+            text = "breath" 
+        intervals [202]:
+            xmin = 333.6942845980712 
+            xmax = 334.5625378310146 
+            text = "" 
+        intervals [203]:
+            xmin = 334.5625378310146 
+            xmax = 334.8393721951415 
+            text = "breath" 
+        intervals [204]:
+            xmin = 334.8393721951415 
+            xmax = 334.99037275739255 
+            text = "" 
+        intervals [205]:
+            xmin = 334.99037275739255 
+            xmax = 335.2986655719884 
+            text = "breath" 
+        intervals [206]:
+            xmin = 335.2986655719884 
+            xmax = 338.9203422119774 
+            text = "" 
+        intervals [207]:
+            xmin = 338.9203422119774 
+            xmax = 339.1720098157291 
+            text = "breath" 
+        intervals [208]:
+            xmin = 339.1720098157291 
+            xmax = 340.09059656942287 
+            text = "" 
+        intervals [209]:
+            xmin = 340.09059656942287 
+            xmax = 340.2793472722367 
+            text = "breath" 
+        intervals [210]:
+            xmin = 340.2793472722367 
+            xmax = 343.193 
+            text = "" 
+        intervals [211]:
+            xmin = 343.193 
+            xmax = 343.64306461838015 
+            text = "breath" 
+        intervals [212]:
+            xmin = 343.64306461838015 
+            xmax = 344.8573608064822 
+            text = "" 
+        intervals [213]:
+            xmin = 344.8573608064822 
+            xmax = 345.2663206625787 
+            text = "breath" 
+        intervals [214]:
+            xmin = 345.2663206625787 
+            xmax = 346.89982305092923 
+            text = "" 
+        intervals [215]:
+            xmin = 346.89982305092923 
+            xmax = 347.34024135749473 
+            text = "breath" 
+        intervals [216]:
+            xmin = 347.34024135749473 
+            xmax = 348.9509140215057 
+            text = "" 
+        intervals [217]:
+            xmin = 348.9509140215057 
+            xmax = 349.3221237370395 
+            text = "breath" 
+        intervals [218]:
+            xmin = 349.3221237370395 
+            xmax = 356.65985236842437 
+            text = "" 
+        intervals [219]:
+            xmin = 356.65985236842437 
+            xmax = 356.9618534929264 
+            text = "breath" 
+        intervals [220]:
+            xmin = 356.9618534929264 
+            xmax = 358.4404006649678 
+            text = "" 
+        intervals [221]:
+            xmin = 358.4404006649678 
+            xmax = 358.950027562565 
+            text = "breath" 
+        intervals [222]:
+            xmin = 358.950027562565 
+            xmax = 364 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "IPU_L" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 315 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.121810273762429 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.121810273762429 
+            xmax = 2.336 
+            text = "青" 
+        intervals [3]:
+            xmin = 2.336 
+            xmax = 7.157 
+            text = "" 
+        intervals [4]:
+            xmin = 7.157 
+            xmax = 7.941 
+            text = "おーはい" 
+        intervals [5]:
+            xmin = 7.941 
+            xmax = 10.835851630772465 
+            text = "" 
+        intervals [6]:
+            xmin = 10.835851630772465 
+            xmax = 11.122 
+            text = "んー" 
+        intervals [7]:
+            xmin = 11.122 
+            xmax = 13.040506251509814 
+            text = "" 
+        intervals [8]:
+            xmin = 13.040506251509814 
+            xmax = 13.689 
+            text = "へー" 
+        intervals [9]:
+            xmin = 13.689 
+            xmax = 15.460013826856926 
+            text = "" 
+        intervals [10]:
+            xmin = 15.460013826856926 
+            xmax = 16.355 
+            text = "あそうなんですか" 
+        intervals [11]:
+            xmin = 16.355 
+            xmax = 17.305447240558617 
+            text = "" 
+        intervals [12]:
+            xmin = 17.305447240558617 
+            xmax = 17.62389001256951 
+            text = "何か" 
+        intervals [13]:
+            xmin = 17.62389001256951 
+            xmax = 17.957679424195387 
+            text = "" 
+        intervals [14]:
+            xmin = 17.957679424195387 
+            xmax = 18.84635969794796 
+            text = "イメージ的に" 
+        intervals [15]:
+            xmin = 18.84635969794796 
+            xmax = 19.283 
+            text = "" 
+        intervals [16]:
+            xmin = 19.283 
+            xmax = 21.370881914612642 
+            text = "早稲田だから明治かなとか思ってたんですけど" 
+        intervals [17]:
+            xmin = 21.370881914612642 
+            xmax = 23.441253438718892 
+            text = "" 
+        intervals [18]:
+            xmin = 23.441253438718892 
+            xmax = 24.538538171190165 
+            text = "ヘー青" 
+        intervals [19]:
+            xmin = 24.538538171190165 
+            xmax = 25.327465287445346 
+            text = "" 
+        intervals [20]:
+            xmin = 25.327465287445346 
+            xmax = 27.132 
+            text = "ヘー何か全然イメージになかったです" 
+        intervals [21]:
+            xmin = 27.132 
+            xmax = 27.575747991040338 
+            text = "" 
+        intervals [22]:
+            xmin = 27.575747991040338 
+            xmax = 28.283 
+            text = "青なんだ" 
+        intervals [23]:
+            xmin = 28.283 
+            xmax = 31.65126782088916 
+            text = "" 
+        intervals [24]:
+            xmin = 31.65126782088916 
+            xmax = 32.7370425736492 
+            text = "へーあ" 
+        intervals [25]:
+            xmin = 32.7370425736492 
+            xmax = 33.17058514277246 
+            text = "" 
+        intervals [26]:
+            xmin = 33.17058514277246 
+            xmax = 33.435314676130915 
+            text = "じゃ" 
+        intervals [27]:
+            xmin = 33.435314676130915 
+            xmax = 34.026 
+            text = "" 
+        intervals [28]:
+            xmin = 34.026 
+            xmax = 34.96088049390528 
+            text = "ちょうど良かったんですね" 
+        intervals [29]:
+            xmin = 34.96088049390528 
+            xmax = 38.83 
+            text = "" 
+        intervals [30]:
+            xmin = 38.83 
+            xmax = 39.521 
+            text = "いやいやいや" 
+        intervals [31]:
+            xmin = 39.521 
+            xmax = 39.923737197456695 
+            text = "" 
+        intervals [32]:
+            xmin = 39.923737197456695 
+            xmax = 40.35344310667622 
+            text = "青か" 
+        intervals [33]:
+            xmin = 40.35344310667622 
+            xmax = 40.953 
+            text = "" 
+        intervals [34]:
+            xmin = 40.953 
+            xmax = 41.233 
+            text = "青" 
+        intervals [35]:
+            xmin = 41.233 
+            xmax = 42.039 
+            text = "" 
+        intervals [36]:
+            xmin = 42.039 
+            xmax = 43.133596712975425 
+            text = "青って何でしょうね" 
+        intervals [37]:
+            xmin = 43.133596712975425 
+            xmax = 44.096 
+            text = "" 
+        intervals [38]:
+            xmin = 44.096 
+            xmax = 44.573 
+            text = "何だろ" 
+        intervals [39]:
+            xmin = 44.573 
+            xmax = 44.902 
+            text = "" 
+        intervals [40]:
+            xmin = 44.902 
+            xmax = 47.057 
+            text = "ぱっとイメージで湧くのは" 
+        intervals [41]:
+            xmin = 47.057 
+            xmax = 48.14909821924194 
+            text = "" 
+        intervals [42]:
+            xmin = 48.14909821924194 
+            xmax = 50.343578587189725 
+            text = "海とか空とかって感じですけど" 
+        intervals [43]:
+            xmin = 50.343578587189725 
+            xmax = 51.20682706553251 
+            text = "" 
+        intervals [44]:
+            xmin = 51.20682706553251 
+            xmax = 53.19279207175635 
+            text = "そっからそんな壮大なとこから" 
+        intervals [45]:
+            xmin = 53.19279207175635 
+            xmax = 54.067550529810376 
+            text = "" 
+        intervals [46]:
+            xmin = 54.067550529810376 
+            xmax = 55.55929882040924 
+            text = "拡げてくって大変ですよね" 
+        intervals [47]:
+            xmin = 55.55929882040924 
+            xmax = 58.50059214266577 
+            text = "" 
+        intervals [48]:
+            xmin = 58.50059214266577 
+            xmax = 58.97 
+            text = "去年" 
+        intervals [49]:
+            xmin = 58.97 
+            xmax = 60.11440113822628 
+            text = "" 
+        intervals [50]:
+            xmin = 60.11440113822628 
+            xmax = 61.635 
+            text = "あ去年は海は行ってないですけど" 
+        intervals [51]:
+            xmin = 61.635 
+            xmax = 61.931 
+            text = "" 
+        intervals [52]:
+            xmin = 61.931 
+            xmax = 62.654269994505945 
+            text = "プールは行きました" 
+        intervals [53]:
+            xmin = 62.654269994505945 
+            xmax = 63.281 
+            text = "" 
+        intervals [54]:
+            xmin = 63.281 
+            xmax = 64.70929487899721 
+            text = "はい行きました海とか" 
+        intervals [55]:
+            xmin = 64.70929487899721 
+            xmax = 67.97 
+            text = "" 
+        intervals [56]:
+            xmin = 67.97 
+            xmax = 68.25 
+            text = "おー" 
+        intervals [57]:
+            xmin = 68.25 
+            xmax = 71.76589945405647 
+            text = "" 
+        intervals [58]:
+            xmin = 71.76589945405647 
+            xmax = 72.495 
+            text = "ほー" 
+        intervals [59]:
+            xmin = 72.495 
+            xmax = 75.62656632929551 
+            text = "" 
+        intervals [60]:
+            xmin = 75.62656632929551 
+            xmax = 76.394 
+            text = "おー" 
+        intervals [61]:
+            xmin = 76.394 
+            xmax = 77.9746021903879 
+            text = "" 
+        intervals [62]:
+            xmin = 77.9746021903879 
+            xmax = 79.718 
+            text = "川あうちも川行きました" 
+        intervals [63]:
+            xmin = 79.718 
+            xmax = 80.00660711545669 
+            text = "" 
+        intervals [64]:
+            xmin = 80.00660711545669 
+            xmax = 80.36 
+            text = "そうだ" 
+        intervals [65]:
+            xmin = 80.36 
+            xmax = 80.63965599957473 
+            text = "" 
+        intervals [66]:
+            xmin = 80.63965599957473 
+            xmax = 81.38780468080515 
+            text = "サークルで" 
+        intervals [67]:
+            xmin = 81.38780468080515 
+            xmax = 81.725 
+            text = "" 
+        intervals [68]:
+            xmin = 81.725 
+            xmax = 82.44146133041878 
+            text = "川遊びして" 
+        intervals [69]:
+            xmin = 82.44146133041878 
+            xmax = 82.7790874019484 
+            text = "" 
+        intervals [70]:
+            xmin = 82.7790874019484 
+            xmax = 83.6845391392324 
+            text = "て感じで行きましたね" 
+        intervals [71]:
+            xmin = 83.6845391392324 
+            xmax = 85.74 
+            text = "" 
+        intervals [72]:
+            xmin = 85.74 
+            xmax = 88.55041090925285 
+            text = "そうですあのもっと奥かもしんないですねどこだっけ" 
+        intervals [73]:
+            xmin = 88.55041090925285 
+            xmax = 89.06452333635477 
+            text = "" 
+        intervals [74]:
+            xmin = 89.06452333635477 
+            xmax = 92.058 
+            text = "えーとあ長瀞です長瀞分かります" 
+        intervals [75]:
+            xmin = 92.058 
+            xmax = 93.292 
+            text = "" 
+        intervals [76]:
+            xmin = 93.292 
+            xmax = 93.6172138181845 
+            text = "はい" 
+        intervals [77]:
+            xmin = 93.6172138181845 
+            xmax = 93.92414661048416 
+            text = "" 
+        intervals [78]:
+            xmin = 93.92414661048416 
+            xmax = 94.96629328038655 
+            text = "あっちの方に行って" 
+        intervals [79]:
+            xmin = 94.96629328038655 
+            xmax = 96.204 
+            text = "" 
+        intervals [80]:
+            xmin = 96.204 
+            xmax = 97.78240164973592 
+            text = "はいできますできますやりました" 
+        intervals [81]:
+            xmin = 97.78240164973592 
+            xmax = 98.6058587051248 
+            text = "" 
+        intervals [82]:
+            xmin = 98.6058587051248 
+            xmax = 99.347 
+            text = "そうですね" 
+        intervals [83]:
+            xmin = 99.347 
+            xmax = 103.07030600916838 
+            text = "" 
+        intervals [84]:
+            xmin = 103.07030600916838 
+            xmax = 103.41560540050548 
+            text = "やすく" 
+        intervals [85]:
+            xmin = 103.41560540050548 
+            xmax = 103.63813167492275 
+            text = "" 
+        intervals [86]:
+            xmin = 103.63813167492275 
+            xmax = 103.95657444693364 
+            text = "多分" 
+        intervals [87]:
+            xmin = 103.95657444693364 
+            xmax = 104.22514064019583 
+            text = "" 
+        intervals [88]:
+            xmin = 104.22514064019583 
+            xmax = 106.044 
+            text = "少ないですよあの十" 
+        intervals [89]:
+            xmin = 106.044 
+            xmax = 106.89786776919016 
+            text = "" 
+        intervals [90]:
+            xmin = 106.89786776919016 
+            xmax = 108.23160059177724 
+            text = "十人" 
+        intervals [91]:
+            xmin = 108.23160059177724 
+            xmax = 108.94521933387394 
+            text = "" 
+        intervals [92]:
+            xmin = 108.94521933387394 
+            xmax = 111.4529700870072 
+            text = "十人ちょいぐらい十五六人ですかね" 
+        intervals [93]:
+            xmin = 111.4529700870072 
+            xmax = 112.856 
+            text = "" 
+        intervals [94]:
+            xmin = 112.856 
+            xmax = 114.3328768508038 
+            text = "で何か最初はやっぱり" 
+        intervals [95]:
+            xmin = 114.3328768508038 
+            xmax = 115.11 
+            text = "" 
+        intervals [96]:
+            xmin = 115.11 
+            xmax = 117.11303045710301 
+            text = "いるじゃないですか何か二十何か" 
+        intervals [97]:
+            xmin = 117.11303045710301 
+            xmax = 117.36625001075022 
+            text = "" 
+        intervals [98]:
+            xmin = 117.36625001075022 
+            xmax = 121.346 
+            text = "最初のその新歓の時期は結構いるんだけれどもだんだんいなくなって" 
+        intervals [99]:
+            xmin = 121.346 
+            xmax = 123.3178965335307 
+            text = "" 
+        intervals [100]:
+            xmin = 123.3178965335307 
+            xmax = 123.452 
+            text = "や" 
+        intervals [101]:
+            xmin = 123.452 
+            xmax = 124.32310142831209 
+            text = "" 
+        intervals [102]:
+            xmin = 124.32310142831209 
+            xmax = 126.13400490288006 
+            text = "全体でま二十人いない" 
+        intervals [103]:
+            xmin = 126.13400490288006 
+            xmax = 127.45239108585214 
+            text = "" 
+        intervals [104]:
+            xmin = 127.45239108585214 
+            xmax = 127.97034017285782 
+            text = "ぐらいですね" 
+        intervals [105]:
+            xmin = 127.97034017285782 
+            xmax = 130.41286752562743 
+            text = "" 
+        intervals [106]:
+            xmin = 130.41286752562743 
+            xmax = 131.284 
+            text = "あーそうですか" 
+        intervals [107]:
+            xmin = 131.284 
+            xmax = 131.90149156828076 
+            text = "" 
+        intervals [108]:
+            xmin = 131.90149156828076 
+            xmax = 132.35421689092277 
+            text = "結構" 
+        intervals [109]:
+            xmin = 132.35421689092277 
+            xmax = 132.72253624168235 
+            text = "" 
+        intervals [110]:
+            xmin = 132.72253624168235 
+            xmax = 133.62 
+            text = "案外少ないです" 
+        intervals [111]:
+            xmin = 133.62 
+            xmax = 134.509 
+            text = "" 
+        intervals [112]:
+            xmin = 134.509 
+            xmax = 134.756 
+            text = "はい" 
+        intervals [113]:
+            xmin = 134.756 
+            xmax = 136.64842578928506 
+            text = "" 
+        intervals [114]:
+            xmin = 136.64842578928506 
+            xmax = 137.30449463282557 
+            text = "やってます" 
+        intervals [115]:
+            xmin = 137.30449463282557 
+            xmax = 138.507 
+            text = "" 
+        intervals [116]:
+            xmin = 138.507 
+            xmax = 138.8161386349014 
+            text = "あやって" 
+        intervals [117]:
+            xmin = 138.8161386349014 
+            xmax = 139.36719247312433 
+            text = "" 
+        intervals [118]:
+            xmin = 139.36719247312433 
+            xmax = 139.58971874754158 
+            text = "はい" 
+        intervals [119]:
+            xmin = 139.58971874754158 
+            xmax = 142.02216112651635 
+            text = "" 
+        intervals [120]:
+            xmin = 142.02216112651635 
+            xmax = 142.637 
+            text = "おー" 
+        intervals [121]:
+            xmin = 142.637 
+            xmax = 144.37260845959608 
+            text = "" 
+        intervals [122]:
+            xmin = 144.37260845959608 
+            xmax = 144.875 
+            text = "おー" 
+        intervals [123]:
+            xmin = 144.875 
+            xmax = 145.237 
+            text = "" 
+        intervals [124]:
+            xmin = 145.237 
+            xmax = 146.46983642102853 
+            text = "え誰とか知ってます" 
+        intervals [125]:
+            xmin = 146.46983642102853 
+            xmax = 153.27295360545622 
+            text = "" 
+        intervals [126]:
+            xmin = 153.27295360545622 
+            xmax = 153.4302566615098 
+            text = "あ" 
+        intervals [127]:
+            xmin = 153.4302566615098 
+            xmax = 153.71416949438697 
+            text = "" 
+        intervals [128]:
+            xmin = 153.71416949438697 
+            xmax = 154.2359552412964 
+            text = "スズリー" 
+        intervals [129]:
+            xmin = 154.2359552412964 
+            xmax = 154.55056135340354 
+            text = "" 
+        intervals [130]:
+            xmin = 154.55056135340354 
+            xmax = 154.78 
+            text = "うん" 
+        intervals [131]:
+            xmin = 154.78 
+            xmax = 156.2449398429427 
+            text = "" 
+        intervals [132]:
+            xmin = 156.2449398429427 
+            xmax = 156.9944864661681 
+            text = "おー" 
+        intervals [133]:
+            xmin = 156.9944864661681 
+            xmax = 157.23096143820536 
+            text = "" 
+        intervals [134]:
+            xmin = 157.23096143820536 
+            xmax = 157.98678343924325 
+            text = "会ったことはない" 
+        intervals [135]:
+            xmin = 157.98678343924325 
+            xmax = 160.0456446196383 
+            text = "" 
+        intervals [136]:
+            xmin = 160.0456446196383 
+            xmax = 160.71322344289004 
+            text = "おー" 
+        intervals [137]:
+            xmin = 160.71322344289004 
+            xmax = 160.9932996158635 
+            text = "" 
+        intervals [138]:
+            xmin = 160.9932996158635 
+            xmax = 162.2171941251584 
+            text = "何かスズリーは" 
+        intervals [139]:
+            xmin = 162.2171941251584 
+            xmax = 162.7222080445364 
+            text = "" 
+        intervals [140]:
+            xmin = 162.7222080445364 
+            xmax = 163.34758360884695 
+            text = "後輩です" 
+        intervals [141]:
+            xmin = 163.34758360884695 
+            xmax = 164.07654899055862 
+            text = "" 
+        intervals [142]:
+            xmin = 164.07654899055862 
+            xmax = 164.817 
+            text = "一年生です" 
+        intervals [143]:
+            xmin = 164.817 
+            xmax = 165.919 
+            text = "" 
+        intervals [144]:
+            xmin = 165.919 
+            xmax = 166.643 
+            text = "そうですそうです" 
+        intervals [145]:
+            xmin = 166.643 
+            xmax = 171.6165721674898 
+            text = "" 
+        intervals [146]:
+            xmin = 171.6165721674898 
+            xmax = 172.385 
+            text = "男" 
+        intervals [147]:
+            xmin = 172.385 
+            xmax = 173.373 
+            text = "" 
+        intervals [148]:
+            xmin = 173.373 
+            xmax = 173.553 
+            text = "あ" 
+        intervals [149]:
+            xmin = 173.553 
+            xmax = 174.179 
+            text = "" 
+        intervals [150]:
+            xmin = 174.179 
+            xmax = 176.3380926822698 
+            text = "四年生はいないですけど" 
+        intervals [151]:
+            xmin = 176.3380926822698 
+            xmax = 176.81350915149477 
+            text = "" 
+        intervals [152]:
+            xmin = 176.81350915149477 
+            xmax = 179.23 
+            text = "隣のこの松居研究室" 
+        intervals [153]:
+            xmin = 179.23 
+            xmax = 180.00322197408556 
+            text = "" 
+        intervals [154]:
+            xmin = 180.00322197408556 
+            xmax = 181.484 
+            text = "にミズチさんって言う" 
+        intervals [155]:
+            xmin = 181.484 
+            xmax = 181.978 
+            text = "" 
+        intervals [156]:
+            xmin = 181.978 
+            xmax = 182.82049899573158 
+            text = "あ分かりますか" 
+        intervals [157]:
+            xmin = 182.82049899573158 
+            xmax = 185.713 
+            text = "" 
+        intervals [158]:
+            xmin = 185.713 
+            xmax = 186.601 
+            text = "おー" 
+        intervals [159]:
+            xmin = 186.601 
+            xmax = 187.3349020685412 
+            text = "" 
+        intervals [160]:
+            xmin = 187.3349020685412 
+            xmax = 188.806 
+            text = "あじゃツイッターしてるんですね" 
+        intervals [161]:
+            xmin = 188.806 
+            xmax = 189.333 
+            text = "" 
+        intervals [162]:
+            xmin = 189.333 
+            xmax = 189.85918987078117 
+            text = "でも多分" 
+        intervals [163]:
+            xmin = 189.85918987078117 
+            xmax = 190.64970795332965 
+            text = "" 
+        intervals [164]:
+            xmin = 190.64970795332965 
+            xmax = 191.011 
+            text = "多分" 
+        intervals [165]:
+            xmin = 191.011 
+            xmax = 191.3075516723735 
+            text = "" 
+        intervals [166]:
+            xmin = 191.3075516723735 
+            xmax = 192.673 
+            text = "知らない気がしますあたし" 
+        intervals [167]:
+            xmin = 192.673 
+            xmax = 193.528 
+            text = "" 
+        intervals [168]:
+            xmin = 193.528 
+            xmax = 194.83242511737762 
+            text = "知らないですよね多分" 
+        intervals [169]:
+            xmin = 194.83242511737762 
+            xmax = 195.7113927755959 
+            text = "" 
+        intervals [170]:
+            xmin = 195.7113927755959 
+            xmax = 196.46874226726823 
+            text = "多分とかい" 
+        intervals [171]:
+            xmin = 196.46874226726823 
+            xmax = 199.452 
+            text = "" 
+        intervals [172]:
+            xmin = 199.452 
+            xmax = 200.373 
+            text = "あ大丈夫ですよ" 
+        intervals [173]:
+            xmin = 200.373 
+            xmax = 202.1385179222641 
+            text = "" 
+        intervals [174]:
+            xmin = 202.1385179222641 
+            xmax = 205.013 
+            text = "えっとスノウゼロゼロゼロイチってやってるんですけど" 
+        intervals [175]:
+            xmin = 205.013 
+            xmax = 205.342 
+            text = "" 
+        intervals [176]:
+            xmin = 205.342 
+            xmax = 206.329 
+            text = "え知ってますかし" 
+        intervals [177]:
+            xmin = 206.329 
+            xmax = 206.576 
+            text = "" 
+        intervals [178]:
+            xmin = 206.576 
+            xmax = 206.80770793449577 
+            text = "あれ" 
+        intervals [179]:
+            xmin = 206.80770793449577 
+            xmax = 207.05647236606697 
+            text = "" 
+        intervals [180]:
+            xmin = 207.05647236606697 
+            xmax = 208.403 
+            text = "もしかしてフォローしてました" 
+        intervals [181]:
+            xmin = 208.403 
+            xmax = 215.25053582330278 
+            text = "" 
+        intervals [182]:
+            xmin = 215.25053582330278 
+            xmax = 216.991 
+            text = "あー人科リストとかありますよね" 
+        intervals [183]:
+            xmin = 216.991 
+            xmax = 219.66543312348392 
+            text = "" 
+        intervals [184]:
+            xmin = 219.66543312348392 
+            xmax = 220.512 
+            text = "おー" 
+        intervals [185]:
+            xmin = 220.512 
+            xmax = 221.13938221464542 
+            text = "" 
+        intervals [186]:
+            xmin = 221.13938221464542 
+            xmax = 221.664 
+            text = "ちなみに" 
+        intervals [187]:
+            xmin = 221.664 
+            xmax = 222.15655233484767 
+            text = "" 
+        intervals [188]:
+            xmin = 222.15655233484767 
+            xmax = 222.53246303144417 
+            text = "何です" 
+        intervals [189]:
+            xmin = 222.53246303144417 
+            xmax = 225.0090511501975 
+            text = "" 
+        intervals [190]:
+            xmin = 225.0090511501975 
+            xmax = 226.847 
+            text = "あーあ分かります分かります多分" 
+        intervals [191]:
+            xmin = 226.847 
+            xmax = 229.9325335104798 
+            text = "" 
+        intervals [192]:
+            xmin = 229.9325335104798 
+            xmax = 230.2808037146795 
+            text = "何か" 
+        intervals [193]:
+            xmin = 230.2808037146795 
+            xmax = 231.38989830620324 
+            text = "" 
+        intervals [194]:
+            xmin = 231.38989830620324 
+            xmax = 231.652 
+            text = "あら" 
+        intervals [195]:
+            xmin = 231.652 
+            xmax = 233.1 
+            text = "" 
+        intervals [196]:
+            xmin = 233.1 
+            xmax = 234.12077895500713 
+            text = "えーっと" 
+        intervals [197]:
+            xmin = 234.12077895500713 
+            xmax = 235.189 
+            text = "" 
+        intervals [198]:
+            xmin = 235.189 
+            xmax = 237.164 
+            text = "何かフォローしてた気がします" 
+        intervals [199]:
+            xmin = 237.164 
+            xmax = 237.74 
+            text = "" 
+        intervals [200]:
+            xmin = 237.74 
+            xmax = 237.8667763391857 
+            text = "や" 
+        intervals [201]:
+            xmin = 237.8667763391857 
+            xmax = 238.15976555859177 
+            text = "" 
+        intervals [202]:
+            xmin = 238.15976555859177 
+            xmax = 240.059 
+            text = "分かんないですえでも何かしてたような" 
+        intervals [203]:
+            xmin = 240.059 
+            xmax = 240.948 
+            text = "" 
+        intervals [204]:
+            xmin = 240.948 
+            xmax = 241.55196482209124 
+            text = "曖昧です" 
+        intervals [205]:
+            xmin = 241.55196482209124 
+            xmax = 242.9892704267249 
+            text = "" 
+        intervals [206]:
+            xmin = 242.9892704267249 
+            xmax = 244.45974462223467 
+            text = "んーでも何か見たことある気もし" 
+        intervals [207]:
+            xmin = 244.45974462223467 
+            xmax = 246.48097528085287 
+            text = "" 
+        intervals [208]:
+            xmin = 246.48097528085287 
+            xmax = 247.8353594082961 
+            text = "おーやっぱツイッターって" 
+        intervals [209]:
+            xmin = 247.8353594082961 
+            xmax = 248.402 
+            text = "" 
+        intervals [210]:
+            xmin = 248.402 
+            xmax = 249.8 
+            text = "最近広がってますからね" 
+        intervals [211]:
+            xmin = 249.8 
+            xmax = 251.034 
+            text = "" 
+        intervals [212]:
+            xmin = 251.034 
+            xmax = 251.462 
+            text = "はい" 
+        intervals [213]:
+            xmin = 251.462 
+            xmax = 251.89645858779815 
+            text = "" 
+        intervals [214]:
+            xmin = 251.89645858779815 
+            xmax = 253.058 
+            text = "人科結構多いですよね" 
+        intervals [215]:
+            xmin = 253.058 
+            xmax = 254.26043135213664 
+            text = "" 
+        intervals [216]:
+            xmin = 254.26043135213664 
+            xmax = 254.6252858517744 
+            text = "さ" 
+        intervals [217]:
+            xmin = 254.6252858517744 
+            xmax = 255.3218262601738 
+            text = "" 
+        intervals [218]:
+            xmin = 255.3218262601738 
+            xmax = 256.2173782138301 
+            text = "そうですよね" 
+        intervals [219]:
+            xmin = 256.2173782138301 
+            xmax = 257.0078962963786 
+            text = "" 
+        intervals [220]:
+            xmin = 257.0078962963786 
+            xmax = 257.517 
+            text = "うーん" 
+        intervals [221]:
+            xmin = 257.517 
+            xmax = 258.109 
+            text = "" 
+        intervals [222]:
+            xmin = 258.109 
+            xmax = 259.376 
+            text = "そうかツイッター" 
+        intervals [223]:
+            xmin = 259.376 
+            xmax = 259.891510499777 
+            text = "" 
+        intervals [224]:
+            xmin = 259.891510499777 
+            xmax = 260.26189309789413 
+            text = "じゃ" 
+        intervals [225]:
+            xmin = 260.26189309789413 
+            xmax = 261.2348384302615 
+            text = "" 
+        intervals [226]:
+            xmin = 261.2348384302615 
+            xmax = 262.766 
+            text = "全く面識なしってつけたけど" 
+        intervals [227]:
+            xmin = 262.766 
+            xmax = 263.38874345238435 
+            text = "" 
+        intervals [228]:
+            xmin = 263.38874345238435 
+            xmax = 264.78735236766244 
+            text = "微妙に知ってるかもみたいな" 
+        intervals [229]:
+            xmin = 264.78735236766244 
+            xmax = 265.2572407384081 
+            text = "" 
+        intervals [230]:
+            xmin = 265.2572407384081 
+            xmax = 265.974 
+            text = "感じですね" 
+        intervals [231]:
+            xmin = 265.974 
+            xmax = 266.37944472971816 
+            text = "" 
+        intervals [232]:
+            xmin = 266.37944472971816 
+            xmax = 268.31222581266655 
+            text = "までも面識ないに等しいですよね" 
+        intervals [233]:
+            xmin = 268.31222581266655 
+            xmax = 270.614 
+            text = "" 
+        intervals [234]:
+            xmin = 270.614 
+            xmax = 270.993 
+            text = "はい" 
+        intervals [235]:
+            xmin = 270.993 
+            xmax = 271.651 
+            text = "" 
+        intervals [236]:
+            xmin = 271.651 
+            xmax = 272.309 
+            text = "そうですよね" 
+        intervals [237]:
+            xmin = 272.309 
+            xmax = 272.6110330447811 
+            text = "" 
+        intervals [238]:
+            xmin = 272.6110330447811 
+            xmax = 273.19148338511394 
+            text = "アットとか" 
+        intervals [239]:
+            xmin = 273.19148338511394 
+            xmax = 273.45130401364383 
+            text = "" 
+        intervals [240]:
+            xmin = 273.45130401364383 
+            xmax = 274.283 
+            text = "飛ばしてないですし" 
+        intervals [241]:
+            xmin = 274.283 
+            xmax = 275.484 
+            text = "" 
+        intervals [242]:
+            xmin = 275.484 
+            xmax = 275.748 
+            text = "うん" 
+        intervals [243]:
+            xmin = 275.748 
+            xmax = 276.505 
+            text = "" 
+        intervals [244]:
+            xmin = 276.505 
+            xmax = 277.163 
+            text = "そうですね" 
+        intervals [245]:
+            xmin = 277.163 
+            xmax = 280.14377788732133 
+            text = "" 
+        intervals [246]:
+            xmin = 280.14377788732133 
+            xmax = 282.3145231727357 
+            text = "ツイッターで青からいきなりツイッターになりました" 
+        intervals [247]:
+            xmin = 282.3145231727357 
+            xmax = 284.70818981429863 
+            text = "" 
+        intervals [248]:
+            xmin = 284.70818981429863 
+            xmax = 287.315 
+            text = "あそうだそうですねそうだツイッターも青だ" 
+        intervals [249]:
+            xmin = 287.315 
+            xmax = 289.84624050386213 
+            text = "" 
+        intervals [250]:
+            xmin = 289.84624050386213 
+            xmax = 290.309 
+            text = "そうですね" 
+        intervals [251]:
+            xmin = 290.309 
+            xmax = 291.313 
+            text = "" 
+        intervals [252]:
+            xmin = 291.313 
+            xmax = 291.5378386385463 
+            text = "青" 
+        intervals [253]:
+            xmin = 291.5378386385463 
+            xmax = 292.09064848648234 
+            text = "" 
+        intervals [254]:
+            xmin = 292.09064848648234 
+            xmax = 292.958 
+            text = "他に何かあるか" 
+        intervals [255]:
+            xmin = 292.958 
+            xmax = 294.521 
+            text = "" 
+        intervals [256]:
+            xmin = 294.521 
+            xmax = 295.048 
+            text = "青" 
+        intervals [257]:
+            xmin = 295.048 
+            xmax = 296.068 
+            text = "" 
+        intervals [258]:
+            xmin = 296.068 
+            xmax = 297.532 
+            text = "んー" 
+        intervals [259]:
+            xmin = 297.532 
+            xmax = 298.8197658466877 
+            text = "" 
+        intervals [260]:
+            xmin = 298.8197658466877 
+            xmax = 299.474 
+            text = "どうなんだろ" 
+        intervals [261]:
+            xmin = 299.474 
+            xmax = 300.708 
+            text = "" 
+        intervals [262]:
+            xmin = 300.708 
+            xmax = 301.136 
+            text = "青" 
+        intervals [263]:
+            xmin = 301.136 
+            xmax = 305.035 
+            text = "" 
+        intervals [264]:
+            xmin = 305.035 
+            xmax = 306.8866828568983 
+            text = "んー難しいな" 
+        intervals [265]:
+            xmin = 306.8866828568983 
+            xmax = 307.1299191899902 
+            text = "" 
+        intervals [266]:
+            xmin = 307.1299191899902 
+            xmax = 307.3178745382884 
+            text = "青" 
+        intervals [267]:
+            xmin = 307.3178745382884 
+            xmax = 307.6550885455294 
+            text = "" 
+        intervals [268]:
+            xmin = 307.6550885455294 
+            xmax = 308.94866358969966 
+            text = "あじゃあ空っていう" 
+        intervals [269]:
+            xmin = 308.94866358969966 
+            xmax = 309.1642594303947 
+            text = "" 
+        intervals [270]:
+            xmin = 309.1642594303947 
+            xmax = 309.8491156462585 
+            text = "イメージで" 
+        intervals [271]:
+            xmin = 309.8491156462585 
+            xmax = 310.876 
+            text = "" 
+        intervals [272]:
+            xmin = 310.876 
+            xmax = 311.469 
+            text = "えっと" 
+        intervals [273]:
+            xmin = 311.469 
+            xmax = 312.439 
+            text = "" 
+        intervals [274]:
+            xmin = 312.439 
+            xmax = 314.2314725331402 
+            text = "飛行機的な話で" 
+        intervals [275]:
+            xmin = 314.2314725331402 
+            xmax = 314.4968212601495 
+            text = "" 
+        intervals [276]:
+            xmin = 314.4968212601495 
+            xmax = 314.82156642423786 
+            text = "あの" 
+        intervals [277]:
+            xmin = 314.82156642423786 
+            xmax = 316.4799959680459 
+            text = "" 
+        intervals [278]:
+            xmin = 316.4799959680459 
+            xmax = 318.05 
+            text = "えー海外とか行ったことありますか" 
+        intervals [279]:
+            xmin = 318.05 
+            xmax = 321.46428759360106 
+            text = "" 
+        intervals [280]:
+            xmin = 321.46428759360106 
+            xmax = 322.0115693430577 
+            text = "おー" 
+        intervals [281]:
+            xmin = 322.0115693430577 
+            xmax = 322.2990304639844 
+            text = "" 
+        intervals [282]:
+            xmin = 322.2990304639844 
+            xmax = 323.875 
+            text = "どそれは普通に旅行でですか" 
+        intervals [283]:
+            xmin = 323.875 
+            xmax = 325.915 
+            text = "" 
+        intervals [284]:
+            xmin = 325.915 
+            xmax = 326.738 
+            text = "へー" 
+        intervals [285]:
+            xmin = 326.738 
+            xmax = 327.791 
+            text = "" 
+        intervals [286]:
+            xmin = 327.791 
+            xmax = 329.65 
+            text = "ヘーそれもラグビー関連で" 
+        intervals [287]:
+            xmin = 329.65 
+            xmax = 332.233 
+            text = "" 
+        intervals [288]:
+            xmin = 332.233 
+            xmax = 332.7796733068477 
+            text = "ヘー" 
+        intervals [289]:
+            xmin = 332.7796733068477 
+            xmax = 333.2661459730314 
+            text = "" 
+        intervals [290]:
+            xmin = 333.2661459730314 
+            xmax = 334.3109565856305 
+            text = "すごい遠征" 
+        intervals [291]:
+            xmin = 334.3109565856305 
+            xmax = 334.94115981227753 
+            text = "" 
+        intervals [292]:
+            xmin = 334.94115981227753 
+            xmax = 335.886 
+            text = "へー" 
+        intervals [293]:
+            xmin = 335.886 
+            xmax = 336.84 
+            text = "" 
+        intervals [294]:
+            xmin = 336.84 
+            xmax = 338.41628055296735 
+            text = "あたし海外行ったことないんですよね" 
+        intervals [295]:
+            xmin = 338.41628055296735 
+            xmax = 338.6705730830179 
+            text = "" 
+        intervals [296]:
+            xmin = 338.6705730830179 
+            xmax = 338.963562302424 
+            text = "はい" 
+        intervals [297]:
+            xmin = 338.963562302424 
+            xmax = 339.12387715832546 
+            text = "" 
+        intervals [298]:
+            xmin = 339.12387715832546 
+            xmax = 340.575 
+            text = "何か行ってみたいなと思いつつ" 
+        intervals [299]:
+            xmin = 340.575 
+            xmax = 343.142 
+            text = "" 
+        intervals [300]:
+            xmin = 343.142 
+            xmax = 348.2908859479287 
+            text = "そうですよね何かそのちょうど今ぐらいとかが一番時間あるなって思いつつ" 
+        intervals [301]:
+            xmin = 348.2908859479287 
+            xmax = 348.5783470688554 
+            text = "" 
+        intervals [302]:
+            xmin = 348.5783470688554 
+            xmax = 349.186437901585 
+            text = "ですよね" 
+        intervals [303]:
+            xmin = 349.186437901585 
+            xmax = 349.658 
+            text = "" 
+        intervals [304]:
+            xmin = 349.658 
+            xmax = 350.30864189289514 
+            text = "何かでも" 
+        intervals [305]:
+            xmin = 350.30864189289514 
+            xmax = 350.7121930818884 
+            text = "" 
+        intervals [306]:
+            xmin = 350.7121930818884 
+            xmax = 352.093 
+            text = "めっちゃお金かかるじゃないですか" 
+        intervals [307]:
+            xmin = 352.093 
+            xmax = 355.91 
+            text = "" 
+        intervals [308]:
+            xmin = 355.91 
+            xmax = 356.749 
+            text = "んー" 
+        intervals [309]:
+            xmin = 356.749 
+            xmax = 357.21 
+            text = "" 
+        intervals [310]:
+            xmin = 357.21 
+            xmax = 357.835 
+            text = "あ確かに" 
+        intervals [311]:
+            xmin = 357.835 
+            xmax = 360.846 
+            text = "" 
+        intervals [312]:
+            xmin = 360.846 
+            xmax = 361.208 
+            text = "おー" 
+        intervals [313]:
+            xmin = 361.208 
+            xmax = 362.29033649197504 
+            text = "" 
+        intervals [314]:
+            xmin = 362.29033649197504 
+            xmax = 363.031101654515 
+            text = "へー" 
+        intervals [315]:
+            xmin = 363.031101654515 
+            xmax = 364 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Event_L" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 210 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.2996648642123647 
+            text = "" 
+        intervals [2]:
+            xmin = 3.2996648642123647 
+            xmax = 3.783084012084325 
+            text = "laugh" 
+        intervals [3]:
+            xmin = 3.783084012084325 
+            xmax = 3.986426986982848 
+            text = "" 
+        intervals [4]:
+            xmin = 3.986426986982848 
+            xmax = 4.715392368694535 
+            text = "breath" 
+        intervals [5]:
+            xmin = 4.715392368694535 
+            xmax = 14.56749689320061 
+            text = "" 
+        intervals [6]:
+            xmin = 14.56749689320061 
+            xmax = 14.759329888387898 
+            text = "breath" 
+        intervals [7]:
+            xmin = 14.759329888387898 
+            xmax = 21.653369923573386 
+            text = "" 
+        intervals [8]:
+            xmin = 21.653369923573386 
+            xmax = 22.083075832792908 
+            text = "sniff" 
+        intervals [9]:
+            xmin = 22.083075832792908 
+            xmax = 22.47441514297497 
+            text = "" 
+        intervals [10]:
+            xmin = 22.47441514297497 
+            xmax = 22.80820455460085 
+            text = "breath" 
+        intervals [11]:
+            xmin = 22.80820455460085 
+            xmax = 28.533488143060328 
+            text = "" 
+        intervals [12]:
+            xmin = 28.533488143060328 
+            xmax = 28.978540691894832 
+            text = "breath" 
+        intervals [13]:
+            xmin = 28.978540691894832 
+            xmax = 29.511836418515486 
+            text = "" 
+        intervals [14]:
+            xmin = 29.511836418515486 
+            xmax = 29.626936215627858 
+            text = "breath" 
+        intervals [15]:
+            xmin = 29.626936215627858 
+            xmax = 32.802265792012875 
+            text = "" 
+        intervals [16]:
+            xmin = 32.802265792012875 
+            xmax = 33.06699532537133 
+            text = "breath" 
+        intervals [17]:
+            xmin = 33.06699532537133 
+            xmax = 35.7934356930181 
+            text = "" 
+        intervals [18]:
+            xmin = 35.7934356930181 
+            xmax = 35.858658911381774 
+            text = "breath" 
+        intervals [19]:
+            xmin = 35.858658911381774 
+            xmax = 35.99677866791662 
+            text = "" 
+        intervals [20]:
+            xmin = 35.99677866791662 
+            xmax = 36.131061764547724 
+            text = "breath" 
+        intervals [21]:
+            xmin = 36.131061764547724 
+            xmax = 36.74109068924329 
+            text = "" 
+        intervals [22]:
+            xmin = 36.74109068924329 
+            xmax = 36.817823887318205 
+            text = "breath" 
+        intervals [23]:
+            xmin = 36.817823887318205 
+            xmax = 36.9862808991039 
+            text = "" 
+        intervals [24]:
+            xmin = 36.9862808991039 
+            xmax = 37.57712652428074 
+            text = "laugh" 
+        intervals [25]:
+            xmin = 37.57712652428074 
+            xmax = 37.611656463414455 
+            text = "" 
+        intervals [26]:
+            xmin = 37.611656463414455 
+            xmax = 38.13344221032387 
+            text = "breath" 
+        intervals [27]:
+            xmin = 38.13344221032387 
+            xmax = 38.36221661663219 
+            text = "" 
+        intervals [28]:
+            xmin = 38.36221661663219 
+            xmax = 38.684496048546826 
+            text = "breath" 
+        intervals [29]:
+            xmin = 38.684496048546826 
+            xmax = 47.682450534901406 
+            text = "" 
+        intervals [30]:
+            xmin = 47.682450534901406 
+            xmax = 47.97020002768234 
+            text = "breath" 
+        intervals [31]:
+            xmin = 47.97020002768234 
+            xmax = 50.362761886708455 
+            text = "" 
+        intervals [32]:
+            xmin = 50.362761886708455 
+            xmax = 50.842344374676664 
+            text = "laugh" 
+        intervals [33]:
+            xmin = 50.842344374676664 
+            xmax = 50.86536433409914 
+            text = "" 
+        intervals [34]:
+            xmin = 50.86536433409914 
+            xmax = 51.17997044620629 
+            text = "breath" 
+        intervals [35]:
+            xmin = 51.17997044620629 
+            xmax = 53.07385561474023 
+            text = "" 
+        intervals [36]:
+            xmin = 53.07385561474023 
+            xmax = 53.72608779837701 
+            text = "laugh" 
+        intervals [37]:
+            xmin = 53.72608779837701 
+            xmax = 53.74910775779948 
+            text = "" 
+        intervals [38]:
+            xmin = 53.74910775779948 
+            xmax = 54.04069391048416 
+            text = "breath" 
+        intervals [39]:
+            xmin = 54.04069391048416 
+            xmax = 56.79327848549892 
+            text = "" 
+        intervals [40]:
+            xmin = 56.79327848549892 
+            xmax = 56.90454162270755 
+            text = "breath" 
+        intervals [41]:
+            xmin = 56.90454162270755 
+            xmax = 57.90207319768143 
+            text = "" 
+        intervals [42]:
+            xmin = 57.90207319768143 
+            xmax = 58.39700232526463 
+            text = "breath" 
+        intervals [43]:
+            xmin = 58.39700232526463 
+            xmax = 68.54069329892275 
+            text = "" 
+        intervals [44]:
+            xmin = 68.54069329892275 
+            xmax = 68.76321957334001 
+            text = "breath" 
+        intervals [45]:
+            xmin = 68.76321957334001 
+            xmax = 72.75433288530641 
+            text = "" 
+        intervals [46]:
+            xmin = 72.75433288530641 
+            xmax = 73.50248156653683 
+            text = "breath" 
+        intervals [47]:
+            xmin = 73.50248156653683 
+            xmax = 76.96556063570277 
+            text = "" 
+        intervals [48]:
+            xmin = 76.96556063570277 
+            xmax = 77.49885636232344 
+            text = "breath" 
+        intervals [49]:
+            xmin = 77.49885636232344 
+            xmax = 83.69221245903988 
+            text = "" 
+        intervals [50]:
+            xmin = 83.69221245903988 
+            xmax = 83.83033221557473 
+            text = "breath" 
+        intervals [51]:
+            xmin = 83.83033221557473 
+            xmax = 84.27538476440924 
+            text = "" 
+        intervals [52]:
+            xmin = 84.27538476440924 
+            xmax = 84.89692366881604 
+            text = "breath" 
+        intervals [53]:
+            xmin = 84.89692366881604 
+            xmax = 88.66167404646147 
+            text = "" 
+        intervals [54]:
+            xmin = 88.66167404646147 
+            xmax = 88.91873026001244 
+            text = "breath" 
+        intervals [55]:
+            xmin = 88.91873026001244 
+            xmax = 92.42784924802332 
+            text = "" 
+        intervals [56]:
+            xmin = 92.42784924802332 
+            xmax = 92.80767857849415 
+            text = "breath" 
+        intervals [57]:
+            xmin = 92.80767857849415 
+            xmax = 102.13032433275067 
+            text = "" 
+        intervals [58]:
+            xmin = 102.13032433275067 
+            xmax = 102.67129337917882 
+            text = "breath" 
+        intervals [59]:
+            xmin = 102.67129337917882 
+            xmax = 106.08449586959607 
+            text = "" 
+        intervals [60]:
+            xmin = 106.08449586959607 
+            xmax = 106.75974801265532 
+            text = "breath" 
+        intervals [61]:
+            xmin = 106.75974801265532 
+            xmax = 111.97091917401288 
+            text = "" 
+        intervals [62]:
+            xmin = 111.97091917401288 
+            xmax = 112.4927049209223 
+            text = "breath" 
+        intervals [63]:
+            xmin = 112.4927049209223 
+            xmax = 121.42017470509302 
+            text = "" 
+        intervals [64]:
+            xmin = 121.42017470509302 
+            xmax = 122.22203662497587 
+            text = "breath" 
+        intervals [65]:
+            xmin = 122.22203662497587 
+            xmax = 122.6440692143879 
+            text = "" 
+        intervals [66]:
+            xmin = 122.6440692143879 
+            xmax = 123.16585496129731 
+            text = "breath" 
+        intervals [67]:
+            xmin = 123.16585496129731 
+            xmax = 127.9856868124728 
+            text = "" 
+        intervals [68]:
+            xmin = 127.9856868124728 
+            xmax = 128.1698464878526 
+            text = "breath" 
+        intervals [69]:
+            xmin = 128.1698464878526 
+            xmax = 128.57653243764963 
+            text = "" 
+        intervals [70]:
+            xmin = 128.57653243764963 
+            xmax = 129.06378824542534 
+            text = "breath" 
+        intervals [71]:
+            xmin = 129.06378824542534 
+            xmax = 140.09232119493225 
+            text = "" 
+        intervals [72]:
+            xmin = 140.09232119493225 
+            xmax = 140.2956641698308 
+            text = "breath" 
+        intervals [73]:
+            xmin = 140.2956641698308 
+            xmax = 142.8149245386753 
+            text = "" 
+        intervals [74]:
+            xmin = 142.8149245386753 
+            xmax = 143.4019335039484 
+            text = "breath" 
+        intervals [75]:
+            xmin = 143.4019335039484 
+            xmax = 143.6513163976919 
+            text = "" 
+        intervals [76]:
+            xmin = 143.6513163976919 
+            xmax = 144.07718564700764 
+            text = "breath" 
+        intervals [77]:
+            xmin = 144.07718564700764 
+            xmax = 148.2651259649972 
+            text = "" 
+        intervals [78]:
+            xmin = 148.2651259649972 
+            xmax = 148.80993167132908 
+            text = "laugh" 
+        intervals [79]:
+            xmin = 148.80993167132908 
+            xmax = 148.8367882906553 
+            text = "" 
+        intervals [80]:
+            xmin = 148.8367882906553 
+            xmax = 149.1475577428587 
+            text = "breath" 
+        intervals [81]:
+            xmin = 149.1475577428587 
+            xmax = 149.42237206801198 
+            text = "" 
+        intervals [82]:
+            xmin = 149.42237206801198 
+            xmax = 149.60269508348802 
+            text = "breath" 
+        intervals [83]:
+            xmin = 149.60269508348802 
+            xmax = 149.78301809896408 
+            text = "" 
+        intervals [84]:
+            xmin = 149.78301809896408 
+            xmax = 150.09378755116748 
+            text = "breath" 
+        intervals [85]:
+            xmin = 150.09378755116748 
+            xmax = 150.1551741096274 
+            text = "" 
+        intervals [86]:
+            xmin = 150.1551741096274 
+            xmax = 150.56953337923196 
+            text = "breath" 
+        intervals [87]:
+            xmin = 150.56953337923196 
+            xmax = 150.749856394708 
+            text = "" 
+        intervals [88]:
+            xmin = 150.749856394708 
+            xmax = 151.20258226335 
+            text = "breath" 
+        intervals [89]:
+            xmin = 151.20258226335 
+            xmax = 153.49164321996972 
+            text = "" 
+        intervals [90]:
+            xmin = 153.49164321996972 
+            xmax = 153.66045625573454 
+            text = "breath" 
+        intervals [91]:
+            xmin = 153.66045625573454 
+            xmax = 154.94573732348937 
+            text = "" 
+        intervals [92]:
+            xmin = 154.94573732348937 
+            xmax = 155.37160657280512 
+            text = "breath" 
+        intervals [93]:
+            xmin = 155.37160657280512 
+            xmax = 173.6092654182935 
+            text = "" 
+        intervals [94]:
+            xmin = 173.6092654182935 
+            xmax = 174.09573808447718 
+            text = "breath" 
+        intervals [95]:
+            xmin = 174.09573808447718 
+            xmax = 179.41171543679403 
+            text = "" 
+        intervals [96]:
+            xmin = 179.41171543679403 
+            xmax = 179.8981881029777 
+            text = "breath" 
+        intervals [97]:
+            xmin = 179.8981881029777 
+            xmax = 181.66512641354532 
+            text = "" 
+        intervals [98]:
+            xmin = 181.66512641354532 
+            xmax = 181.87519415576102 
+            text = "breath" 
+        intervals [99]:
+            xmin = 181.87519415576102 
+            xmax = 183.53362369956903 
+            text = "" 
+        intervals [100]:
+            xmin = 183.53362369956903 
+            xmax = 183.732635244826 
+            text = "breath" 
+        intervals [101]:
+            xmin = 183.732635244826 
+            xmax = 186.73233933429094 
+            text = "" 
+        intervals [102]:
+            xmin = 186.73233933429094 
+            xmax = 187.05296904609384 
+            text = "breath" 
+        intervals [103]:
+            xmin = 187.05296904609384 
+            xmax = 190.04161712060005 
+            text = "" 
+        intervals [104]:
+            xmin = 190.04161712060005 
+            xmax = 190.53914598374246 
+            text = "breath" 
+        intervals [105]:
+            xmin = 190.53914598374246 
+            xmax = 193.02679029945452 
+            text = "" 
+        intervals [106]:
+            xmin = 193.02679029945452 
+            xmax = 193.12076797360362 
+            text = "breath" 
+        intervals [107]:
+            xmin = 193.12076797360362 
+            xmax = 196.06519107827492 
+            text = "" 
+        intervals [108]:
+            xmin = 196.06519107827492 
+            xmax = 196.46874226726823 
+            text = "laugh" 
+        intervals [109]:
+            xmin = 196.46874226726823 
+            xmax = 196.76725958515368 
+            text = "breath" 
+        intervals [110]:
+            xmin = 196.76725958515368 
+            xmax = 197.0657769030391 
+            text = "laugh" 
+        intervals [111]:
+            xmin = 197.0657769030391 
+            xmax = 197.41957520571816 
+            text = "breath" 
+        intervals [112]:
+            xmin = 197.41957520571816 
+            xmax = 197.5135528798673 
+            text = "" 
+        intervals [113]:
+            xmin = 197.5135528798673 
+            xmax = 197.8175982962321 
+            text = "breath" 
+        intervals [114]:
+            xmin = 197.8175982962321 
+            xmax = 198.57289440307682 
+            text = "" 
+        intervals [115]:
+            xmin = 198.57289440307682 
+            xmax = 198.68345637266404 
+            text = "breath" 
+        intervals [116]:
+            xmin = 198.68345637266404 
+            xmax = 208.61887085089828 
+            text = "" 
+        intervals [117]:
+            xmin = 208.61887085089828 
+            xmax = 209.27671456994213 
+            text = "breath" 
+        intervals [118]:
+            xmin = 209.27671456994213 
+            xmax = 220.66049084976873 
+            text = "" 
+        intervals [119]:
+            xmin = 220.66049084976873 
+            xmax = 220.86503049350506 
+            text = "breath" 
+        intervals [120]:
+            xmin = 220.86503049350506 
+            xmax = 226.97500082402215 
+            text = "" 
+        intervals [121]:
+            xmin = 226.97500082402215 
+            xmax = 227.40066440693286 
+            text = "breath" 
+        intervals [122]:
+            xmin = 227.40066440693286 
+            xmax = 230.34508769360417 
+            text = "" 
+        intervals [123]:
+            xmin = 230.34508769360417 
+            xmax = 230.53857114038178 
+            text = "breath" 
+        intervals [124]:
+            xmin = 230.53857114038178 
+            xmax = 232.06432632068515 
+            text = "" 
+        intervals [125]:
+            xmin = 232.06432632068515 
+            xmax = 232.63372046405925 
+            text = "breath" 
+        intervals [126]:
+            xmin = 232.63372046405925 
+            xmax = 234.57961112879403 
+            text = "" 
+        intervals [127]:
+            xmin = 234.57961112879403 
+            xmax = 234.77862267405098 
+            text = "breath" 
+        intervals [128]:
+            xmin = 234.77862267405098 
+            xmax = 241.55196482209124 
+            text = "" 
+        intervals [129]:
+            xmin = 241.55196482209124 
+            xmax = 241.92234742020838 
+            text = "laugh" 
+        intervals [130]:
+            xmin = 241.92234742020838 
+            xmax = 242.28720191984615 
+            text = "breath" 
+        intervals [131]:
+            xmin = 242.28720191984615 
+            xmax = 244.8833548203178 
+            text = "" 
+        intervals [132]:
+            xmin = 244.8833548203178 
+            xmax = 245.04366967621925 
+            text = "breath" 
+        intervals [133]:
+            xmin = 245.04366967621925 
+            xmax = 245.8286596602884 
+            text = "" 
+        intervals [134]:
+            xmin = 245.8286596602884 
+            xmax = 246.02214310706597 
+            text = "breath" 
+        intervals [135]:
+            xmin = 246.02214310706597 
+            xmax = 247.90722468852778 
+            text = "" 
+        intervals [136]:
+            xmin = 247.90722468852778 
+            xmax = 248.10623623378476 
+            text = "breath" 
+        intervals [137]:
+            xmin = 248.10623623378476 
+            xmax = 250.59182734666916 
+            text = "" 
+        intervals [138]:
+            xmin = 250.59182734666916 
+            xmax = 250.8627041721578 
+            text = "breath" 
+        intervals [139]:
+            xmin = 250.8627041721578 
+            xmax = 254.8906345787837 
+            text = "" 
+        intervals [140]:
+            xmin = 254.8906345787837 
+            xmax = 255.10070232099937 
+            text = "breath" 
+        intervals [141]:
+            xmin = 255.10070232099937 
+            xmax = 257.6878524093399 
+            text = "" 
+        intervals [142]:
+            xmin = 257.6878524093399 
+            xmax = 257.97531353026665 
+            text = "breath" 
+        intervals [143]:
+            xmin = 257.97531353026665 
+            xmax = 260.7704781579952 
+            text = "" 
+        intervals [144]:
+            xmin = 260.7704781579952 
+            xmax = 261.0137144910871 
+            text = "breath" 
+        intervals [145]:
+            xmin = 261.0137144910871 
+            xmax = 263.1289228238544 
+            text = "" 
+        intervals [146]:
+            xmin = 263.1289228238544 
+            xmax = 263.38874345238435 
+            text = "laugh" 
+        intervals [147]:
+            xmin = 263.38874345238435 
+            xmax = 264.88685814029094 
+            text = "" 
+        intervals [148]:
+            xmin = 264.88685814029094 
+            xmax = 265.1853754581764 
+            text = "breath" 
+        intervals [149]:
+            xmin = 265.1853754581764 
+            xmax = 268.5775745396759 
+            text = "" 
+        intervals [150]:
+            xmin = 268.5775745396759 
+            xmax = 268.9369009408343 
+            text = "breath" 
+        intervals [151]:
+            xmin = 268.9369009408343 
+            xmax = 274.3523840657796 
+            text = "" 
+        intervals [152]:
+            xmin = 274.3523840657796 
+            xmax = 275.26452031487395 
+            text = "breath" 
+        intervals [153]:
+            xmin = 275.26452031487395 
+            xmax = 277.67824596552674 
+            text = "" 
+        intervals [154]:
+            xmin = 277.67824596552674 
+            xmax = 278.0209880712471 
+            text = "breath" 
+        intervals [155]:
+            xmin = 278.0209880712471 
+            xmax = 278.4411235556784 
+            text = "" 
+        intervals [156]:
+            xmin = 278.4411235556784 
+            xmax = 278.8888995325066 
+            text = "laugh" 
+        intervals [157]:
+            xmin = 278.8888995325066 
+            xmax = 279.23164163822696 
+            text = "" 
+        intervals [158]:
+            xmin = 279.23164163822696 
+            xmax = 279.62966472874086 
+            text = "breath" 
+        intervals [159]:
+            xmin = 279.62966472874086 
+            xmax = 279.8729010618327 
+            text = "" 
+        intervals [160]:
+            xmin = 279.8729010618327 
+            xmax = 280.0719126070897 
+            text = "breath" 
+        intervals [161]:
+            xmin = 280.0719126070897 
+            xmax = 281.5461174841046 
+            text = "" 
+        intervals [162]:
+            xmin = 281.5461174841046 
+            xmax = 282.3145231727357 
+            text = "laugh" 
+        intervals [163]:
+            xmin = 282.3145231727357 
+            xmax = 283.37591808077286 
+            text = "" 
+        intervals [164]:
+            xmin = 283.37591808077286 
+            xmax = 284.20513285267685 
+            text = "breath" 
+        intervals [165]:
+            xmin = 284.20513285267685 
+            xmax = 284.88997468748386 
+            text = "" 
+        intervals [166]:
+            xmin = 284.88997468748386 
+            xmax = 285.2327167932042 
+            text = "laugh" 
+        intervals [167]:
+            xmin = 285.2327167932042 
+            xmax = 287.5189110440515 
+            text = "" 
+        intervals [168]:
+            xmin = 287.5189110440515 
+            xmax = 288.28178863420317 
+            text = "breath" 
+        intervals [169]:
+            xmin = 288.28178863420317 
+            xmax = 293.49273211541225 
+            text = "" 
+        intervals [170]:
+            xmin = 293.49273211541225 
+            xmax = 294.1063510466212 
+            text = "breath" 
+        intervals [171]:
+            xmin = 294.1063510466212 
+            xmax = 297.90762959759326 
+            text = "" 
+        intervals [172]:
+            xmin = 297.90762959759326 
+            xmax = 298.54888902119905 
+            text = "breath" 
+        intervals [173]:
+            xmin = 298.54888902119905 
+            xmax = 300.0967565954199 
+            text = "" 
+        intervals [174]:
+            xmin = 300.0967565954199 
+            xmax = 300.46161109505766 
+            text = "breath" 
+        intervals [175]:
+            xmin = 300.46161109505766 
+            xmax = 301.2943005806134 
+            text = "" 
+        intervals [176]:
+            xmin = 301.2943005806134 
+            xmax = 301.93003190573984 
+            text = "breath" 
+        intervals [177]:
+            xmin = 301.93003190573984 
+            xmax = 310.2311824369112 
+            text = "" 
+        intervals [178]:
+            xmin = 310.2311824369112 
+            xmax = 310.7287113000536 
+            text = "breath" 
+        intervals [179]:
+            xmin = 310.7287113000536 
+            xmax = 311.7051315280726 
+            text = "" 
+        intervals [180]:
+            xmin = 311.7051315280726 
+            xmax = 311.9262554672471 
+            text = "breath" 
+        intervals [181]:
+            xmin = 311.9262554672471 
+            xmax = 314.82156642423786 
+            text = "" 
+        intervals [182]:
+            xmin = 314.82156642423786 
+            xmax = 315.1974771208343 
+            text = "laugh" 
+        intervals [183]:
+            xmin = 315.1974771208343 
+            xmax = 315.4130729615294 
+            text = "breath" 
+        intervals [184]:
+            xmin = 315.4130729615294 
+            xmax = 315.882961332275 
+            text = "laugh" 
+        intervals [185]:
+            xmin = 315.882961332275 
+            xmax = 316.3528497030206 
+            text = "breath" 
+        intervals [186]:
+            xmin = 316.3528497030206 
+            xmax = 326.8687147035876 
+            text = "" 
+        intervals [187]:
+            xmin = 326.8687147035876 
+            xmax = 327.4159964530443 
+            text = "breath" 
+        intervals [188]:
+            xmin = 327.4159964530443 
+            xmax = 333.04502203385704 
+            text = "" 
+        intervals [189]:
+            xmin = 333.04502203385704 
+            xmax = 333.2163930867172 
+            text = "breath" 
+        intervals [190]:
+            xmin = 333.2163930867172 
+            xmax = 336.18498197013355 
+            text = "" 
+        intervals [191]:
+            xmin = 336.18498197013355 
+            xmax = 336.68251083327596 
+            text = "breath" 
+        intervals [192]:
+            xmin = 336.68251083327596 
+            xmax = 340.8099471945303 
+            text = "" 
+        intervals [193]:
+            xmin = 340.8099471945303 
+            xmax = 341.46779091357416 
+            text = "breath" 
+        intervals [194]:
+            xmin = 341.46779091357416 
+            xmax = 349.26935937877545 
+            text = "" 
+        intervals [195]:
+            xmin = 349.26935937877545 
+            xmax = 349.54576430274346 
+            text = "breath" 
+        intervals [196]:
+            xmin = 349.54576430274346 
+            xmax = 350.41920386248233 
+            text = "" 
+        intervals [197]:
+            xmin = 350.41920386248233 
+            xmax = 350.6182154077393 
+            text = "breath" 
+        intervals [198]:
+            xmin = 350.6182154077393 
+            xmax = 351.36798341610466 
+            text = "" 
+        intervals [199]:
+            xmin = 351.36798341610466 
+            xmax = 352.093 
+            text = "laugh" 
+        intervals [200]:
+            xmin = 352.093 
+            xmax = 352.5233559982909 
+            text = "" 
+        intervals [201]:
+            xmin = 352.5233559982909 
+            xmax = 352.79976092225894 
+            text = "laugh" 
+        intervals [202]:
+            xmin = 352.79976092225894 
+            xmax = 352.85504190705257 
+            text = "" 
+        intervals [203]:
+            xmin = 352.85504190705257 
+            xmax = 353.2641211945252 
+            text = "breath" 
+        intervals [204]:
+            xmin = 353.2641211945252 
+            xmax = 353.4189079519473 
+            text = "" 
+        intervals [205]:
+            xmin = 353.4189079519473 
+            xmax = 353.74506576222956 
+            text = "breath" 
+        intervals [206]:
+            xmin = 353.74506576222956 
+            xmax = 358.0965629306125 
+            text = "" 
+        intervals [207]:
+            xmin = 358.0965629306125 
+            xmax = 358.1960686987149 
+            text = "breath" 
+        intervals [208]:
+            xmin = 358.1960686987149 
+            xmax = 358.33979925264055 
+            text = "" 
+        intervals [209]:
+            xmin = 358.33979925264055 
+            xmax = 358.5940917711244 
+            text = "breath" 
+        intervals [210]:
+            xmin = 358.5940917711244 
+            xmax = 364 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "comment" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 295.7979491813054 
+            text = "" 
+        intervals [2]:
+            xmin = 295.7979491813054 
+            xmax = 295.98590452960366 
+            text = "KI:noise_L" 
+        intervals [3]:
+            xmin = 295.98590452960366 
+            xmax = 364 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "FAOdisfluency" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 137 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.8786690919470654 
+            text = "" 
+        intervals [2]:
+            xmin = 3.8786690919470654 
+            xmax = 4.1684020907141 
+            text = "フィラー" 
+        intervals [3]:
+            xmin = 4.1684020907141 
+            xmax = 7.067435536829772 
+            text = "" 
+        intervals [4]:
+            xmin = 7.067435536829772 
+            xmax = 7.670688846808651 
+            text = "音韻の引き伸ばし" 
+        intervals [5]:
+            xmin = 7.670688846808651 
+            xmax = 7.9073193064824725 
+            text = "" 
+        intervals [6]:
+            xmin = 7.9073193064824725 
+            xmax = 8.197344936280011 
+            text = "語句の繰り返し" 
+        intervals [7]:
+            xmin = 8.197344936280011 
+            xmax = 8.385459360878432 
+            text = "" 
+        intervals [8]:
+            xmin = 8.385459360878432 
+            xmax = 8.950042586884305 
+            text = "音韻の引き伸ばし" 
+        intervals [9]:
+            xmin = 8.950042586884305 
+            xmax = 9.901326652620225 
+            text = "" 
+        intervals [10]:
+            xmin = 9.901326652620225 
+            xmax = 10.288027492350276 
+            text = "音韻の引き伸ばし" 
+        intervals [11]:
+            xmin = 10.288027492350276 
+            xmax = 10.32283056792598 
+            text = "" 
+        intervals [12]:
+            xmin = 10.32283056792598 
+            xmax = 10.678595340477626 
+            text = "音韻の引き伸ばし" 
+        intervals [13]:
+            xmin = 10.678595340477626 
+            xmax = 14.391215671905309 
+            text = "" 
+        intervals [14]:
+            xmin = 14.391215671905309 
+            xmax = 14.569139941522131 
+            text = "音韻の引き伸ばし" 
+        intervals [15]:
+            xmin = 14.569139941522131 
+            xmax = 28.656121106294137 
+            text = "" 
+        intervals [16]:
+            xmin = 28.656121106294137 
+            xmax = 28.774631882377385 
+            text = "フィラー" 
+        intervals [17]:
+            xmin = 28.774631882377385 
+            xmax = 29.125189886664344 
+            text = "" 
+        intervals [18]:
+            xmin = 29.125189886664344 
+            xmax = 29.48482166761329 
+            text = "音韻の引き伸ばし" 
+        intervals [19]:
+            xmin = 29.48482166761329 
+            xmax = 35.93137815048072 
+            text = "" 
+        intervals [20]:
+            xmin = 35.93137815048072 
+            xmax = 36.03585538966149 
+            text = "フィラー" 
+        intervals [21]:
+            xmin = 36.03585538966149 
+            xmax = 36.070658465237194 
+            text = "" 
+        intervals [22]:
+            xmin = 36.070658465237194 
+            xmax = 36.302678969075224 
+            text = "語の中断" 
+        intervals [23]:
+            xmin = 36.302678969075224 
+            xmax = 36.33748204465093 
+            text = "" 
+        intervals [24]:
+            xmin = 36.33748204465093 
+            xmax = 36.65457673322957 
+            text = "語句の繰り返し" 
+        intervals [25]:
+            xmin = 36.65457673322957 
+            xmax = 55.598915555011224 
+            text = "" 
+        intervals [26]:
+            xmin = 55.598915555011224 
+            xmax = 56.1905678397982 
+            text = "音韻の引き伸ばし" 
+        intervals [27]:
+            xmin = 56.1905678397982 
+            xmax = 57.0772417974387 
+            text = "" 
+        intervals [28]:
+            xmin = 57.0772417974387 
+            xmax = 57.542 
+            text = "音韻の引き伸ばし" 
+        intervals [29]:
+            xmin = 57.542 
+            xmax = 65.49716961004157 
+            text = "" 
+        intervals [30]:
+            xmin = 65.49716961004157 
+            xmax = 65.89547147496353 
+            text = "音韻の引き伸ばし" 
+        intervals [31]:
+            xmin = 65.89547147496353 
+            xmax = 65.94187557573113 
+            text = "" 
+        intervals [32]:
+            xmin = 65.94187557573113 
+            xmax = 66.5257938437235 
+            text = "語句の繰り返し" 
+        intervals [33]:
+            xmin = 66.5257938437235 
+            xmax = 67.41211094114571 
+            text = "" 
+        intervals [34]:
+            xmin = 67.41211094114571 
+            xmax = 67.81041280606766 
+            text = "音韻の引き伸ばし" 
+        intervals [35]:
+            xmin = 67.81041280606766 
+            xmax = 69.35620403833684 
+            text = "" 
+        intervals [36]:
+            xmin = 69.35620403833684 
+            xmax = 69.743 
+            text = "音韻の引き伸ばし" 
+        intervals [37]:
+            xmin = 69.743 
+            xmax = 71.5482302141792 
+            text = "" 
+        intervals [38]:
+            xmin = 71.5482302141792 
+            xmax = 72.15865611999666 
+            text = "音韻の引き伸ばし" 
+        intervals [39]:
+            xmin = 72.15865611999666 
+            xmax = 73.39112582660772 
+            text = "" 
+        intervals [40]:
+            xmin = 73.39112582660772 
+            xmax = 73.58447624647275 
+            text = "音韻の引き伸ばし" 
+        intervals [41]:
+            xmin = 73.58447624647275 
+            xmax = 73.61927932204846 
+            text = "" 
+        intervals [42]:
+            xmin = 73.61927932204846 
+            xmax = 73.75075760755666 
+            text = "フィラー" 
+        intervals [43]:
+            xmin = 73.75075760755666 
+            xmax = 74.3414269926945 
+            text = "" 
+        intervals [44]:
+            xmin = 74.3414269926945 
+            xmax = 74.58118151332712 
+            text = "音韻の引き伸ばし" 
+        intervals [45]:
+            xmin = 74.58118151332712 
+            xmax = 84.59651640093125 
+            text = "" 
+        intervals [46]:
+            xmin = 84.59651640093125 
+            xmax = 84.9909512574559 
+            text = "音韻の引き伸ばし" 
+        intervals [47]:
+            xmin = 84.9909512574559 
+            xmax = 92.94719492260096 
+            text = "" 
+        intervals [48]:
+            xmin = 92.94719492260096 
+            xmax = 93.443 
+            text = "音韻の引き伸ばし" 
+        intervals [49]:
+            xmin = 93.443 
+            xmax = 95.78816478875328 
+            text = "" 
+        intervals [50]:
+            xmin = 95.78816478875328 
+            xmax = 96.22900374604554 
+            text = "音韻の引き伸ばし" 
+        intervals [51]:
+            xmin = 96.22900374604554 
+            xmax = 136.40034537867373 
+            text = "" 
+        intervals [52]:
+            xmin = 136.40034537867373 
+            xmax = 136.591 
+            text = "音韻の引き伸ばし" 
+        intervals [53]:
+            xmin = 136.591 
+            xmax = 149.9940025258266 
+            text = "" 
+        intervals [54]:
+            xmin = 149.9940025258266 
+            xmax = 150.616 
+            text = "フィラー" 
+        intervals [55]:
+            xmin = 150.616 
+            xmax = 151.91658432434545 
+            text = "" 
+        intervals [56]:
+            xmin = 151.91658432434545 
+            xmax = 152.22594499612947 
+            text = "語の中断" 
+        intervals [57]:
+            xmin = 152.22594499612947 
+            xmax = 152.2646150801025 
+            text = "" 
+        intervals [58]:
+            xmin = 152.2646150801025 
+            xmax = 152.99934667558955 
+            text = "語句の繰り返し" 
+        intervals [59]:
+            xmin = 152.99934667558955 
+            xmax = 165.12684032255984 
+            text = "" 
+        intervals [60]:
+            xmin = 165.12684032255984 
+            xmax = 165.26991963325995 
+            text = "語の中断" 
+        intervals [61]:
+            xmin = 165.26991963325995 
+            xmax = 170.70062072774732 
+            text = "" 
+        intervals [62]:
+            xmin = 170.70062072774732 
+            xmax = 171.253 
+            text = "音韻の引き伸ばし" 
+        intervals [63]:
+            xmin = 171.253 
+            xmax = 171.6165721674898 
+            text = "" 
+        intervals [64]:
+            xmin = 171.6165721674898 
+            xmax = 171.8994517849142 
+            text = "音韻の引き伸ばし" 
+        intervals [65]:
+            xmin = 171.8994517849142 
+            xmax = 172.038664087217 
+            text = "" 
+        intervals [66]:
+            xmin = 172.038664087217 
+            xmax = 172.30162065823342 
+            text = "語の中断" 
+        intervals [67]:
+            xmin = 172.30162065823342 
+            xmax = 172.3209557002199 
+            text = "" 
+        intervals [68]:
+            xmin = 172.3209557002199 
+            xmax = 172.68445448956615 
+            text = "語句の繰り返し" 
+        intervals [69]:
+            xmin = 172.68445448956615 
+            xmax = 181.72875495522553 
+            text = "" 
+        intervals [70]:
+            xmin = 181.72875495522553 
+            xmax = 182.13516490269797 
+            text = "語の中断" 
+        intervals [71]:
+            xmin = 182.13516490269797 
+            xmax = 183.036 
+            text = "" 
+        intervals [72]:
+            xmin = 183.036 
+            xmax = 183.30723732876248 
+            text = "語句の繰り返し" 
+        intervals [73]:
+            xmin = 183.30723732876248 
+            xmax = 210.39938593446175 
+            text = "" 
+        intervals [74]:
+            xmin = 210.39938593446175 
+            xmax = 210.99941036262712 
+            text = "音韻の引き伸ばし" 
+        intervals [75]:
+            xmin = 210.99941036262712 
+            xmax = 211.50508115687708 
+            text = "" 
+        intervals [76]:
+            xmin = 211.50508115687708 
+            xmax = 211.924 
+            text = "フィラー" 
+        intervals [77]:
+            xmin = 211.924 
+            xmax = 213.13210879249147 
+            text = "" 
+        intervals [78]:
+            xmin = 213.13210879249147 
+            xmax = 213.565 
+            text = "音韻の引き伸ばし" 
+        intervals [79]:
+            xmin = 213.565 
+            xmax = 217.6707537990624 
+            text = "" 
+        intervals [80]:
+            xmin = 217.6707537990624 
+            xmax = 218.03811959680593 
+            text = "音韻の引き伸ばし" 
+        intervals [81]:
+            xmin = 218.03811959680593 
+            xmax = 218.1914893998325 
+            text = "" 
+        intervals [82]:
+            xmin = 218.1914893998325 
+            xmax = 218.81407775179787 
+            text = "音韻の引き伸ばし" 
+        intervals [83]:
+            xmin = 218.81407775179787 
+            xmax = 222.13598410008854 
+            text = "" 
+        intervals [84]:
+            xmin = 222.13598410008854 
+            xmax = 222.64256220013488 
+            text = "フィラー" 
+        intervals [85]:
+            xmin = 222.64256220013488 
+            xmax = 223.86635038177522 
+            text = "" 
+        intervals [86]:
+            xmin = 223.86635038177522 
+            xmax = 224.193 
+            text = "音韻の引き伸ばし" 
+        intervals [87]:
+            xmin = 224.193 
+            xmax = 227.2902556162705 
+            text = "" 
+        intervals [88]:
+            xmin = 227.2902556162705 
+            xmax = 227.67573927370614 
+            text = "音韻の引き伸ばし" 
+        intervals [89]:
+            xmin = 227.67573927370614 
+            xmax = 228.62722839508538 
+            text = "" 
+        intervals [90]:
+            xmin = 228.62722839508538 
+            xmax = 229.12993948673443 
+            text = "音韻の引き伸ばし" 
+        intervals [91]:
+            xmin = 229.12993948673443 
+            xmax = 253.50063862637938 
+            text = "" 
+        intervals [92]:
+            xmin = 253.50063862637938 
+            xmax = 253.7326591302174 
+            text = "フィラー" 
+        intervals [93]:
+            xmin = 253.7326591302174 
+            xmax = 265.86511959324145 
+            text = "" 
+        intervals [94]:
+            xmin = 265.86511959324145 
+            xmax = 266.37 
+            text = "音韻の引き伸ばし" 
+        intervals [95]:
+            xmin = 266.37 
+            xmax = 268.93218947453045 
+            text = "" 
+        intervals [96]:
+            xmin = 268.93218947453045 
+            xmax = 269.32662433105503 
+            text = "フィラー" 
+        intervals [97]:
+            xmin = 269.32662433105503 
+            xmax = 282.856 
+            text = "" 
+        intervals [98]:
+            xmin = 282.856 
+            xmax = 283.1250809198807 
+            text = "フィラー" 
+        intervals [99]:
+            xmin = 283.1250809198807 
+            xmax = 284.08665547794305 
+            text = "" 
+        intervals [100]:
+            xmin = 284.08665547794305 
+            xmax = 284.59710058638666 
+            text = "音韻の引き伸ばし" 
+        intervals [101]:
+            xmin = 284.59710058638666 
+            xmax = 293.9142328011663 
+            text = "" 
+        intervals [102]:
+            xmin = 293.9142328011663 
+            xmax = 294.237 
+            text = "音韻の引き伸ばし" 
+        intervals [103]:
+            xmin = 294.237 
+            xmax = 314.3765216219936 
+            text = "" 
+        intervals [104]:
+            xmin = 314.3765216219936 
+            xmax = 314.5660050334613 
+            text = "語の中断" 
+        intervals [105]:
+            xmin = 314.5660050334613 
+            xmax = 314.59307409224243 
+            text = "" 
+        intervals [106]:
+            xmin = 314.59307409224243 
+            xmax = 315.05324809152114 
+            text = "語句の繰り返し" 
+        intervals [107]:
+            xmin = 315.05324809152114 
+            xmax = 318.39142387484276 
+            text = "" 
+        intervals [108]:
+            xmin = 318.39142387484276 
+            xmax = 318.9598741092459 
+            text = "音韻の引き伸ばし" 
+        intervals [109]:
+            xmin = 318.9598741092459 
+            xmax = 319.2787530989159 
+            text = "" 
+        intervals [110]:
+            xmin = 319.2787530989159 
+            xmax = 319.6577199218513 
+            text = "音韻の引き伸ばし" 
+        intervals [111]:
+            xmin = 319.6577199218513 
+            xmax = 324.52479146298015 
+            text = "" 
+        intervals [112]:
+            xmin = 324.52479146298015 
+            xmax = 325.1473798149455 
+            text = "音韻の引き伸ばし" 
+        intervals [113]:
+            xmin = 325.1473798149455 
+            xmax = 326.6088398099125 
+            text = "" 
+        intervals [114]:
+            xmin = 326.6088398099125 
+            xmax = 326.8524613389425 
+            text = "語の中断" 
+        intervals [115]:
+            xmin = 326.8524613389425 
+            xmax = 326.87566338932623 
+            text = "" 
+        intervals [116]:
+            xmin = 326.87566338932623 
+            xmax = 327.1308859435481 
+            text = "語句の繰り返し" 
+        intervals [117]:
+            xmin = 327.1308859435481 
+            xmax = 329.7243964992748 
+            text = "" 
+        intervals [118]:
+            xmin = 329.7243964992748 
+            xmax = 330.473 
+            text = "音韻の引き伸ばし" 
+        intervals [119]:
+            xmin = 330.473 
+            xmax = 331.7134954833622 
+            text = "" 
+        intervals [120]:
+            xmin = 331.7134954833622 
+            xmax = 332.3226961576243 
+            text = "音韻の引き伸ばし" 
+        intervals [121]:
+            xmin = 332.3226961576243 
+            xmax = 333.302 
+            text = "" 
+        intervals [122]:
+            xmin = 333.302 
+            xmax = 333.5118255853512 
+            text = "フィラー" 
+        intervals [123]:
+            xmin = 333.5118255853512 
+            xmax = 340.2976804037463 
+            text = "" 
+        intervals [124]:
+            xmin = 340.2976804037463 
+            xmax = 340.575 
+            text = "音韻の引き伸ばし" 
+        intervals [125]:
+            xmin = 340.575 
+            xmax = 342.7027196746563 
+            text = "" 
+        intervals [126]:
+            xmin = 342.7027196746563 
+            xmax = 343.193 
+            text = "音韻の引き伸ばし" 
+        intervals [127]:
+            xmin = 343.193 
+            xmax = 352.147 
+            text = "" 
+        intervals [128]:
+            xmin = 352.147 
+            xmax = 352.78581795831604 
+            text = "フィラー" 
+        intervals [129]:
+            xmin = 352.78581795831604 
+            xmax = 353.4587066464482 
+            text = "" 
+        intervals [130]:
+            xmin = 353.4587066464482 
+            xmax = 353.97688577168645 
+            text = "音韻の引き伸ばし" 
+        intervals [131]:
+            xmin = 353.97688577168645 
+            xmax = 355.86624393888627 
+            text = "" 
+        intervals [132]:
+            xmin = 355.86624393888627 
+            xmax = 356.65985236842437 
+            text = "音韻の引き伸ばし" 
+        intervals [133]:
+            xmin = 356.65985236842437 
+            xmax = 357.8398748893844 
+            text = "" 
+        intervals [134]:
+            xmin = 357.8398748893844 
+            xmax = 358.357 
+            text = "フィラー" 
+        intervals [135]:
+            xmin = 358.357 
+            xmax = 359.6403210904485 
+            text = "" 
+        intervals [136]:
+            xmin = 359.6403210904485 
+            xmax = 360.17396824927596 
+            text = "音韻の引き伸ばし" 
+        intervals [137]:
+            xmin = 360.17396824927596 
+            xmax = 364 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "MNAdisfluency" 
+        xmin = 0 
+        xmax = 364 
+        intervals: size = 109 
+        intervals [1]:
+            xmin = 0 
+            xmax = 17.4265773115756 
+            text = "" 
+        intervals [2]:
+            xmin = 17.4265773115756 
+            xmax = 17.62389001256951 
+            text = "音韻の引き伸ばし" 
+        intervals [3]:
+            xmin = 17.62389001256951 
+            xmax = 18.466802570449435 
+            text = "" 
+        intervals [4]:
+            xmin = 18.466802570449435 
+            xmax = 18.84635969794796 
+            text = "音韻の引き伸ばし" 
+        intervals [5]:
+            xmin = 18.84635969794796 
+            xmax = 33.2560439374294 
+            text = "" 
+        intervals [6]:
+            xmin = 33.2560439374294 
+            xmax = 33.435314676130915 
+            text = "音韻の引き伸ばし" 
+        intervals [7]:
+            xmin = 33.435314676130915 
+            xmax = 42.85960395282274 
+            text = "" 
+        intervals [8]:
+            xmin = 42.85960395282274 
+            xmax = 43.133596712975425 
+            text = "音韻の引き伸ばし" 
+        intervals [9]:
+            xmin = 43.133596712975425 
+            xmax = 44.27962666307624 
+            text = "" 
+        intervals [10]:
+            xmin = 44.27962666307624 
+            xmax = 44.573 
+            text = "音韻の引き伸ばし" 
+        intervals [11]:
+            xmin = 44.573 
+            xmax = 45.73617829599309 
+            text = "" 
+        intervals [12]:
+            xmin = 45.73617829599309 
+            xmax = 46.14994819450424 
+            text = "音韻の引き伸ばし" 
+        intervals [13]:
+            xmin = 46.14994819450424 
+            xmax = 46.548250059426195 
+            text = "" 
+        intervals [14]:
+            xmin = 46.548250059426195 
+            xmax = 47.057 
+            text = "音韻の引き伸ばし" 
+        intervals [15]:
+            xmin = 47.057 
+            xmax = 48.62209559503795 
+            text = "" 
+        intervals [16]:
+            xmin = 48.62209559503795 
+            xmax = 48.85798310727328 
+            text = "音韻の引き伸ばし" 
+        intervals [17]:
+            xmin = 48.85798310727328 
+            xmax = 50.08813631883888 
+            text = "" 
+        intervals [18]:
+            xmin = 50.08813631883888 
+            xmax = 50.343578587189725 
+            text = "音韻の引き伸ばし" 
+        intervals [19]:
+            xmin = 50.343578587189725 
+            xmax = 60.11440113822628 
+            text = "" 
+        intervals [20]:
+            xmin = 60.11440113822628 
+            xmax = 60.2261156675 
+            text = "フィラー" 
+        intervals [21]:
+            xmin = 60.2261156675 
+            xmax = 61.268540541687365 
+            text = "" 
+        intervals [22]:
+            xmin = 61.268540541687365 
+            xmax = 61.635 
+            text = "音韻の引き伸ばし" 
+        intervals [23]:
+            xmin = 61.635 
+            xmax = 80.95605869618689 
+            text = "" 
+        intervals [24]:
+            xmin = 80.95605869618689 
+            xmax = 81.38780468080515 
+            text = "音韻の引き伸ばし" 
+        intervals [25]:
+            xmin = 81.38780468080515 
+            xmax = 89.06452333635477 
+            text = "" 
+        intervals [26]:
+            xmin = 89.06452333635477 
+            xmax = 90.19653523645593 
+            text = "フィラー" 
+        intervals [27]:
+            xmin = 90.19653523645593 
+            xmax = 90.95238617502089 
+            text = "" 
+        intervals [28]:
+            xmin = 90.95238617502089 
+            xmax = 91.24627881321574 
+            text = "語句の繰り返し" 
+        intervals [29]:
+            xmin = 91.24627881321574 
+            xmax = 103.07030600916838 
+            text = "" 
+        intervals [30]:
+            xmin = 103.07030600916838 
+            xmax = 103.41560540050548 
+            text = "語の中断" 
+        intervals [31]:
+            xmin = 103.41560540050548 
+            xmax = 104.97274813737054 
+            text = "" 
+        intervals [32]:
+            xmin = 104.97274813737054 
+            xmax = 105.3285129099222 
+            text = "フィラー" 
+        intervals [33]:
+            xmin = 105.3285129099222 
+            xmax = 105.3749170106898 
+            text = "" 
+        intervals [34]:
+            xmin = 105.3749170106898 
+            xmax = 106.08644655579309 
+            text = "語の中断" 
+        intervals [35]:
+            xmin = 106.08644655579309 
+            xmax = 106.89786776919016 
+            text = "" 
+        intervals [36]:
+            xmin = 106.89786776919016 
+            xmax = 108.23160059177724 
+            text = "語句の繰り返し" 
+        intervals [37]:
+            xmin = 108.23160059177724 
+            xmax = 108.94521933387394 
+            text = "" 
+        intervals [38]:
+            xmin = 108.94521933387394 
+            xmax = 109.65518617507811 
+            text = "語句の繰り返し" 
+        intervals [39]:
+            xmin = 109.65518617507811 
+            xmax = 114.00048076178402 
+            text = "" 
+        intervals [40]:
+            xmin = 114.00048076178402 
+            xmax = 114.3328768508038 
+            text = "音韻の引き伸ばし" 
+        intervals [41]:
+            xmin = 114.3328768508038 
+            xmax = 116.14714419051174 
+            text = "" 
+        intervals [42]:
+            xmin = 116.14714419051174 
+            xmax = 116.7194614333122 
+            text = "語の中断" 
+        intervals [43]:
+            xmin = 116.7194614333122 
+            xmax = 118.02594268617277 
+            text = "" 
+        intervals [44]:
+            xmin = 118.02594268617277 
+            xmax = 118.2540961816135 
+            text = "フィラー" 
+        intervals [45]:
+            xmin = 118.2540961816135 
+            xmax = 119.20538024734941 
+            text = "" 
+        intervals [46]:
+            xmin = 119.20538024734941 
+            xmax = 119.68488928861467 
+            text = "音韻の引き伸ばし" 
+        intervals [47]:
+            xmin = 119.68488928861467 
+            xmax = 120.92595903193742 
+            text = "" 
+        intervals [48]:
+            xmin = 120.92595903193742 
+            xmax = 121.346 
+            text = "音韻の引き伸ばし" 
+        intervals [49]:
+            xmin = 121.346 
+            xmax = 124.68766298386737 
+            text = "" 
+        intervals [50]:
+            xmin = 124.68766298386737 
+            xmax = 125.0550287816109 
+            text = "音韻の引き伸ばし" 
+        intervals [51]:
+            xmin = 125.0550287816109 
+            xmax = 125.07049681520012 
+            text = "" 
+        intervals [52]:
+            xmin = 125.07049681520012 
+            xmax = 125.23677817628403 
+            text = "フィラー" 
+        intervals [53]:
+            xmin = 125.23677817628403 
+            xmax = 132.09967059164396 
+            text = "" 
+        intervals [54]:
+            xmin = 132.09967059164396 
+            xmax = 132.35421689092277 
+            text = "音韻の引き伸ばし" 
+        intervals [55]:
+            xmin = 132.35421689092277 
+            xmax = 161.60036861643263 
+            text = "" 
+        intervals [56]:
+            xmin = 161.60036861643263 
+            xmax = 162.2171941251584 
+            text = "音韻の引き伸ばし" 
+        intervals [57]:
+            xmin = 162.2171941251584 
+            xmax = 175.84219141108056 
+            text = "" 
+        intervals [58]:
+            xmin = 175.84219141108056 
+            xmax = 176.3380926822698 
+            text = "音韻の引き伸ばし" 
+        intervals [59]:
+            xmin = 176.3380926822698 
+            xmax = 177.64186543770413 
+            text = "" 
+        intervals [60]:
+            xmin = 177.64186543770413 
+            xmax = 177.88935397513137 
+            text = "語の中断" 
+        intervals [61]:
+            xmin = 177.88935397513137 
+            xmax = 177.92029004230977 
+            text = "" 
+        intervals [62]:
+            xmin = 177.92029004230977 
+            xmax = 178.55447941946701 
+            text = "語句の繰り返し" 
+        intervals [63]:
+            xmin = 178.55447941946701 
+            xmax = 190.64970795332965 
+            text = "" 
+        intervals [64]:
+            xmin = 190.64970795332965 
+            xmax = 191.011 
+            text = "語句の繰り返し" 
+        intervals [65]:
+            xmin = 191.011 
+            xmax = 195.28112122049563 
+            text = "" 
+        intervals [66]:
+            xmin = 195.28112122049563 
+            xmax = 195.8611724800907 
+            text = "語句の繰り返し" 
+        intervals [67]:
+            xmin = 195.8611724800907 
+            xmax = 202.1385179222641 
+            text = "" 
+        intervals [68]:
+            xmin = 202.1385179222641 
+            xmax = 202.76734493525913 
+            text = "フィラー" 
+        intervals [69]:
+            xmin = 202.76734493525913 
+            xmax = 216.3794714005785 
+            text = "" 
+        intervals [70]:
+            xmin = 216.3794714005785 
+            xmax = 216.991 
+            text = "音韻の引き伸ばし" 
+        intervals [71]:
+            xmin = 216.991 
+            xmax = 221.13938221464542 
+            text = "" 
+        intervals [72]:
+            xmin = 221.13938221464542 
+            xmax = 221.664 
+            text = "音韻の引き伸ばし" 
+        intervals [73]:
+            xmin = 221.664 
+            xmax = 226.619 
+            text = "" 
+        intervals [74]:
+            xmin = 226.619 
+            xmax = 226.8651830987819 
+            text = "語の中断" 
+        intervals [75]:
+            xmin = 226.8651830987819 
+            xmax = 233.1 
+            text = "" 
+        intervals [76]:
+            xmin = 233.1 
+            xmax = 234.12077895500713 
+            text = "フィラー" 
+        intervals [77]:
+            xmin = 234.12077895500713 
+            xmax = 243.9230186351088 
+            text = "" 
+        intervals [78]:
+            xmin = 243.9230186351088 
+            xmax = 244.45974462223467 
+            text = "語の中断" 
+        intervals [79]:
+            xmin = 244.45974462223467 
+            xmax = 247.34897734990832 
+            text = "" 
+        intervals [80]:
+            xmin = 247.34897734990832 
+            xmax = 247.8353594082961 
+            text = "音韻の引き伸ばし" 
+        intervals [81]:
+            xmin = 247.8353594082961 
+            xmax = 249.24776615398847 
+            text = "" 
+        intervals [82]:
+            xmin = 249.24776615398847 
+            xmax = 249.8 
+            text = "音韻の引き伸ばし" 
+        intervals [83]:
+            xmin = 249.8 
+            xmax = 252.42802063245213 
+            text = "" 
+        intervals [84]:
+            xmin = 252.42802063245213 
+            xmax = 253.058 
+            text = "音韻の引き伸ばし" 
+        intervals [85]:
+            xmin = 253.058 
+            xmax = 273.03984147491144 
+            text = "" 
+        intervals [86]:
+            xmin = 273.03984147491144 
+            xmax = 273.252526936763 
+            text = "音韻の引き伸ばし" 
+        intervals [87]:
+            xmin = 273.252526936763 
+            xmax = 308.5125048617999 
+            text = "" 
+        intervals [88]:
+            xmin = 308.5125048617999 
+            xmax = 309.0113489450516 
+            text = "音韻の引き伸ばし" 
+        intervals [89]:
+            xmin = 309.0113489450516 
+            xmax = 309.6068682382359 
+            text = "" 
+        intervals [90]:
+            xmin = 309.6068682382359 
+            xmax = 309.8491156462585 
+            text = "音韻の引き伸ばし" 
+        intervals [91]:
+            xmin = 309.8491156462585 
+            xmax = 310.876 
+            text = "" 
+        intervals [92]:
+            xmin = 310.876 
+            xmax = 311.469 
+            text = "フィラー" 
+        intervals [93]:
+            xmin = 311.469 
+            xmax = 313.5335137913821 
+            text = "" 
+        intervals [94]:
+            xmin = 313.5335137913821 
+            xmax = 314.2314725331402 
+            text = "音韻の引き伸ばし" 
+        intervals [95]:
+            xmin = 314.2314725331402 
+            xmax = 314.4968212601495 
+            text = "" 
+        intervals [96]:
+            xmin = 314.4968212601495 
+            xmax = 314.82156642423786 
+            text = "フィラー" 
+        intervals [97]:
+            xmin = 314.82156642423786 
+            xmax = 316.4799959680459 
+            text = "" 
+        intervals [98]:
+            xmin = 316.4799959680459 
+            xmax = 316.78581398852106 
+            text = "フィラー" 
+        intervals [99]:
+            xmin = 316.78581398852106 
+            xmax = 322.2990304639844 
+            text = "" 
+        intervals [100]:
+            xmin = 322.2990304639844 
+            xmax = 322.53673383254556 
+            text = "語の中断" 
+        intervals [101]:
+            xmin = 322.53673383254556 
+            xmax = 343.59358827391026 
+            text = "" 
+        intervals [102]:
+            xmin = 343.59358827391026 
+            xmax = 344.03829423959985 
+            text = "音韻の引き伸ばし" 
+        intervals [103]:
+            xmin = 344.03829423959985 
+            xmax = 344.5216702892624 
+            text = "" 
+        intervals [104]:
+            xmin = 344.5216702892624 
+            xmax = 344.8581000198275 
+            text = "フィラー" 
+        intervals [105]:
+            xmin = 344.8581000198275 
+            xmax = 345.3147930979291 
+            text = "" 
+        intervals [106]:
+            xmin = 345.3147930979291 
+            xmax = 345.76336607201597 
+            text = "音韻の引き伸ばし" 
+        intervals [107]:
+            xmin = 345.76336607201597 
+            xmax = 349.658 
+            text = "" 
+        intervals [108]:
+            xmin = 349.658 
+            xmax = 350.30864189289514 
+            text = "音韻の引き伸ばし" 
+        intervals [109]:
+            xmin = 350.30864189289514 
+            xmax = 364 
+            text = "" 

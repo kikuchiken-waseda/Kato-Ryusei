@@ -1,0 +1,1799 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 362.6978458049887 
+tiers? <exists> 
+size = 7 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "IPU_R" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 177 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.823 
+            text = "#" 
+        intervals [2]:
+            xmin = 1.823 
+            xmax = 2.854 
+            text = "なんかあります" 
+        intervals [3]:
+            xmin = 2.854 
+            xmax = 4.855 
+            text = "" 
+        intervals [4]:
+            xmin = 4.855 
+            xmax = 5.294 
+            text = "赤" 
+        intervals [5]:
+            xmin = 5.294 
+            xmax = 8.19 
+            text = "" 
+        intervals [6]:
+            xmin = 8.19 
+            xmax = 9.989 
+            text = "好きですね僕もねえ" 
+        intervals [7]:
+            xmin = 9.989 
+            xmax = 14.693 
+            text = "" 
+        intervals [8]:
+            xmin = 14.693 
+            xmax = 17.428 
+            text = "はいはいはい僕もそうですね今日の" 
+        intervals [9]:
+            xmin = 17.428 
+            xmax = 18.248 
+            text = "" 
+        intervals [10]:
+            xmin = 18.248 
+            xmax = 20.215 
+            text = "今日のダウン赤ですし" 
+        intervals [11]:
+            xmin = 20.215 
+            xmax = 20.485 
+            text = "" 
+        intervals [12]:
+            xmin = 20.485 
+            xmax = 23.551 
+            text = "そもそもシャツ赤ですし色被ったとか思いながら" 
+        intervals [13]:
+            xmin = 23.551 
+            xmax = 24.885 
+            text = "" 
+        intervals [14]:
+            xmin = 24.885 
+            xmax = 25.307 
+            text = "ねえ" 
+        intervals [15]:
+            xmin = 25.307 
+            xmax = 26.785 
+            text = "" 
+        intervals [16]:
+            xmin = 26.785 
+            xmax = 27.241 
+            text = "いやいや" 
+        intervals [17]:
+            xmin = 27.241 
+            xmax = 27.857 
+            text = "" 
+        intervals [18]:
+            xmin = 27.857 
+            xmax = 29.318 
+            text = "んふ" 
+        intervals [19]:
+            xmin = 29.318 
+            xmax = 30.542 
+            text = "" 
+        intervals [20]:
+            xmin = 30.542 
+            xmax = 32.105 
+            text = "赤ねえ" 
+        intervals [21]:
+            xmin = 32.105 
+            xmax = 34.874 
+            text = "" 
+        intervals [22]:
+            xmin = 34.874 
+            xmax = 36.268 
+            text = "赤ですか" 
+        intervals [23]:
+            xmin = 36.268 
+            xmax = 43.091 
+            text = "" 
+        intervals [24]:
+            xmin = 43.091 
+            xmax = 43.969 
+            text = "赤ね" 
+        intervals [25]:
+            xmin = 43.969 
+            xmax = 45.185 
+            text = "" 
+        intervals [26]:
+            xmin = 45.185 
+            xmax = 49.905 
+            text = "いやあの外にいた外にもう一人いた彼がネルフの" 
+        intervals [27]:
+            xmin = 49.905 
+            xmax = 53.908 
+            text = "" 
+        intervals [28]:
+            xmin = 53.908 
+            xmax = 57.809 
+            text = "出てるんふだけどそっち側に話を持ってっていいんだろうかとかいろいろ思いつつ" 
+        intervals [29]:
+            xmin = 57.809 
+            xmax = 59.54 
+            text = "" 
+        intervals [30]:
+            xmin = 59.54 
+            xmax = 60.089 
+            text = "ううん" 
+        intervals [31]:
+            xmin = 60.089 
+            xmax = 62.048 
+            text = "" 
+        intervals [32]:
+            xmin = 62.048 
+            xmax = 63.804 
+            text = "いやおれもそれほどでもないか" 
+        intervals [33]:
+            xmin = 63.804 
+            xmax = 64.784 
+            text = "" 
+        intervals [34]:
+            xmin = 64.784 
+            xmax = 65.122 
+            text = "赤" 
+        intervals [35]:
+            xmin = 65.122 
+            xmax = 65.502 
+            text = "" 
+        intervals [36]:
+            xmin = 65.502 
+            xmax = 65.975 
+            text = "なんか" 
+        intervals [37]:
+            xmin = 65.975 
+            xmax = 69.791 
+            text = "" 
+        intervals [38]:
+            xmin = 69.791 
+            xmax = 70.501 
+            text = "ねでも" 
+        intervals [39]:
+            xmin = 70.501 
+            xmax = 72.73 
+            text = "" 
+        intervals [40]:
+            xmin = 72.73 
+            xmax = 73.532 
+            text = "赤ね" 
+        intervals [41]:
+            xmin = 73.532 
+            xmax = 74.427 
+            text = "" 
+        intervals [42]:
+            xmin = 74.427 
+            xmax = 75.297 
+            text = "かっこいいけどね" 
+        intervals [43]:
+            xmin = 75.297 
+            xmax = 75.728 
+            text = "" 
+        intervals [44]:
+            xmin = 75.728 
+            xmax = 76.598 
+            text = "あっははは" 
+        intervals [45]:
+            xmin = 76.598 
+            xmax = 78.523 
+            text = "" 
+        intervals [46]:
+            xmin = 78.523 
+            xmax = 79.182 
+            text = "そうそう" 
+        intervals [47]:
+            xmin = 79.182 
+            xmax = 79.823 
+            text = "" 
+        intervals [48]:
+            xmin = 79.823 
+            xmax = 81.073 
+            text = "あそれだったらね" 
+        intervals [49]:
+            xmin = 81.073 
+            xmax = 81.85 
+            text = "" 
+        intervals [50]:
+            xmin = 81.85 
+            xmax = 84.822 
+            text = "この間免許取って教習所であの" 
+        intervals [51]:
+            xmin = 84.822 
+            xmax = 85.245 
+            text = "" 
+        intervals [52]:
+            xmin = 85.245 
+            xmax = 86.562 
+            text = "高速教習の時が" 
+        intervals [53]:
+            xmin = 86.562 
+            xmax = 87.508 
+            text = "" 
+        intervals [54]:
+            xmin = 87.508 
+            xmax = 88.909 
+            text = "赤いビーエムダブリューで" 
+        intervals [55]:
+            xmin = 88.909 
+            xmax = 90.007 
+            text = "" 
+        intervals [56]:
+            xmin = 90.007 
+            xmax = 92.194 
+            text = "わあ無駄にかっけえとか思い" 
+        intervals [57]:
+            xmin = 92.194 
+            xmax = 92.456 
+            text = "" 
+        intervals [58]:
+            xmin = 92.456 
+            xmax = 92.887 
+            text = "はは" 
+        intervals [59]:
+            xmin = 92.887 
+            xmax = 94.457 
+            text = "" 
+        intervals [60]:
+            xmin = 94.457 
+            xmax = 95.15 
+            text = "なんかね" 
+        intervals [61]:
+            xmin = 95.15 
+            xmax = 97.683 
+            text = "" 
+        intervals [62]:
+            xmin = 97.683 
+            xmax = 99.608 
+            text = "まあね赤はね" 
+        intervals [63]:
+            xmin = 99.608 
+            xmax = 99.836 
+            text = "" 
+        intervals [64]:
+            xmin = 99.836 
+            xmax = 101.795 
+            text = "目立つよね" 
+        intervals [65]:
+            xmin = 101.795 
+            xmax = 104.759 
+            text = "" 
+        intervals [66]:
+            xmin = 104.759 
+            xmax = 105.528 
+            text = "免許ねえ" 
+        intervals [67]:
+            xmin = 105.528 
+            xmax = 108.348 
+            text = "" 
+        intervals [68]:
+            xmin = 108.348 
+            xmax = 112.646 
+            text = "いやあでもねちゃんと行こうと思っていかないとね俺みたいにだらだらあの" 
+        intervals [69]:
+            xmin = 112.646 
+            xmax = 113.423 
+            text = "" 
+        intervals [70]:
+            xmin = 113.423 
+            xmax = 118.566 
+            text = "春に始めたらゴールデンウィークぐらいにとれるだろうと思ったらほんととったの十二月だったからねもう" 
+        intervals [71]:
+            xmin = 118.566 
+            xmax = 122.45 
+            text = "" 
+        intervals [72]:
+            xmin = 122.45 
+            xmax = 124.08 
+            text = "そうだねえ" 
+        intervals [73]:
+            xmin = 124.08 
+            xmax = 124.958 
+            text = "" 
+        intervals [74]:
+            xmin = 124.958 
+            xmax = 125.338 
+            text = "か" 
+        intervals [75]:
+            xmin = 125.338 
+            xmax = 129.991 
+            text = "" 
+        intervals [76]:
+            xmin = 129.991 
+            xmax = 131.224 
+            text = "赤か" 
+        intervals [77]:
+            xmin = 131.224 
+            xmax = 136.89 
+            text = "" 
+        intervals [78]:
+            xmin = 136.89 
+            xmax = 139.837 
+            text = "さっきしりとりで出てきてたけれど" 
+        intervals [79]:
+            xmin = 139.837 
+            xmax = 140.664 
+            text = "" 
+        intervals [80]:
+            xmin = 140.664 
+            xmax = 143.789 
+            text = "りんごりんごははは" 
+        intervals [81]:
+            xmin = 143.789 
+            xmax = 144.616 
+            text = "" 
+        intervals [82]:
+            xmin = 144.616 
+            xmax = 145.891 
+            text = "食べ物ででも赤" 
+        intervals [83]:
+            xmin = 145.891 
+            xmax = 146.153 
+            text = "" 
+        intervals [84]:
+            xmin = 146.153 
+            xmax = 147.622 
+            text = "ああでも辛い系か" 
+        intervals [85]:
+            xmin = 147.622 
+            xmax = 149.303 
+            text = "" 
+        intervals [86]:
+            xmin = 149.303 
+            xmax = 150.367 
+            text = "はいはい野菜とか" 
+        intervals [87]:
+            xmin = 150.367 
+            xmax = 151.194 
+            text = "" 
+        intervals [88]:
+            xmin = 151.194 
+            xmax = 155.56 
+            text = "トマトがねなんか昔嫌いだったんだけど最近食べれるようになったわ" 
+        intervals [89]:
+            xmin = 155.56 
+            xmax = 159.926 
+            text = "" 
+        intervals [90]:
+            xmin = 159.926 
+            xmax = 160.601 
+            text = "赤ね" 
+        intervals [91]:
+            xmin = 160.601 
+            xmax = 164.46 
+            text = "" 
+        intervals [92]:
+            xmin = 164.46 
+            xmax = 165.685 
+            text = "ほっほほ" 
+        intervals [93]:
+            xmin = 165.685 
+            xmax = 169.122 
+            text = "" 
+        intervals [94]:
+            xmin = 169.122 
+            xmax = 169.594 
+            text = "ううん" 
+        intervals [95]:
+            xmin = 169.594 
+            xmax = 172.719 
+            text = "" 
+        intervals [96]:
+            xmin = 172.719 
+            xmax = 173.445 
+            text = "ああ" 
+        intervals [97]:
+            xmin = 173.445 
+            xmax = 174.517 
+            text = "" 
+        intervals [98]:
+            xmin = 174.517 
+            xmax = 175.902 
+            text = "そうなの" 
+        intervals [99]:
+            xmin = 175.902 
+            xmax = 177.583 
+            text = "" 
+        intervals [100]:
+            xmin = 177.583 
+            xmax = 182.919 
+            text = "赤い眼鏡でね似合うのがあればと思って探したことがあるんだけど" 
+        intervals [101]:
+            xmin = 182.919 
+            xmax = 186.551 
+            text = "" 
+        intervals [102]:
+            xmin = 186.551 
+            xmax = 187.302 
+            text = "んははは" 
+        intervals [103]:
+            xmin = 187.302 
+            xmax = 188.299 
+            text = "" 
+        intervals [104]:
+            xmin = 188.299 
+            xmax = 188.923 
+            text = "目立つか" 
+        intervals [105]:
+            xmin = 188.923 
+            xmax = 190.156 
+            text = "" 
+        intervals [106]:
+            xmin = 190.156 
+            xmax = 190.874 
+            text = "あマジで" 
+        intervals [107]:
+            xmin = 190.874 
+            xmax = 192.234 
+            text = "" 
+        intervals [108]:
+            xmin = 192.234 
+            xmax = 192.698 
+            text = "はいはい" 
+        intervals [109]:
+            xmin = 192.698 
+            xmax = 198.195 
+            text = "" 
+        intervals [110]:
+            xmin = 198.195 
+            xmax = 199.006 
+            text = "あはいはいはい" 
+        intervals [111]:
+            xmin = 199.006 
+            xmax = 200.315 
+            text = "" 
+        intervals [112]:
+            xmin = 200.315 
+            xmax = 201.032 
+            text = "ううん" 
+        intervals [113]:
+            xmin = 201.032 
+            xmax = 204.841 
+            text = "" 
+        intervals [114]:
+            xmin = 204.841 
+            xmax = 210.439 
+            text = "あのでも赤い眼鏡かけてるずっと赤い眼鏡かけてる人だと" 
+        intervals [115]:
+            xmin = 210.439 
+            xmax = 211.866 
+            text = "" 
+        intervals [116]:
+            xmin = 211.866 
+            xmax = 212.339 
+            text = "なんか" 
+        intervals [117]:
+            xmin = 212.339 
+            xmax = 212.905 
+            text = "" 
+        intervals [118]:
+            xmin = 212.905 
+            xmax = 213.8 
+            text = "はずしたとき" 
+        intervals [119]:
+            xmin = 213.8 
+            xmax = 214.425 
+            text = "" 
+        intervals [120]:
+            xmin = 214.425 
+            xmax = 217.786 
+            text = "すごい印象が変わるからねそうそう" 
+        intervals [121]:
+            xmin = 217.786 
+            xmax = 220.412 
+            text = "" 
+        intervals [122]:
+            xmin = 220.412 
+            xmax = 221.468 
+            text = "まあね" 
+        intervals [123]:
+            xmin = 221.468 
+            xmax = 227.007 
+            text = "" 
+        intervals [124]:
+            xmin = 227.007 
+            xmax = 228.949 
+            text = "そうだね赤" 
+        intervals [125]:
+            xmin = 228.949 
+            xmax = 233.028 
+            text = "" 
+        intervals [126]:
+            xmin = 233.028 
+            xmax = 234.556 
+            text = "赤なあ" 
+        intervals [127]:
+            xmin = 234.556 
+            xmax = 238.93 
+            text = "" 
+        intervals [128]:
+            xmin = 238.93 
+            xmax = 240.332 
+            text = "うーんなかなか" 
+        intervals [129]:
+            xmin = 240.332 
+            xmax = 242.882 
+            text = "" 
+        intervals [130]:
+            xmin = 242.882 
+            xmax = 246.395 
+            text = "まあねテーマそりゃテーマあったほうがいいと言えばいいんだけど" 
+        intervals [131]:
+            xmin = 246.395 
+            xmax = 252.779 
+            text = "" 
+        intervals [132]:
+            xmin = 252.779 
+            xmax = 253.792 
+            text = "なんか" 
+        intervals [133]:
+            xmin = 253.792 
+            xmax = 259.053 
+            text = "" 
+        intervals [134]:
+            xmin = 259.053 
+            xmax = 260.126 
+            text = "なあ" 
+        intervals [135]:
+            xmin = 260.126 
+            xmax = 272.817 
+            text = "" 
+        intervals [136]:
+            xmin = 272.817 
+            xmax = 275.705 
+            text = "なんかないなんかないふふふ" 
+        intervals [137]:
+            xmin = 275.705 
+            xmax = 282.621 
+            text = "" 
+        intervals [138]:
+            xmin = 282.621 
+            xmax = 283.685 
+            text = "消防車とかね" 
+        intervals [139]:
+            xmin = 283.685 
+            xmax = 288 
+            text = "" 
+        intervals [140]:
+            xmin = 288 
+            xmax = 290.508 
+            text = "ああと改めまして赤松と申します" 
+        intervals [141]:
+            xmin = 290.508 
+            xmax = 293.514 
+            text = "" 
+        intervals [142]:
+            xmin = 293.514 
+            xmax = 293.928 
+            text = "うん" 
+        intervals [143]:
+            xmin = 293.928 
+            xmax = 294.452 
+            text = "" 
+        intervals [144]:
+            xmin = 294.452 
+            xmax = 296.774 
+            text = "赤くないけどね別に赤松はね" 
+        intervals [145]:
+            xmin = 296.774 
+            xmax = 297.905 
+            text = "" 
+        intervals [146]:
+            xmin = 297.905 
+            xmax = 298.682 
+            text = "赤いのか" 
+        intervals [147]:
+            xmin = 298.682 
+            xmax = 300.945 
+            text = "" 
+        intervals [148]:
+            xmin = 300.945 
+            xmax = 303.597 
+            text = "うーんもしかしたら赤っぽいのかもしれない" 
+        intervals [149]:
+            xmin = 303.597 
+            xmax = 304.188 
+            text = "" 
+        intervals [150]:
+            xmin = 304.188 
+            xmax = 305.378 
+            text = "ま茶色だけど" 
+        intervals [151]:
+            xmin = 305.378 
+            xmax = 308.292 
+            text = "" 
+        intervals [152]:
+            xmin = 308.292 
+            xmax = 310.014 
+            text = "そうだね" 
+        intervals [153]:
+            xmin = 310.014 
+            xmax = 315.334 
+            text = "" 
+        intervals [154]:
+            xmin = 315.334 
+            xmax = 316.829 
+            text = "あああいたいたいた" 
+        intervals [155]:
+            xmin = 316.829 
+            xmax = 318.518 
+            text = "" 
+        intervals [156]:
+            xmin = 318.518 
+            xmax = 319.016 
+            text = "あマジ" 
+        intervals [157]:
+            xmin = 319.016 
+            xmax = 323.652 
+            text = "" 
+        intervals [158]:
+            xmin = 323.652 
+            xmax = 324.716 
+            text = "実調ね" 
+        intervals [159]:
+            xmin = 324.716 
+            xmax = 327.089 
+            text = "" 
+        intervals [160]:
+            xmin = 327.089 
+            xmax = 332.079 
+            text = "ああそっか実調今季で二つ終わらすつもりだったのにな" 
+        intervals [161]:
+            xmin = 332.079 
+            xmax = 333.405 
+            text = "" 
+        intervals [162]:
+            xmin = 333.405 
+            xmax = 336.622 
+            text = "一個あれは取れなさそう" 
+        intervals [163]:
+            xmin = 336.622 
+            xmax = 339.375 
+            text = "" 
+        intervals [164]:
+            xmin = 339.375 
+            xmax = 341.056 
+            text = "そう四単位" 
+        intervals [165]:
+            xmin = 341.056 
+            xmax = 342.381 
+            text = "" 
+        intervals [166]:
+            xmin = 342.381 
+            xmax = 342.947 
+            text = "うん" 
+        intervals [167]:
+            xmin = 342.947 
+            xmax = 344.931 
+            text = "" 
+        intervals [168]:
+            xmin = 344.931 
+            xmax = 345.767 
+            text = "実調" 
+        intervals [169]:
+            xmin = 345.767 
+            xmax = 346.983 
+            text = "" 
+        intervals [170]:
+            xmin = 346.983 
+            xmax = 347.667 
+            text = "おおん" 
+        intervals [171]:
+            xmin = 347.667 
+            xmax = 352.422 
+            text = "" 
+        intervals [172]:
+            xmin = 352.422 
+            xmax = 353.317 
+            text = "ああそっかや" 
+        intervals [173]:
+            xmin = 353.317 
+            xmax = 355.715 
+            text = "" 
+        intervals [174]:
+            xmin = 355.715 
+            xmax = 356.956 
+            text = "あっはは" 
+        intervals [175]:
+            xmin = 356.956 
+            xmax = 357.868 
+            text = "" 
+        intervals [176]:
+            xmin = 357.868 
+            xmax = 360.908 
+            text = "わりとでもねしっかりとした授業ってのが" 
+        intervals [177]:
+            xmin = 360.908 
+            xmax = 362.6978458049887 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Event_R" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 362.6978458049887 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "IPU_L" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 143 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.928 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.928 
+            xmax = 1.62 
+            text = "へっへへ" 
+        intervals [3]:
+            xmin = 1.62 
+            xmax = 3.586 
+            text = "" 
+        intervals [4]:
+            xmin = 3.586 
+            xmax = 7.827 
+            text = "赤色赤色うんまあ一番好きな色っていうのはあるけど" 
+        intervals [5]:
+            xmin = 7.827 
+            xmax = 11.541 
+            text = "" 
+        intervals [6]:
+            xmin = 11.541 
+            xmax = 13.78 
+            text = "今靴も赤だし携帯も赤だし" 
+        intervals [7]:
+            xmin = 13.78 
+            xmax = 19.784 
+            text = "" 
+        intervals [8]:
+            xmin = 19.784 
+            xmax = 20.148 
+            text = "うん" 
+        intervals [9]:
+            xmin = 20.148 
+            xmax = 21.592 
+            text = "" 
+        intervals [10]:
+            xmin = 21.592 
+            xmax = 22.124 
+            text = "へへ" 
+        intervals [11]:
+            xmin = 22.124 
+            xmax = 27.435 
+            text = "" 
+        intervals [12]:
+            xmin = 27.435 
+            xmax = 27.95 
+            text = "へへへ" 
+        intervals [13]:
+            xmin = 27.95 
+            xmax = 36.411 
+            text = "" 
+        intervals [14]:
+            xmin = 36.411 
+            xmax = 37.053 
+            text = "困るなコマルナ" 
+        intervals [15]:
+            xmin = 37.053 
+            xmax = 44.552 
+            text = "" 
+        intervals [16]:
+            xmin = 44.552 
+            xmax = 45.16 
+            text = "ふふふ" 
+        intervals [17]:
+            xmin = 45.16 
+            xmax = 48.563 
+            text = "" 
+        intervals [18]:
+            xmin = 48.563 
+            xmax = 48.892 
+            text = "うん" 
+        intervals [19]:
+            xmin = 48.892 
+            xmax = 49.179 
+            text = "" 
+        intervals [20]:
+            xmin = 49.179 
+            xmax = 49.5 
+            text = "うん" 
+        intervals [21]:
+            xmin = 49.5 
+            xmax = 50.885 
+            text = "" 
+        intervals [22]:
+            xmin = 50.885 
+            xmax = 51.729 
+            text = "あははは" 
+        intervals [23]:
+            xmin = 51.729 
+            xmax = 57.944 
+            text = "" 
+        intervals [24]:
+            xmin = 57.944 
+            xmax = 60.089 
+            text = "詳しくないんだ残念ながら" 
+        intervals [25]:
+            xmin = 60.089 
+            xmax = 60.292 
+            text = "" 
+        intervals [26]:
+            xmin = 60.292 
+            xmax = 60.908 
+            text = "あははは" 
+        intervals [27]:
+            xmin = 60.908 
+            xmax = 66.92 
+            text = "" 
+        intervals [28]:
+            xmin = 66.92 
+            xmax = 67.36 
+            text = "なんだろ" 
+        intervals [29]:
+            xmin = 67.36 
+            xmax = 75.432 
+            text = "" 
+        intervals [30]:
+            xmin = 75.432 
+            xmax = 76.564 
+            text = "あはははは" 
+        intervals [31]:
+            xmin = 76.564 
+            xmax = 77.653 
+            text = "" 
+        intervals [32]:
+            xmin = 77.653 
+            xmax = 78.903 
+            text = "目立つよね赤はね" 
+        intervals [33]:
+            xmin = 78.903 
+            xmax = 84.121 
+            text = "" 
+        intervals [34]:
+            xmin = 84.121 
+            xmax = 84.501 
+            text = "うん" 
+        intervals [35]:
+            xmin = 84.501 
+            xmax = 86.883 
+            text = "" 
+        intervals [36]:
+            xmin = 86.883 
+            xmax = 87.432 
+            text = "うんうん" 
+        intervals [37]:
+            xmin = 87.432 
+            xmax = 88.681 
+            text = "" 
+        intervals [38]:
+            xmin = 88.681 
+            xmax = 89.771 
+            text = "おうあっはは" 
+        intervals [39]:
+            xmin = 89.771 
+            xmax = 91.063 
+            text = "" 
+        intervals [40]:
+            xmin = 91.063 
+            xmax = 92.051 
+            text = "かっこいいな" 
+        intervals [41]:
+            xmin = 92.051 
+            xmax = 100.951 
+            text = "" 
+        intervals [42]:
+            xmin = 100.951 
+            xmax = 101.331 
+            text = "うん" 
+        intervals [43]:
+            xmin = 101.331 
+            xmax = 102.488 
+            text = "" 
+        intervals [44]:
+            xmin = 102.488 
+            xmax = 104.101 
+            text = "免許まだとってねえんだよな" 
+        intervals [45]:
+            xmin = 104.101 
+            xmax = 105.612 
+            text = "" 
+        intervals [46]:
+            xmin = 105.612 
+            xmax = 108.99 
+            text = "あっははとらなきゃって思ってるけどずっととってないっていう" 
+        intervals [47]:
+            xmin = 108.99 
+            xmax = 110.788 
+            text = "" 
+        intervals [48]:
+            xmin = 110.788 
+            xmax = 111.16 
+            text = "うん" 
+        intervals [49]:
+            xmin = 111.16 
+            xmax = 112.249 
+            text = "" 
+        intervals [50]:
+            xmin = 112.249 
+            xmax = 113.052 
+            text = "あははは" 
+        intervals [51]:
+            xmin = 113.052 
+            xmax = 114.538 
+            text = "" 
+        intervals [52]:
+            xmin = 114.538 
+            xmax = 114.867 
+            text = "うん" 
+        intervals [53]:
+            xmin = 114.867 
+            xmax = 117.679 
+            text = "" 
+        intervals [54]:
+            xmin = 117.679 
+            xmax = 118.481 
+            text = "あははは" 
+        intervals [55]:
+            xmin = 118.481 
+            xmax = 129.222 
+            text = "" 
+        intervals [56]:
+            xmin = 129.222 
+            xmax = 129.771 
+            text = "なんか" 
+        intervals [57]:
+            xmin = 129.771 
+            xmax = 139.997 
+            text = "" 
+        intervals [58]:
+            xmin = 139.997 
+            xmax = 140.225 
+            text = "んん" 
+        intervals [59]:
+            xmin = 140.225 
+            xmax = 141.813 
+            text = "" 
+        intervals [60]:
+            xmin = 141.813 
+            xmax = 142.277 
+            text = "あっあっ" 
+        intervals [61]:
+            xmin = 142.277 
+            xmax = 142.607 
+            text = "" 
+        intervals [62]:
+            xmin = 142.607 
+            xmax = 143.974 
+            text = "食べ物" 
+        intervals [63]:
+            xmin = 143.974 
+            xmax = 146.609 
+            text = "" 
+        intervals [64]:
+            xmin = 146.609 
+            xmax = 147.209 
+            text = "りんご" 
+        intervals [65]:
+            xmin = 147.209 
+            xmax = 147.867 
+            text = "" 
+        intervals [66]:
+            xmin = 147.867 
+            xmax = 148.374 
+            text = "トマト" 
+        intervals [67]:
+            xmin = 148.374 
+            xmax = 148.653 
+            text = "" 
+        intervals [68]:
+            xmin = 148.653 
+            xmax = 149.033 
+            text = "ふふ" 
+        intervals [69]:
+            xmin = 149.033 
+            xmax = 154.251 
+            text = "" 
+        intervals [70]:
+            xmin = 154.251 
+            xmax = 155.315 
+            text = "あははははは" 
+        intervals [71]:
+            xmin = 155.315 
+            xmax = 161.361 
+            text = "" 
+        intervals [72]:
+            xmin = 161.361 
+            xmax = 161.851 
+            text = "赤ね" 
+        intervals [73]:
+            xmin = 161.851 
+            xmax = 162.425 
+            text = "" 
+        intervals [74]:
+            xmin = 162.425 
+            xmax = 162.898 
+            text = "うん" 
+        intervals [75]:
+            xmin = 162.898 
+            xmax = 181.172 
+            text = "" 
+        intervals [76]:
+            xmin = 181.172 
+            xmax = 181.822 
+            text = "あっはは" 
+        intervals [77]:
+            xmin = 181.822 
+            xmax = 182.632 
+            text = "" 
+        intervals [78]:
+            xmin = 182.632 
+            xmax = 182.995 
+            text = "うん" 
+        intervals [79]:
+            xmin = 182.995 
+            xmax = 186.137 
+            text = "" 
+        intervals [80]:
+            xmin = 186.137 
+            xmax = 186.61 
+            text = "うん" 
+        intervals [81]:
+            xmin = 186.61 
+            xmax = 187.876 
+            text = "" 
+        intervals [82]:
+            xmin = 187.876 
+            xmax = 190.021 
+            text = "俺でも赤っぽいやつつけてるよ" 
+        intervals [83]:
+            xmin = 190.021 
+            xmax = 191.195 
+            text = "" 
+        intervals [84]:
+            xmin = 191.195 
+            xmax = 192.504 
+            text = "今コンタクトだけど" 
+        intervals [85]:
+            xmin = 192.504 
+            xmax = 193.551 
+            text = "" 
+        intervals [86]:
+            xmin = 193.551 
+            xmax = 194.86 
+            text = "家では眼鏡だから" 
+        intervals [87]:
+            xmin = 194.86 
+            xmax = 196.878 
+            text = "" 
+        intervals [88]:
+            xmin = 196.878 
+            xmax = 198.829 
+            text = "赤っつうかえんじっつうかなんか" 
+        intervals [89]:
+            xmin = 198.829 
+            xmax = 199.85 
+            text = "" 
+        intervals [90]:
+            xmin = 199.85 
+            xmax = 200.56 
+            text = "そこらへんの" 
+        intervals [91]:
+            xmin = 200.56 
+            xmax = 215.379 
+            text = "" 
+        intervals [92]:
+            xmin = 215.379 
+            xmax = 215.759 
+            text = "うん" 
+        intervals [93]:
+            xmin = 215.759 
+            xmax = 216.258 
+            text = "" 
+        intervals [94]:
+            xmin = 216.258 
+            xmax = 217.558 
+            text = "ぜんぜん違うよ" 
+        intervals [95]:
+            xmin = 217.558 
+            xmax = 218.233 
+            text = "" 
+        intervals [96]:
+            xmin = 218.233 
+            xmax = 220.437 
+            text = "眼鏡がもともとそういうあれだからね" 
+        intervals [97]:
+            xmin = 220.437 
+            xmax = 234.32 
+            text = "" 
+        intervals [98]:
+            xmin = 234.32 
+            xmax = 234.784 
+            text = "っふ" 
+        intervals [99]:
+            xmin = 234.784 
+            xmax = 236.355 
+            text = "" 
+        intervals [100]:
+            xmin = 236.355 
+            xmax = 238.871 
+            text = "うんこんな質問されるとは思わなかったよね" 
+        intervals [101]:
+            xmin = 238.871 
+            xmax = 239.327 
+            text = "" 
+        intervals [102]:
+            xmin = 239.327 
+            xmax = 241.219 
+            text = "へへ普通に会話するのかと思った" 
+        intervals [103]:
+            xmin = 241.219 
+            xmax = 272.15 
+            text = "" 
+        intervals [104]:
+            xmin = 272.15 
+            xmax = 272.919 
+            text = "うんはは" 
+        intervals [105]:
+            xmin = 272.919 
+            xmax = 273.94 
+            text = "" 
+        intervals [106]:
+            xmin = 273.94 
+            xmax = 274.692 
+            text = "困る困る" 
+        intervals [107]:
+            xmin = 274.692 
+            xmax = 279.48 
+            text = "" 
+        intervals [108]:
+            xmin = 279.48 
+            xmax = 280.493 
+            text = "赤いもの" 
+        intervals [109]:
+            xmin = 280.493 
+            xmax = 281.388 
+            text = "" 
+        intervals [110]:
+            xmin = 281.388 
+            xmax = 282.587 
+            text = "まあ消防車とかね" 
+        intervals [111]:
+            xmin = 282.587 
+            xmax = 284.133 
+            text = "" 
+        intervals [112]:
+            xmin = 284.133 
+            xmax = 285.256 
+            text = "あのサイレン系ね" 
+        intervals [113]:
+            xmin = 285.256 
+            xmax = 289.866 
+            text = "" 
+        intervals [114]:
+            xmin = 289.866 
+            xmax = 290.736 
+            text = "あっはは" 
+        intervals [115]:
+            xmin = 290.736 
+            xmax = 292.205 
+            text = "" 
+        intervals [116]:
+            xmin = 292.205 
+            xmax = 293.835 
+            text = "そうだねそういえばそうだった" 
+        intervals [117]:
+            xmin = 293.835 
+            xmax = 295.659 
+            text = "" 
+        intervals [118]:
+            xmin = 295.659 
+            xmax = 296.428 
+            text = "へっへっへ" 
+        intervals [119]:
+            xmin = 296.428 
+            xmax = 299.721 
+            text = "" 
+        intervals [120]:
+            xmin = 299.721 
+            xmax = 300.709 
+            text = "なんなんだろうね" 
+        intervals [121]:
+            xmin = 300.709 
+            xmax = 305.058 
+            text = "" 
+        intervals [122]:
+            xmin = 305.058 
+            xmax = 305.691 
+            text = "ふふふ" 
+        intervals [123]:
+            xmin = 305.691 
+            xmax = 312.159 
+            text = "" 
+        intervals [124]:
+            xmin = 312.159 
+            xmax = 314.473 
+            text = "もう一人赤塚って子がいるんだよね" 
+        intervals [125]:
+            xmin = 314.473 
+            xmax = 315.824 
+            text = "" 
+        intervals [126]:
+            xmin = 315.824 
+            xmax = 317.04 
+            text = "このゼミに入った子で" 
+        intervals [127]:
+            xmin = 317.04 
+            xmax = 317.31 
+            text = "" 
+        intervals [128]:
+            xmin = 317.31 
+            xmax = 318.56 
+            text = "実調で一緒でさ" 
+        intervals [129]:
+            xmin = 318.56 
+            xmax = 319.16 
+            text = "" 
+        intervals [130]:
+            xmin = 319.16 
+            xmax = 321.076 
+            text = "うん木内先生の実調とってて" 
+        intervals [131]:
+            xmin = 321.076 
+            xmax = 332.29 
+            text = "" 
+        intervals [132]:
+            xmin = 332.29 
+            xmax = 332.898 
+            text = "あっはは" 
+        intervals [133]:
+            xmin = 332.898 
+            xmax = 337.264 
+            text = "" 
+        intervals [134]:
+            xmin = 337.264 
+            xmax = 339.122 
+            text = "実調落とすと結構大変だよね" 
+        intervals [135]:
+            xmin = 339.122 
+            xmax = 340.633 
+            text = "" 
+        intervals [136]:
+            xmin = 340.633 
+            xmax = 341.039 
+            text = "うん" 
+        intervals [137]:
+            xmin = 341.039 
+            xmax = 342.888 
+            text = "" 
+        intervals [138]:
+            xmin = 342.888 
+            xmax = 346.215 
+            text = "なんかでもあれなくなるかもしれないっていううわさがあるよねうん" 
+        intervals [139]:
+            xmin = 346.215 
+            xmax = 348.571 
+            text = "" 
+        intervals [140]:
+            xmin = 348.571 
+            xmax = 351.51 
+            text = "実調なんかいらないゼミとかが結構あるから" 
+        intervals [141]:
+            xmin = 351.51 
+            xmax = 352.599 
+            text = "" 
+        intervals [142]:
+            xmin = 352.599 
+            xmax = 356.112 
+            text = "なくしてもいいんじゃないかっていう議論が六年間ぐらい続いてるらしいよ" 
+        intervals [143]:
+            xmin = 356.112 
+            xmax = 362.6978458049887 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Event_L" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 362.6978458049887 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "comment" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 362.6978458049887 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "MAKdisfluency" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 91 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.24843924033563 
+            text = "" 
+        intervals [2]:
+            xmin = 9.24843924033563 
+            xmax = 9.989 
+            text = "音韻の引き伸ばし" 
+        intervals [3]:
+            xmin = 9.989 
+            xmax = 16.82318446914208 
+            text = "" 
+        intervals [4]:
+            xmin = 16.82318446914208 
+            xmax = 17.428 
+            text = "音韻の引き伸ばし" 
+        intervals [5]:
+            xmin = 17.428 
+            xmax = 18.248 
+            text = "" 
+        intervals [6]:
+            xmin = 18.248 
+            xmax = 19.224596683865688 
+            text = "語句の繰り返し" 
+        intervals [7]:
+            xmin = 19.224596683865688 
+            xmax = 19.698271046775435 
+            text = "" 
+        intervals [8]:
+            xmin = 19.698271046775435 
+            xmax = 20.215 
+            text = "音韻の引き伸ばし" 
+        intervals [9]:
+            xmin = 20.215 
+            xmax = 21.562152476554477 
+            text = "" 
+        intervals [10]:
+            xmin = 21.562152476554477 
+            xmax = 21.991390408654834 
+            text = "音韻の引き伸ばし" 
+        intervals [11]:
+            xmin = 21.991390408654834 
+            xmax = 45.62171370798525 
+            text = "" 
+        intervals [12]:
+            xmin = 45.62171370798525 
+            xmax = 46.103156253449164 
+            text = "フィラー" 
+        intervals [13]:
+            xmin = 46.103156253449164 
+            xmax = 47.04926215102896 
+            text = "" 
+        intervals [14]:
+            xmin = 47.04926215102896 
+            xmax = 47.72212161215924 
+            text = "語句の繰り返し" 
+        intervals [15]:
+            xmin = 47.72212161215924 
+            xmax = 49.43804641756481 
+            text = "" 
+        intervals [16]:
+            xmin = 49.43804641756481 
+            xmax = 49.905 
+            text = "音韻の引き伸ばし" 
+        intervals [17]:
+            xmin = 49.905 
+            xmax = 52.13166876760797 
+            text = "" 
+        intervals [18]:
+            xmin = 52.13166876760797 
+            xmax = 52.57830823749618 
+            text = "音韻の引き伸ばし" 
+        intervals [19]:
+            xmin = 52.57830823749618 
+            xmax = 52.77512108720245 
+            text = "" 
+        intervals [20]:
+            xmin = 52.77512108720245 
+            xmax = 53.511786186888195 
+            text = "音韻の引き伸ばし" 
+        intervals [21]:
+            xmin = 53.511786186888195 
+            xmax = 57.39839094523573 
+            text = "" 
+        intervals [22]:
+            xmin = 57.39839094523573 
+            xmax = 57.809 
+            text = "音韻の引き伸ばし" 
+        intervals [23]:
+            xmin = 57.809 
+            xmax = 80.69590052107507 
+            text = "" 
+        intervals [24]:
+            xmin = 80.69590052107507 
+            xmax = 81.073 
+            text = "フィラー" 
+        intervals [25]:
+            xmin = 81.073 
+            xmax = 84.04074244294692 
+            text = "" 
+        intervals [26]:
+            xmin = 84.04074244294692 
+            xmax = 84.58019011437034 
+            text = "フィラー" 
+        intervals [27]:
+            xmin = 84.58019011437034 
+            xmax = 86.15172444931693 
+            text = "" 
+        intervals [28]:
+            xmin = 86.15172444931693 
+            xmax = 86.562 
+            text = "音韻の引き伸ばし" 
+        intervals [29]:
+            xmin = 86.562 
+            xmax = 88.63081493966348 
+            text = "" 
+        intervals [30]:
+            xmin = 88.63081493966348 
+            xmax = 88.909 
+            text = "音韻の引き伸ばし" 
+        intervals [31]:
+            xmin = 88.909 
+            xmax = 97.683 
+            text = "" 
+        intervals [32]:
+            xmin = 97.683 
+            xmax = 98.26228588623127 
+            text = "フィラー" 
+        intervals [33]:
+            xmin = 98.26228588623127 
+            xmax = 101.00543665920642 
+            text = "" 
+        intervals [34]:
+            xmin = 101.00543665920642 
+            xmax = 101.795 
+            text = "音韻の引き伸ばし" 
+        intervals [35]:
+            xmin = 101.795 
+            xmax = 104.94156984048598 
+            text = "" 
+        intervals [36]:
+            xmin = 104.94156984048598 
+            xmax = 105.528 
+            text = "音韻の引き伸ばし" 
+        intervals [37]:
+            xmin = 105.528 
+            xmax = 108.70948815648305 
+            text = "" 
+        intervals [38]:
+            xmin = 108.70948815648305 
+            xmax = 109.15612762637126 
+            text = "音韻の引き伸ばし" 
+        intervals [39]:
+            xmin = 109.15612762637126 
+            xmax = 110.71441166869026 
+            text = "" 
+        intervals [40]:
+            xmin = 110.71441166869026 
+            xmax = 110.99283627329591 
+            text = "音韻の引き伸ばし" 
+        intervals [41]:
+            xmin = 110.99283627329591 
+            xmax = 112.41396185930384 
+            text = "" 
+        intervals [42]:
+            xmin = 112.41396185930384 
+            xmax = 112.646 
+            text = "フィラー" 
+        intervals [43]:
+            xmin = 112.646 
+            xmax = 114.13688831300819 
+            text = "" 
+        intervals [44]:
+            xmin = 114.13688831300819 
+            xmax = 114.52552265693689 
+            text = "音韻の引き伸ばし" 
+        intervals [45]:
+            xmin = 114.52552265693689 
+            xmax = 116.05060933793916 
+            text = "" 
+        intervals [46]:
+            xmin = 116.05060933793916 
+            xmax = 116.44504419446382 
+            text = "音韻の引き伸ばし" 
+        intervals [47]:
+            xmin = 116.44504419446382 
+            xmax = 141.12686598792064 
+            text = "" 
+        intervals [48]:
+            xmin = 141.12686598792064 
+            xmax = 141.6141090459805 
+            text = "語句の繰り返し" 
+        intervals [49]:
+            xmin = 141.6141090459805 
+            xmax = 143.3264178443121 
+            text = "" 
+        intervals [50]:
+            xmin = 143.3264178443121 
+            xmax = 143.974 
+            text = "音韻の引き伸ばし" 
+        intervals [51]:
+            xmin = 143.974 
+            xmax = 146.57430031948854 
+            text = "" 
+        intervals [52]:
+            xmin = 146.57430031948854 
+            xmax = 146.8469244114982 
+            text = "語の中断" 
+        intervals [53]:
+            xmin = 146.8469244114982 
+            xmax = 146.88752799966989 
+            text = "" 
+        intervals [54]:
+            xmin = 146.88752799966989 
+            xmax = 147.461778746669 
+            text = "語句の繰り返し" 
+        intervals [55]:
+            xmin = 147.461778746669 
+            xmax = 151.73599092594932 
+            text = "" 
+        intervals [56]:
+            xmin = 151.73599092594932 
+            xmax = 152.29864064775657 
+            text = "音韻の引き伸ばし" 
+        intervals [57]:
+            xmin = 152.29864064775657 
+            xmax = 178.51130608163464 
+            text = "" 
+        intervals [58]:
+            xmin = 178.51130608163464 
+            xmax = 179.16096349238111 
+            text = "音韻の引き伸ばし" 
+        intervals [59]:
+            xmin = 179.16096349238111 
+            xmax = 204.841 
+            text = "" 
+        intervals [60]:
+            xmin = 204.841 
+            xmax = 205.59627646360383 
+            text = "フィラー" 
+        intervals [61]:
+            xmin = 205.59627646360383 
+            xmax = 208.14595647492084 
+            text = "" 
+        intervals [62]:
+            xmin = 208.14595647492084 
+            xmax = 209.2944579689191 
+            text = "語句の繰り返し" 
+        intervals [63]:
+            xmin = 209.2944579689191 
+            xmax = 212.03461507926013 
+            text = "" 
+        intervals [64]:
+            xmin = 212.03461507926013 
+            xmax = 212.339 
+            text = "音韻の引き伸ばし" 
+        intervals [65]:
+            xmin = 212.339 
+            xmax = 213.09610888431914 
+            text = "" 
+        intervals [66]:
+            xmin = 213.09610888431914 
+            xmax = 213.8 
+            text = "音韻の引き伸ばし" 
+        intervals [67]:
+            xmin = 213.8 
+            xmax = 220.73001899235808 
+            text = "" 
+        intervals [68]:
+            xmin = 220.73001899235808 
+            xmax = 221.468 
+            text = "音韻の引き伸ばし" 
+        intervals [69]:
+            xmin = 221.468 
+            xmax = 227.9361226698483 
+            text = "" 
+        intervals [70]:
+            xmin = 227.9361226698483 
+            xmax = 228.5219744420393 
+            text = "音韻の引き伸ばし" 
+        intervals [71]:
+            xmin = 228.5219744420393 
+            xmax = 244.1197579784695 
+            text = "" 
+        intervals [72]:
+            xmin = 244.1197579784695 
+            xmax = 244.5779984735496 
+            text = "語句の繰り返し" 
+        intervals [73]:
+            xmin = 244.5779984735496 
+            xmax = 273.5488013468198 
+            text = "" 
+        intervals [74]:
+            xmin = 273.5488013468198 
+            xmax = 274.1578551693946 
+            text = "語句の繰り返し" 
+        intervals [75]:
+            xmin = 274.1578551693946 
+            xmax = 274.32607003467723 
+            text = "" 
+        intervals [76]:
+            xmin = 274.32607003467723 
+            xmax = 274.692 
+            text = "語句の繰り返し" 
+        intervals [77]:
+            xmin = 274.692 
+            xmax = 304.188 
+            text = "
+" 
+        intervals [78]:
+            xmin = 304.188 
+            xmax = 304.4447956106824 
+            text = "フィラー" 
+        intervals [79]:
+            xmin = 304.4447956106824 
+            xmax = 324.1453650325925 
+            text = "" 
+        intervals [80]:
+            xmin = 324.1453650325925 
+            xmax = 324.716 
+            text = "音韻の引き伸ばし" 
+        intervals [81]:
+            xmin = 324.716 
+            xmax = 328.4463517161539 
+            text = "" 
+        intervals [82]:
+            xmin = 328.4463517161539 
+            xmax = 329.06700656392064 
+            text = "音韻の引き伸ばし" 
+        intervals [83]:
+            xmin = 329.06700656392064 
+            xmax = 330.18070498234323 
+            text = "" 
+        intervals [84]:
+            xmin = 330.18070498234323 
+            xmax = 330.7027511159788 
+            text = "語句の繰り返し" 
+        intervals [85]:
+            xmin = 330.7027511159788 
+            xmax = 331.5128561397736 
+            text = "" 
+        intervals [86]:
+            xmin = 331.5128561397736 
+            xmax = 332.079 
+            text = "音韻の引き伸ばし" 
+        intervals [87]:
+            xmin = 332.079 
+            xmax = 358.5402695275162 
+            text = "" 
+        intervals [88]:
+            xmin = 358.5402695275162 
+            xmax = 358.98690899740444 
+            text = "音韻の引き伸ばし" 
+        intervals [89]:
+            xmin = 358.98690899740444 
+            xmax = 360.28268091781126 
+            text = "" 
+        intervals [90]:
+            xmin = 360.28268091781126 
+            xmax = 360.908 
+            text = "音韻の引き伸ばし" 
+        intervals [91]:
+            xmin = 360.908 
+            xmax = 362.6978458049887 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "MTKdisfluency" 
+        xmin = 0 
+        xmax = 362.6978458049887 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.111066212456853 
+            text = "" 
+        intervals [2]:
+            xmin = 4.111066212456853 
+            xmax = 4.888334900314254 
+            text = "語句の繰り返し" 
+        intervals [3]:
+            xmin = 4.888334900314254 
+            xmax = 5.584396411828343 
+            text = "" 
+        intervals [4]:
+            xmin = 5.584396411828343 
+            xmax = 6.442872276029053 
+            text = "フィラー" 
+        intervals [5]:
+            xmin = 6.442872276029053 
+            xmax = 12.913465903822015 
+            text = "" 
+        intervals [6]:
+            xmin = 12.913465903822015 
+            xmax = 13.78 
+            text = "音韻の引き伸ばし" 
+        intervals [7]:
+            xmin = 13.78 
+            xmax = 59.47822943628073 
+            text = "" 
+        intervals [8]:
+            xmin = 59.47822943628073 
+            xmax = 60.089 
+            text = "音韻の引き伸ばし" 
+        intervals [9]:
+            xmin = 60.089 
+            xmax = 218.233 
+            text = "" 
+        intervals [10]:
+            xmin = 218.233 
+            xmax = 218.57209764713411 
+            text = "フィラー" 
+        intervals [11]:
+            xmin = 218.57209764713411 
+            xmax = 219.19806132258722 
+            text = "" 
+        intervals [12]:
+            xmin = 219.19806132258722 
+            xmax = 219.93472642227295 
+            text = "音韻の引き伸ばし" 
+        intervals [13]:
+            xmin = 219.93472642227295 
+            xmax = 236.7032736864427 
+            text = "" 
+        intervals [14]:
+            xmin = 236.7032736864427 
+            xmax = 237.42833776093656 
+            text = "音韻の引き伸ばし" 
+        intervals [15]:
+            xmin = 237.42833776093656 
+            xmax = 281.388 
+            text = "" 
+        intervals [16]:
+            xmin = 281.388 
+            xmax = 281.7858776584841 
+            text = "フィラー" 
+        intervals [17]:
+            xmin = 281.7858776584841 
+            xmax = 284.133 
+            text = "" 
+        intervals [18]:
+            xmin = 284.133 
+            xmax = 284.5091249159466 
+            text = "フィラー" 
+        intervals [19]:
+            xmin = 284.5091249159466 
+            xmax = 317.90728106100954 
+            text = "" 
+        intervals [20]:
+            xmin = 317.90728106100954 
+            xmax = 318.56 
+            text = "音韻の引き伸ばし" 
+        intervals [21]:
+            xmin = 318.56 
+            xmax = 350.91483612250505 
+            text = "" 
+        intervals [22]:
+            xmin = 350.91483612250505 
+            xmax = 351.51 
+            text = "音韻の引き伸ばし" 
+        intervals [23]:
+            xmin = 351.51 
+            xmax = 362.6978458049887 
+            text = "" 
